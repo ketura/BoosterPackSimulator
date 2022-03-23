@@ -1,0 +1,91 @@
+﻿
+- Home
+	+ Explain what the app is
+	- Brief explanation of how to use it
+	+ Assure that this is a simulation with no real money
+	+ link to PC webpages
+	+ downloads Json Payload describing all products
+		- blocks links until this is loaded into the browser local storage
+	- Payload
+		- describes each case
+		- describes each booster box
+		- describes each booster
+			- defines set
+			- defines card/rarity count
+			- defines which algorithm to use (movie, shadows, BR, reflections)
+		- describes each card (just an ID to use as a link to find the image)
+		~ All of the above done for:
+			+ FOTR
+			- MOM
+			- ROTEL
+			- TTT
+			- BOHD
+			- EOF
+			- ROTK
+			- SOG
+			- RF
+			- MD
+			- SH
+			- BR
+			- BL
+			- EME
+			- TH
+			- TWC
+			- ROS
+			- T&D
+			- AE
+- Purchase Product
+	- Lists all booster products by set
+		- Starters worth it?
+	- Permits you to "buy" cases, boxes, or individual packs of product
+		- prices are part of the json payload
+- Open Product
+	- Displays how many of each type of box you have "purchased".  
+		- Sealed cases can be opened for X boxes
+		- Sealed boxes can be opened for X boosters
+		- Sealed boosters can be opened as described below for X cards
+	- boxes should reasonably fake randomization until sheets can be mapped
+		- Ensure that rares are never repeated between boosters of the same box
+		- Ensure that no cards are repeated within a given booster
+	- booster requires tearing open (swipe down or mouse drag)
+	- Display cards in a way that requires swipe (or keyboard input/button click) 
+	- Bronze/Silver/Gold outline/shine on a new card being added to a collection
+	- Display noting that this is the "1st" or "2nd" or "524th" copy
+	- Special 
+	- audio:
+		- unwrapping sound
+		- small, unannoying whump for revealing common
+		- medium whump for revealing uncommon
+		- orchestral hit for revealing rare
+		- brief fanfare for revealing common foil
+		- medium fanfare for revealing uncommon foil
+		- over-the-top fanfare for revealing rare foil
+		- fart noise or other failure whomp for revealing no foil
+		- enhanced jingles when a card is new to the collection?
+- View Collection
+	- Show stats of how complete each set is
+	- Show pie and bar charts breaking down completion and doubles
+	- "binder mode" that lets you browse
+	- Total stats of how much money you've "spent" and how much collection : chaff you have
+	- Visual representation of how many binders/boxes are required to show everything off?
+- Settings
+	- booster display order:
+		- Decipher Mode (3 uncommons, 1 rare, 1 common/foil, 6 commons)
+		- Buildup Mode (5 commons, 3 uncommons, 1 rare, 1 common/foil)
+	- flip mode on/off:
+		- when on, cards are revealed face-down and must be tapped to flip and then swipe to dismiss
+		- when off, card are revealed face-up and must be swiped to dismiss
+	- auto mode on/off:
+		- when on, boosters are automatically opened and cards automatically swiped, tho at a somewhat sedate pace
+	- auto mode speed:
+		- when auto mode on, determines whether it goes through "sedate", "quick", or "blazing"
+	- export collection
+		- Downloads a JSON file of the entire collection/history
+	- import collection
+		- Takes a JSON file and overwrites the current progress
+	- delete local collection
+		- after prompting 2 or 3 times for confirmation, shows a box of cards getting put through an industrial shredder
+		- resets local collection to a fresh state
+	- refresh cache
+		- forces a redownload of the JSON product definitions
+

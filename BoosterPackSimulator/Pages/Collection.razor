@@ -1,0 +1,26 @@
+﻿@page "/collection"
+@inject IJSRuntime JSR
+
+<PageTitle>Collection</PageTitle>
+
+<h1>Here you can see all the fake cards you fake collected. </h1>
+
+
+
+@*<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>*@
+
+@code {
+
+    private BrowserStorageAccessor BSA;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        BSA = new(JSR);
+    }
+
+
+
+
+    //protected override async Task OnInitializedAsync() => await Index.CheckData();
+}

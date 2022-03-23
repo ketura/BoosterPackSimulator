@@ -1,0 +1,137 @@
+﻿@page "/"
+@using Newtonsoft.Json
+@using System.Text.Json
+@inject IJSRuntime JSRuntime 
+@inject HttpClient Http
+
+<PageTitle>LotR-TCG Booster Pack Simulator</PageTitle>
+
+<h1>Lord of the Rings TCG Booster Pack Simulator</h1>
+
+<p>Welcome!</p>
+
+<p>This application is for recovering addicts who cannot stay off of the plastic-wrapped cardboard crack otherwise known as Booster Pack openings.</p>
+
+<p>This simulator permits you to "purchase" booster boxes, "open" booster packs, and get all of your ooh-ing and ahh-ing out of your system when you add it to your "collection".  </p>
+
+<p>As much as possible, the booster packs reasonably emulate how booster packs were actually randomized.  If however you have images of uncut sheets of any kind, we would encourage you to reach out to the Player's Council <a href="https://lotrtcgpc.net/discord">on the PC Discord</a> so this randomization process can be made more accurate.</p>
+
+<p>@Status</p>
+
+
+<SurveyPrompt Title="How is Blazor working for you?" />
+
+
+@code {
+    private string Status = "Loading...";
+
+    //Make sure to increment this every time you want everybody to force reload
+    private static DateTime LatestUpdate = DateTime.Parse("2022-03-23");
+
+    private GameDefinition? GameDef = null;
+
+    private List<string> Definitions = new List<string>
+    {
+        "data/set01.json"
+    };
+
+    private BrowserStorageAccessor BSA;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        BSA = new(JSRuntime);
+    }
+
+
+    protected async Task<string> LoadAllDefinitions()
+    {
+        try
+        {
+            //JsonSerializerOptions options = new JsonSerializerOptions()
+            //{
+            //    IncludeFields = true,
+            //    Encoder = new JavaScriptEncoder
+            //}
+            foreach(var filename in Definitions)
+            {
+                var str = await Http.GetStringAsync(filename);
+                var def = JsonConvert.DeserializeObject<GameDefinition>(str);
+                //var def = await Http.GetFromJsonAsync<GameDefinition>(filename, JsonSerializerOptions.);
+                if(def == null)
+                {
+                    return "ERROR loading definition from server!";
+                }
+
+                GameDef.InsertDefinition(def);
+            }
+
+
+            await BSA.SaveBS("GameDefinition", GameDef);
+        }
+        catch(Exception ex)
+        {
+            return $"ERROR processing game definitions!\n\n{ex}";
+        }
+
+        return "Loading Complete";
+    }
+
+    public async Task LoadData()
+    {
+        GameDef = await BSA.ReadBS<GameDefinition>("GameDefinition");
+        if(GameDef == null || GameDef.LastUpdated < LatestUpdate)
+        {
+            GameDef = new GameDefinition();
+            Status = await LoadAllDefinitions();
+        }
+        else
+        {
+            Status = "No new updates!  Game definitions are current.";
+        }
+        //int timeToWait = 5000;
+        //int timeStep = 300;
+        //int time = 0;
+        //int step = 1;
+        //while (true)
+        //{
+        //    //if loading has completed, then update and return
+        //    await Task.Delay(timeStep);
+        //    time += timeStep;
+        //    Status = "Loading";
+        //    for(int i = 0; i < step; i++)
+        //    {
+        //        Status += ".";
+        //    }
+        //    step += 1;
+        //    if (step == 4)
+        //    {
+        //        step = 1;
+        //    }
+        //    StateHasChanged();
+
+        //    if (time >= timeToWait)
+        //        break;
+        //}
+
+        StateHasChanged();
+    }
+
+    public async Task CheckData()
+    {
+        //check if data is outdated, and if so....
+        //set spinner visuals and disable links while loading the definition
+        if (GameDef == null || GameDef.LastUpdated < LatestUpdate)
+        {
+            await LoadData();
+        }
+        //disable the spinner and re-enable the links
+    }
+
+
+
+
+
+    protected override async Task OnInitializedAsync() => await CheckData();
+
+}

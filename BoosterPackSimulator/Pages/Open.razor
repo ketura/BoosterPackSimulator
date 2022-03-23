@@ -1,0 +1,26 @@
+﻿@page "/open"
+@inject IJSRuntime JSR
+
+<PageTitle>Booster Opening</PageTitle>
+
+<h1>Cardboard Addiction Rehab</h1>
+
+
+
+@*<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>*@
+
+@code {
+
+    private BrowserStorageAccessor BSA;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        BSA = new(JSR);
+    }
+
+
+
+
+    //protected override async Task OnInitializedAsync() => await Index.CheckData();
+}
