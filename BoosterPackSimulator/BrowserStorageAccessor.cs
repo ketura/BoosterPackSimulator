@@ -19,6 +19,11 @@ namespace BoosterPackSimulator
             await JS.InvokeVoidAsync("localStorage.setItem", key, JsonConvert.SerializeObject(value));
         }
 
+        public async Task SaveBS(object value)
+        {
+            await SaveBS(value.GetType().Name, value);
+        }
+
         public async Task<bool> HasBS(string key)
         {
             return await ReadBS<object>(key) != null;
@@ -34,6 +39,11 @@ namespace BoosterPackSimulator
             string? json = await JS.InvokeAsync<string>("localStorage.getItem", key);
 
             return JsonConvert.DeserializeObject<T>(json ?? "");
+        }
+
+        public async Task<T?> ReadBS<T>()
+        {
+            return await ReadBS<T>(typeof(T).Name);
         }
 
     }

@@ -4411,9 +4411,15 @@
       "SetNum": 1,
       "BoosterType": "Movie",
       "Count": 12,
+      "Price": 1200,
+      "Filename": "01-case.jpg",
       "DisplayBox": {
         "Count": 36,
+        "Price": 100,
+        "Filename": "01-box.jpg",
         "BoosterDefinition": {
+          "Price": 2.77,
+          "Filename": "01-booster.jpg",
           "RaritySlots": [
             "Uncommon",
             "Uncommon",

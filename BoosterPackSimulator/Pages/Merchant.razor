@@ -1,23 +1,77 @@
 ﻿@page "/merchant"
 @inject IJSRuntime JSR
+@inject NavigationManager NavManager
 
 <PageTitle>Merchant</PageTitle>
 
-<h1>Purchase </h1>
+<h1>Product Merchant</h1>
 
+<p>It wouldn't <i>really</i> be opening fake boosters if you didn't fake buy them with fake money.  Just don't take a fake loan out on your fake house to feed your fake addiction for it, please.  Think of your fake family (no not that one).</p>
 
+@if(game != null)
+{
+    @foreach (var set in game.Sets)
+    {
+        <div>
+        <h2>@set.Name</h2>
 
-@*<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>*@
+        @foreach(var product in game.GetAllNonCardProductForSet(set.SetNum))
+        {
+            <div>
+                <img src="images/@product.Filename">
+                <div>@product.Name.Replace("$SETNAME", set.Name)</div>
+                <button @onclick="() => Purchase(product)">Buy</button>
+                <div>Qty Owned: @collection.OwnedProducts[product.Name]</div>
+                
+            </div>
+        }
+        </div>
+    }
+}
+
+<p>Total Spent: @FormattedTotal</p>
+
 
 @code {
 
     private BrowserStorageAccessor BSA;
 
-    protected override void OnInitialized()
+    protected override async Task OnInitializedAsync()
     {
-        base.OnInitialized();
+
         BSA = new(JSR);
+
+        game = await BSA.ReadBS<GameDefinition>();
+        if(game == null)
+        {
+            NavManager.NavigateTo("/");
+            return;
+        }
+
+        collection = await BSA.ReadBS<CollectionManager>();
+
+        if(collection == null)
+        {
+            collection = new CollectionManager();
+            await BSA.SaveBS(collection);
+        }
+        base.OnInitialized();
     }
+
+    private GameDefinition? game;
+
+    public async Task Purchase(IProduct product)
+    {
+        await collection.PurchaseItem(product);
+        await BSA.SaveBS(collection);
+        StateHasChanged();
+    }
+
+    private float total;
+    public string FormattedTotal => collection?.TotalSpending.ToString("C") ?? "$0";
+    private CollectionManager? collection;
+
+
 
 
 

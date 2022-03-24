@@ -19,14 +19,14 @@
 <p>@Status</p>
 
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+@*<SurveyPrompt Title="How is Blazor working for you?" />*@
 
 
 @code {
     private string Status = "Loading...";
 
     //Make sure to increment this every time you want everybody to force reload
-    private static DateTime LatestUpdate = DateTime.Parse("2022-03-23");
+    private static DateTime LatestUpdate = DateTime.Parse("2022-03-25");
 
     private GameDefinition? GameDef = null;
 
@@ -53,6 +53,8 @@
             //    IncludeFields = true,
             //    Encoder = new JavaScriptEncoder
             //}
+            Http.DefaultRequestHeaders.CacheControl = new System.Net.Http.Headers.CacheControlHeaderValue() { NoCache = true };
+
             foreach(var filename in Definitions)
             {
                 var str = await Http.GetStringAsync(filename);
