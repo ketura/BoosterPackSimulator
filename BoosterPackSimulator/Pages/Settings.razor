@@ -1,13 +1,25 @@
 ﻿@page "/settings"
 @inject IJSRuntime JSR
+@inject HttpClient Http
 
 <PageTitle>Settings</PageTitle>
 
-<h1>Tweak your experience here </h1>
+<h1>Settings</h1>
 
+<div>
+<h2>Delete Local Collection</h2>
 
+WARNING: This will permanently delete all history, including: total "money" spent, total currently purchased product, and currently owned cards.  This is irreversable, and you are starting over once you click this button.
+<button @onclick="DeleteCollection">Permanently Delete Collection</button>
+</div>
 
-@*<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>*@
+<div>
+<h2>Refresh Definition Files</h2>
+
+Clears the local definition files (which define sets, cards, and booster product stats) and reloads from the server.  If you are having issues with outdated info, this will probably fix it.
+<button @onclick="RefreshDefs">Delete and Refresh Definitions</button>
+</div>
+
 
 @code {
 
@@ -15,8 +27,19 @@
 
     protected override void OnInitialized()
     {
+        BSA = new(JSR, Http);
         base.OnInitialized();
-        BSA = new(JSR);
+    }
+
+    public async Task DeleteCollection()
+    {
+        await BSA.SaveBS(new CollectionManager());
+    }
+
+    public async Task RefreshDefs()
+    {
+        await BSA.SaveBS(new GameDefinition());
+        await BSA.LoadGameDefinitions(DateTime.Now);
     }
 
 

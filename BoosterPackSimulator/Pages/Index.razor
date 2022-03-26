@@ -30,93 +30,14 @@
 
     private GameDefinition? GameDef = null;
 
-    private List<string> Definitions = new List<string>
-    {
-        "data/set01.json"
-    };
+
 
     private BrowserStorageAccessor BSA;
 
     protected override void OnInitialized()
     {
         base.OnInitialized();
-        BSA = new(JSRuntime);
-    }
-
-
-    protected async Task<string> LoadAllDefinitions()
-    {
-        try
-        {
-            //JsonSerializerOptions options = new JsonSerializerOptions()
-            //{
-            //    IncludeFields = true,
-            //    Encoder = new JavaScriptEncoder
-            //}
-            Http.DefaultRequestHeaders.CacheControl = new System.Net.Http.Headers.CacheControlHeaderValue() { NoCache = true };
-
-            foreach(var filename in Definitions)
-            {
-                var str = await Http.GetStringAsync(filename);
-                var def = JsonConvert.DeserializeObject<GameDefinition>(str);
-                //var def = await Http.GetFromJsonAsync<GameDefinition>(filename, JsonSerializerOptions.);
-                if(def == null)
-                {
-                    return "ERROR loading definition from server!";
-                }
-
-                GameDef.InsertDefinition(def);
-            }
-
-
-            await BSA.SaveBS("GameDefinition", GameDef);
-        }
-        catch(Exception ex)
-        {
-            return $"ERROR processing game definitions!\n\n{ex}";
-        }
-
-        return "Loading Complete";
-    }
-
-    public async Task LoadData()
-    {
-        GameDef = await BSA.ReadBS<GameDefinition>("GameDefinition");
-        if(GameDef == null || GameDef.LastUpdated < LatestUpdate)
-        {
-            GameDef = new GameDefinition();
-            Status = await LoadAllDefinitions();
-        }
-        else
-        {
-            Status = "No new updates!  Game definitions are current.";
-        }
-        //int timeToWait = 5000;
-        //int timeStep = 300;
-        //int time = 0;
-        //int step = 1;
-        //while (true)
-        //{
-        //    //if loading has completed, then update and return
-        //    await Task.Delay(timeStep);
-        //    time += timeStep;
-        //    Status = "Loading";
-        //    for(int i = 0; i < step; i++)
-        //    {
-        //        Status += ".";
-        //    }
-        //    step += 1;
-        //    if (step == 4)
-        //    {
-        //        step = 1;
-        //    }
-        //    StateHasChanged();
-
-        //    if (time >= timeToWait)
-        //        break;
-        //}
-
-        StateHasChanged();
+        BSA = new(JSRuntime, Http);
     }
 
     public async Task CheckData()
@@ -125,14 +46,13 @@
         //set spinner visuals and disable links while loading the definition
         if (GameDef == null || GameDef.LastUpdated < LatestUpdate)
         {
-            await LoadData();
+            bool result = false;
+            (result, Status, GameDef) = await BSA.LoadGameDefinitions(LatestUpdate);
         }
         //disable the spinner and re-enable the links
+
+        StateHasChanged();
     }
-
-
-
-
 
     protected override async Task OnInitializedAsync() => await CheckData();
 

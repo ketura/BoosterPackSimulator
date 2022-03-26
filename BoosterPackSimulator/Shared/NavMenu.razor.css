@@ -59,4 +59,10 @@
         /* Never collapse the sidebar for wide screens */
         display: block;
     }
+
+    
+}
+
+@media (max-width: 640.98px) {
+    
 }

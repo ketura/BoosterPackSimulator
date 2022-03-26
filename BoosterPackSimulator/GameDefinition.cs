@@ -5,7 +5,7 @@ namespace BoosterPackSimulator
     public class GameDefinition
     {
         public string GameName { get; set; } = "";
-        public DateTime LastUpdated { get; set; }
+        public DateTime LastUpdated { get; set; } = DateTime.MinValue;
 
         public List<SetDefinition> Sets { get; set; } = new List<SetDefinition>();
         public Dictionary<int, DisplayCaseDefinition> CaseDefinitions { get; set; } = new Dictionary<int, DisplayCaseDefinition>();
@@ -40,6 +40,23 @@ namespace BoosterPackSimulator
             };
         }
 
+        public IProduct FindProduct(string name)
+        {
+            foreach(var def in CaseDefinitions.Values)
+            {
+                if (def.Name == name)
+                    return def;
+
+                if (def.DisplayBox.Name == name)
+                    return def.DisplayBox;
+
+                if (def.DisplayBox.BoosterDefinition.Name == name)
+                    return def.DisplayBox.BoosterDefinition;
+            }
+
+            return null;
+        }
+
     }
 
     public enum BoosterType
@@ -60,7 +77,8 @@ namespace BoosterPackSimulator
         public DisplayBoxDefinition DisplayBox { get; set; } = new DisplayBoxDefinition();
         public List<RandomDistribution> RandomInsertions { get; set; } = new List<RandomDistribution>();
 
-        public string Name => $"$SETNAME Booster Case ({Count} ct.)";
+        public string SetName { get; set; }
+        public string Name => $"{SetName} Booster Case ({Count}x Booster Display Boxes)";
         public ProductType ProductType => ProductType.Case;
         public string Filename { get; set; } = "";
         public string Description { get; set; } = "";
@@ -81,7 +99,8 @@ namespace BoosterPackSimulator
         public int Count { get; set; }
         public BoosterDefinition BoosterDefinition { get; set; } = new BoosterDefinition();
 
-        public string Name => $"$SETNAME Booster Display Box ({Count} ct.)";
+        public string SetName { get; set; }
+        public string Name => $"{SetName} Booster Display Box ({Count}x Booster Packs)";
         public ProductType ProductType => ProductType.Box;
         public string Filename { get; set; } = "";
         public string Description { get; set; } = "";
@@ -93,7 +112,8 @@ namespace BoosterPackSimulator
     {
         public List<string> RaritySlots { get; set; } = new List<string>();
 
-        public string Name => $"$SETNAME Loose Booster Pack ({RaritySlots.Count} ct.)";
+        public string SetName { get; set; }
+        public string Name => $"{SetName} Loose Booster Pack ({RaritySlots.Count}x Cards)";
         public ProductType ProductType => ProductType.Booster;
         public string Filename { get; set; } = "";
         public string Description { get; set; } = "";

@@ -1,27 +1,42 @@
 ﻿@page "/merchant"
 @inject IJSRuntime JSR
 @inject NavigationManager NavManager
+@inject HttpClient Http
 
 <PageTitle>Merchant</PageTitle>
 
-<h1>Product Merchant</h1>
+<h1 class="main-header header">Product Merchant</h1>
 
-<p>It wouldn't <i>really</i> be opening fake boosters if you didn't fake buy them with fake money.  Just don't take a fake loan out on your fake house to feed your fake addiction for it, please.  Think of your fake family (no not that one).</p>
+<div >
+    
+
+    <p>It wouldn't <i>really</i> be opening fake boosters if you didn't fake buy them with fake money.  Just don't take a fake loan out on your fake house to feed your fake addiction for it, please.  Think of your fake family (no not that one).</p>
+
+</div>
 
 @if(game != null)
 {
     @foreach (var set in game.Sets)
     {
         <div>
-        <h2>@set.Name</h2>
+        <h2 class="product-header header">@set.Name</h2>
 
         @foreach(var product in game.GetAllNonCardProductForSet(set.SetNum))
         {
             <div>
+                <div>@product.Name</div>
                 <img src="images/@product.Filename">
-                <div>@product.Name.Replace("$SETNAME", set.Name)</div>
                 <button @onclick="() => Purchase(product)">Buy</button>
-                <div>Qty Owned: @collection.OwnedProducts[product.Name]</div>
+                <div>Qty Owned: 
+                    @if(@collection.OwnedProducts.ContainsKey(product.Name))
+                    {
+                        @collection.OwnedProducts[product.Name]
+                    }
+                    else
+                    {
+                        <span>0</span>
+                    }
+                </div>
                 
             </div>
         }
@@ -39,7 +54,7 @@
     protected override async Task OnInitializedAsync()
     {
 
-        BSA = new(JSR);
+        BSA = new(JSR, Http);
 
         game = await BSA.ReadBS<GameDefinition>();
         if(game == null)

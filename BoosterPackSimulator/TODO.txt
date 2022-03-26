@@ -37,8 +37,8 @@
 - Purchase Product
 	- Lists all booster products by set
 		- Starters worth it?
-	- Permits you to "buy" cases, boxes, or individual packs of product
-		- prices are part of the json payload
+	+ Permits you to "buy" cases, boxes, or individual packs of product
+		+ prices are part of the json payload
 - Open Product
 	- Displays how many of each type of box you have "purchased".  
 		- Sealed cases can be opened for X boxes
@@ -83,9 +83,9 @@
 		- Downloads a JSON file of the entire collection/history
 	- import collection
 		- Takes a JSON file and overwrites the current progress
-	- delete local collection
+	~ delete local collection
 		- after prompting 2 or 3 times for confirmation, shows a box of cards getting put through an industrial shredder
-		- resets local collection to a fresh state
+		+ resets local collection to a fresh state
 	- refresh cache
 		- forces a redownload of the JSON product definitions
 
