@@ -22,11 +22,22 @@
             </div>
         }
 
+        @if(!Items.Any(x => x.Value.Quantity > 0))
+        {
+            <i>No products purchased!  Go to the <a href="/merchant">Merchant tab</a> and buy some!</i>
+        }
+
     }
 </div>
 
-<div>
-    <img src="https://wiki.lotrtcgpc.net/images/LOTR-EN02S051.0_card.jpg" />
+<button @onclick="OpenProduct">Open</button>
+
+<div class="card-display">
+
+    @foreach(var card in Cards)
+    {
+        <img src ="@(GameDef.BaseURL + card.Filename)" />
+    }
 </div>
 
 
@@ -47,10 +58,16 @@
 
         Collection = await BSA.ReadOrCreateBS<CollectionManager>();
         GameDef = await BSA.ReadOrCreateBS<GameDefinition>();
+        PackHandler = await BSA.ReadOrCreateBS<PackHandler>();
 
-        foreach(var name in Collection.OwnedProducts.Keys)
+        foreach(var product in GameDef.GetAllNonCardProduct())
         {
-            Items.Add(name, new ProductItemInfo(name, Collection.OwnedProducts[name], GameDef.FindProduct(name).Filename));
+            int quantity = 0;
+            if(Collection.OwnedProducts.ContainsKey(product.Name))
+            {
+                quantity = Collection.OwnedProducts[product.Name];
+            }
+            Items.Add(product.Name, new ProductItemInfo(product.Name, quantity, product.Filename));
         }
 
 
@@ -59,6 +76,7 @@
 
     private CollectionManager Collection;
     private GameDefinition GameDef;
+    private PackHandler PackHandler;
 
     public string? SelectedProduct = null;
 
@@ -80,16 +98,143 @@
 
     private Dictionary<string, ProductItemInfo> Items = new Dictionary<string, ProductItemInfo>();
 
-    public void SelectNewProduct(string productName)
+    private List<CardDefinition> Cards = new List<CardDefinition>();
+
+    public void SelectNewProduct(string? productName)
     {
+
         if(SelectedProduct != null)
         {
             Items[SelectedProduct].Selected = false;
         }
+        if (productName == null)
+            return;
 
         SelectedProduct = productName;
         Items[SelectedProduct].Selected = true;
         StateHasChanged();
+    }
+
+    public async Task OpenProduct()
+    {
+        if(SelectedProduct == null)
+            return;
+        if (!Items.ContainsKey(SelectedProduct))
+            return;
+
+        var product = GameDef.FindProduct(SelectedProduct);
+        if (product == null)
+            return;
+
+
+        switch(product.ProductType)
+        {
+            case ProductType.Case:
+                var Case = product as DisplayCaseDefinition;
+                if (Case == null)
+                    break;
+
+                string boxName = Case.DisplayBox.Name;
+
+                if(!Items.ContainsKey(boxName))
+                {
+                    Items.Add(boxName, new ProductItemInfo(boxName, 0, Case.DisplayBox.Filename));
+                }
+
+                Items[boxName].Quantity += Case.Count;
+
+                Items[SelectedProduct].Quantity -= 1;
+
+                Collection.OwnedProducts[SelectedProduct] = Items[SelectedProduct].Quantity;
+                Collection.OwnedProducts[boxName] = Items[boxName].Quantity;
+
+                break;
+
+            case ProductType.Box:
+                var box = product as DisplayBoxDefinition;
+                if (box == null)
+                    break;
+
+                string packName = box.BoosterDefinition.Name;
+
+                if(!Items.ContainsKey(packName))
+                {
+                    Items.Add(packName, new ProductItemInfo(packName, 0, box.BoosterDefinition.Filename));
+                }
+
+                Items[packName].Quantity += box.Count;
+
+                Items[SelectedProduct].Quantity -= 1;
+
+                Collection.OwnedProducts[SelectedProduct] = Items[SelectedProduct].Quantity;
+                Collection.OwnedProducts[packName] = Items[packName].Quantity;
+
+                break;
+            case ProductType.Booster:
+                var booster = product as BoosterDefinition;
+                if (booster == null)
+                    break;
+
+                Cards.Clear();
+
+                var set = GameDef.Sets.Values.First(x => x.Name == booster.SetName);
+                if (set == null)
+                    break;
+
+                var randomizer = GetOrMakeRandomizer(booster);
+
+                foreach(var card in randomizer.GetNextBooster())
+                {
+                    Cards.Add(card);
+                    Collection.AddCard(card);
+                }
+
+                Items[SelectedProduct].Quantity -= 1;
+
+                Collection.OwnedProducts[SelectedProduct] = Items[SelectedProduct].Quantity;
+
+                break;
+        }
+
+        await BSA.SaveBS(Collection);
+
+        CheckSelected();
+
+        StateHasChanged();
+    }
+
+    private PackRandomizer GetOrMakeRandomizer(BoosterDefinition boosterDef)
+    {
+        if (PackHandler.Randomizers.ContainsKey(boosterDef.Name))
+            return PackHandler.Randomizers[boosterDef.Name];
+
+        var randomizer = new PackRandomizer(GameDef, boosterDef, null);
+        PackHandler.Randomizers.Add(boosterDef.Name, randomizer);
+        BSA.SaveBS(PackHandler);
+        return randomizer;
+    }
+
+    private void CheckSelected()
+    {
+        if(Items[SelectedProduct].Quantity <= 0)
+        {
+            Items[SelectedProduct].Selected = false;
+
+            var candidate = Items.FirstOrDefault(x => x.Key.Substring(0, 7) == x.Key.Substring(0, 7) && x.Value.Quantity > 0);
+            if(default(KeyValuePair<string,ProductItemInfo>).Equals(candidate))
+            {
+                candidate = Items.FirstOrDefault(x => x.Value.Quantity > 0);
+            }
+
+            if(default(KeyValuePair<string,ProductItemInfo>).Equals(candidate))
+            {
+                SelectNewProduct(null);
+            }
+            else
+            {
+                SelectNewProduct(candidate.Key);
+            }
+        }
     }
 
 
@@ -142,8 +287,8 @@
     }
 
     img {
-        max-height: 200px;
-        max-width: 200px; 
+        max-height: 300px;
+        max-width: 300px; 
     }
 
     figure {
@@ -156,6 +301,11 @@
         display: table-row;
         margin: auto;
         vertical-align: bottom;
+    }
+
+    figure.img {
+        max-height: 200px;
+        max-width: 200px; 
     }
 
     figcaption {

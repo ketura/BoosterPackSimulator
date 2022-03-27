@@ -132,12 +132,15 @@ namespace BoosterPackSimulator
 
         private void ProcessGameDefinition(GameDefinition gamedef)
         {
-            foreach(var set in gamedef.Sets)
+            foreach(var set in gamedef.Sets.Values)
             {
                 var Case = gamedef.CaseDefinitions[set.SetNum];
                 Case.SetName = set.Name;
+                Case.SetNum = set.SetNum;
                 Case.DisplayBox.SetName = set.Name;
+                Case.DisplayBox.SetNum = set.SetNum;
                 Case.DisplayBox.BoosterDefinition.SetName = set.Name;
+                Case.DisplayBox.BoosterDefinition.SetNum = set.SetNum;
             }
         }
 

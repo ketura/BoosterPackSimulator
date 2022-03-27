@@ -37,5 +37,14 @@
                     break;
             }
         }
+
+        public void AddCard(CardDefinition card)
+        {
+            if(!OwnedCards.ContainsKey(card.Name))
+            {
+                OwnedCards.Add(card.Name, 0);
+            }
+            OwnedCards[card.Name] += 1;
+        }
     }
 }

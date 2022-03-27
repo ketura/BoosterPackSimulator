@@ -1,13 +1,16 @@
 ﻿
 
+using static System.Net.WebRequestMethods;
+
 namespace BoosterPackSimulator
 {
     public class GameDefinition
     {
         public string GameName { get; set; } = "";
         public DateTime LastUpdated { get; set; } = DateTime.MinValue;
+        public string BaseURL { get; set; } = "https://wiki.lotrtcgpc.net/images/";
 
-        public List<SetDefinition> Sets { get; set; } = new List<SetDefinition>();
+        public Dictionary<int, SetDefinition> Sets { get; set; } = new Dictionary<int, SetDefinition>();
         public Dictionary<int, DisplayCaseDefinition> CaseDefinitions { get; set; } = new Dictionary<int, DisplayCaseDefinition>();
 
         public void InsertDefinition(GameDefinition other)
@@ -17,7 +20,11 @@ namespace BoosterPackSimulator
                 LastUpdated = other.LastUpdated;
             }
 
-            Sets.AddRange(other.Sets);
+            foreach(var pair in other.Sets)
+            {
+                this.Sets.Add(pair.Key, pair.Value);
+            }
+
             foreach(var def in other.CaseDefinitions)
             {
                 CaseDefinitions.Add(def.Key, def.Value);
@@ -26,18 +33,32 @@ namespace BoosterPackSimulator
 
         public IEnumerable<IProduct> GetAllNonCardProductForSet(int setNum)
         {
-            var set = Sets.FirstOrDefault(x => x.SetNum == setNum);
-            if (set == null)
+            if (!Sets.ContainsKey(setNum))
                 return new List<IProduct>();
+
+            var set = Sets[setNum];
 
             var c = CaseDefinitions[set.SetNum];
 
-            return new List<IProduct>() 
+            return new List<IProduct>()
             {
                 c,
                 c.DisplayBox,
                 c.DisplayBox.BoosterDefinition,
             };
+        }
+
+        public IEnumerable<IProduct> GetAllNonCardProduct()
+        {
+            List<IProduct> products = new List<IProduct>();
+            foreach(var Case in CaseDefinitions.Values)
+            {
+                products.Add(Case);
+                products.Add(Case.DisplayBox);
+                products.Add(Case.DisplayBox.BoosterDefinition);
+            }
+
+            return products;
         }
 
         public IProduct FindProduct(string name)
@@ -72,11 +93,10 @@ namespace BoosterPackSimulator
     public class DisplayCaseDefinition : IProduct
     {
         public int SetNum { get; set; }
-        public BoosterType BoosterType { get; set; }
+        
         public int Count { get; set; }
         public DisplayBoxDefinition DisplayBox { get; set; } = new DisplayBoxDefinition();
-        public List<RandomDistribution> RandomInsertions { get; set; } = new List<RandomDistribution>();
-
+        
         public string SetName { get; set; }
         public string Name => $"{SetName} Booster Case ({Count}x Booster Display Boxes)";
         public ProductType ProductType => ProductType.Case;
@@ -99,6 +119,7 @@ namespace BoosterPackSimulator
         public int Count { get; set; }
         public BoosterDefinition BoosterDefinition { get; set; } = new BoosterDefinition();
 
+        public int SetNum { get; set; }
         public string SetName { get; set; }
         public string Name => $"{SetName} Booster Display Box ({Count}x Booster Packs)";
         public ProductType ProductType => ProductType.Box;
@@ -112,13 +133,17 @@ namespace BoosterPackSimulator
     {
         public List<string> RaritySlots { get; set; } = new List<string>();
 
+        public int SetNum { get; set; }
         public string SetName { get; set; }
         public string Name => $"{SetName} Loose Booster Pack ({RaritySlots.Count}x Cards)";
         public ProductType ProductType => ProductType.Booster;
+        public BoosterType BoosterType { get; set; }
         public string Filename { get; set; } = "";
         public string Description { get; set; } = "";
         public float Price { get; set; }
         public List<IProduct> Products { get; set; } = new List<IProduct>();
+        public List<RandomDistribution> RandomInsertions { get; set; } = new List<RandomDistribution>();
+
     }
 
     public class CardDefinition : IProduct

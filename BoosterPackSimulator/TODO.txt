@@ -40,13 +40,15 @@
 	+ Permits you to "buy" cases, boxes, or individual packs of product
 		+ prices are part of the json payload
 - Open Product
-	- Displays how many of each type of box you have "purchased".  
-		- Sealed cases can be opened for X boxes
-		- Sealed boxes can be opened for X boosters
-		- Sealed boosters can be opened as described below for X cards
-	- boxes should reasonably fake randomization until sheets can be mapped
-		- Ensure that rares are never repeated between boosters of the same box
-		- Ensure that no cards are repeated within a given booster
+	+ Displays how many of each type of box you have "purchased". 
+	+ Each product can be selected 
+	+ Each selected item can be opened
+		+ Sealed cases can be opened for X boxes
+		+ Sealed boxes can be opened for X boosters
+		+ Sealed boosters can be opened as described below for X cards
+	+ boxes should reasonably fake randomization until sheets can be mapped
+		x Ensure that rares are never repeated between boosters of the same box
+		+ Ensure that no cards are repeated within a given booster
 	- booster requires tearing open (swipe down or mouse drag)
 	- Display cards in a way that requires swipe (or keyboard input/button click) 
 	- Bronze/Silver/Gold outline/shine on a new card being added to a collection
@@ -86,6 +88,6 @@
 	~ delete local collection
 		- after prompting 2 or 3 times for confirmation, shows a box of cards getting put through an industrial shredder
 		+ resets local collection to a fresh state
-	- refresh cache
-		- forces a redownload of the JSON product definitions
+	+ refresh cache
+		+ forces a redownload of the JSON product definitions
 

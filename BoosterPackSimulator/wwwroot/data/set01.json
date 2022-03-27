@@ -1,8 +1,9 @@
 {
   "GameName": "The Lord of the Rings Trading Card Game",
   "LastUpdated": "2022-03-23T02:30:12Z",
-  "Sets": [
-    {
+
+  "Sets": {
+    "1": {
       "Name": "The Fellowship of the Ring",
       "SetNum": 1,
       "CardPools": {
@@ -1461,30 +1462,6 @@
             "CollInfo": "1C362",
             "Variant": "S",
             "Filename": "LOTR-EN01S362.0_card.jpg"
-          },
-          {
-            "Name": "Gandalf, The Grey Wizard",
-            "CollInfo": "1P364",
-            "Variant": "F",
-            "Filename": "LOTR-EN01F364.0_card.jpg"
-          },
-          {
-            "Name": "Aragorn, King in Exile",
-            "CollInfo": "1P365",
-            "Variant": "F",
-            "Filename": "LOTR-EN01F365.0_card.jpg"
-          },
-          {
-            "Name": "Gandalf, The Grey Wizard",
-            "CollInfo": "1P364",
-            "Variant": "S",
-            "Filename": "LOTR-EN01S364.0_card.jpg"
-          },
-          {
-            "Name": "Aragorn, King in Exile",
-            "CollInfo": "1P365",
-            "Variant": "S",
-            "Filename": "LOTR-EN01S365.0_card.jpg"
           }
         ],
 
@@ -3672,6 +3649,18 @@
             "CollInfo": "1U363",
             "Variant": "F",
             "Filename": "LOTR-EN01F363.0_card.jpg"
+          },
+          {
+            "Name": "Gandalf, The Grey Wizard",
+            "CollInfo": "1P364",
+            "Variant": "F",
+            "Filename": "LOTR-EN01F364.0_card.jpg"
+          },
+          {
+            "Name": "Aragorn, King in Exile",
+            "CollInfo": "1P365",
+            "Variant": "F",
+            "Filename": "LOTR-EN01F365.0_card.jpg"
           }
         ],
 
@@ -4405,11 +4394,10 @@
         ]
       }
     }
-  ],
+  },
   "CaseDefinitions": {
     "1": {
       "SetNum": 1,
-      "BoosterType": "Movie",
       "Count": 12,
       "Price": 1200,
       "Filename": "01-case.jpg",
@@ -4418,6 +4406,7 @@
         "Price": 100,
         "Filename": "01-box.jpg",
         "BoosterDefinition": {
+          "BoosterType": "Movie",
           "Price": 2.77,
           "Filename": "01-booster.jpg",
           "RaritySlots": [
@@ -4432,29 +4421,29 @@
             "Common",
             "Common",
             "Common"
+          ],
+          "RandomInsertions": [
+            {
+              "PoolName": "Common Foil",
+              "Period": 13,
+              "PoolReplaceName": "Common",
+              "PoolReplaceIndex": 1
+            },
+            {
+              "PoolName": "Uncommon Foil",
+              "Period": 18,
+              "PoolReplaceName": "Common",
+              "PoolReplaceIndex": 2
+            },
+            {
+              "PoolName": "Rare Foil",
+              "Period": 26,
+              "PoolReplaceName": "Common",
+              "PoolReplaceIndex": 3
+            }
           ]
         }
-      },
-      "RandomInsertions": [
-        {
-          "PoolName": "Common Foil",
-          "Period": 13,
-          "PoolReplaceName": "Common",
-          "PoolReplaceIndex": 1
-        },
-        {
-          "PoolName": "Uncommon Foil",
-          "Period": 18,
-          "PoolReplaceName": "Common",
-          "PoolReplaceIndex": 2
-        },
-        {
-          "PoolName": "Rare Foil",
-          "Period": 26,
-          "PoolReplaceName": "Common",
-          "PoolReplaceIndex": 3
-        }
-      ]
+      }
     }
   }
 }
