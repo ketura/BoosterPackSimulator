@@ -1,5 +1,8 @@
 ﻿
 
+using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
+
 using static System.Net.WebRequestMethods;
 
 namespace BoosterPackSimulator
@@ -99,6 +102,7 @@ namespace BoosterPackSimulator
         
         public string SetName { get; set; }
         public string Name => $"{SetName} Booster Case ({Count}x Booster Display Boxes)";
+        [JsonConverter(typeof(StringEnumConverter))] 
         public ProductType ProductType => ProductType.Case;
         public string Filename { get; set; } = "";
         public string Description { get; set; } = "";
@@ -122,6 +126,7 @@ namespace BoosterPackSimulator
         public int SetNum { get; set; }
         public string SetName { get; set; }
         public string Name => $"{SetName} Booster Display Box ({Count}x Booster Packs)";
+        [JsonConverter(typeof(StringEnumConverter))] 
         public ProductType ProductType => ProductType.Box;
         public string Filename { get; set; } = "";
         public string Description { get; set; } = "";
@@ -136,7 +141,9 @@ namespace BoosterPackSimulator
         public int SetNum { get; set; }
         public string SetName { get; set; }
         public string Name => $"{SetName} Loose Booster Pack ({RaritySlots.Count}x Cards)";
+        [JsonConverter(typeof(StringEnumConverter))]
         public ProductType ProductType => ProductType.Booster;
+        [JsonConverter(typeof(StringEnumConverter))]
         public BoosterType BoosterType { get; set; }
         public string Filename { get; set; } = "";
         public string Description { get; set; } = "";
@@ -149,10 +156,12 @@ namespace BoosterPackSimulator
     public class CardDefinition : IProduct
     {
         public string Name { get; set; } = "";
+        [JsonConverter(typeof(StringEnumConverter))]
         public ProductType ProductType => ProductType.Card;
         public string CollInfo { get; set; } = "";
         public string Variant { get; set; } = "";
         public string Filename { get; set; } = "";
+        public bool Horiz { get; set; } = false;
 
         public string Description => $"{Name} ({CollInfo}) [{GetFullVariant(Variant)}]";
         public float Price { get; set; }

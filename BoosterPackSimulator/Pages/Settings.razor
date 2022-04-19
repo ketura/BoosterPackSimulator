@@ -40,6 +40,7 @@ Clears the local definition files (which define sets, cards, and booster product
     {
         await BSA.SaveBS(new GameDefinition());
         await BSA.LoadGameDefinitions(DateTime.Now);
+        await BSA.SaveBS(new PackHandler());
     }
 
 

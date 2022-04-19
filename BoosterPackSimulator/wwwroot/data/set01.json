@@ -12,727 +12,862 @@
             "Name": "The One Ring, The Ruling Ring",
             "CollInfo": "1C2",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F002.0_card.jpg"
           },
           {
             "Name": "Axe Strike",
             "CollInfo": "1C3",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F003.0_card.jpg"
           },
           {
             "Name": "Battle Fury",
             "CollInfo": "1C4",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F004.0_card.jpg"
           },
           {
             "Name": "Cleaving Blow",
             "CollInfo": "1C5",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F005.0_card.jpg"
           },
           {
             "Name": "Delving",
             "CollInfo": "1C6",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F006.0_card.jpg"
           },
           {
             "Name": "Dwarf Guard",
             "CollInfo": "1C7",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F007.0_card.jpg"
           },
           {
             "Name": "Dwarven Armor",
             "CollInfo": "1C8",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F008.0_card.jpg"
           },
           {
             "Name": "Dwarven Axe",
             "CollInfo": "1C9",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F009.0_card.jpg"
           },
           {
             "Name": "Dwarven Heart",
             "CollInfo": "1C10",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F010.0_card.jpg"
           },
           {
             "Name": "Farin, Dwarven Emissary",
             "CollInfo": "1C11",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F011.0_card.jpg"
           },
           {
             "Name": "Halls of My Home",
             "CollInfo": "1C18",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F018.0_card.jpg"
           },
           {
             "Name": "Here Lies Balin, Son of Fundin",
             "CollInfo": "1C19",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F019.0_card.jpg"
           },
           {
             "Name": "Let Them Come!",
             "CollInfo": "1C20",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F020.0_card.jpg"
           },
           {
             "Name": "Lord of Moria",
             "CollInfo": "1C21",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F021.0_card.jpg"
           },
           {
             "Name": "Stairs of Khazad-dûm",
             "CollInfo": "1C24",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F024.0_card.jpg"
           },
           {
             "Name": "Still Draws Breath",
             "CollInfo": "1C25",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F025.0_card.jpg"
           },
           {
             "Name": "Their Halls of Stone",
             "CollInfo": "1C26",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F026.0_card.jpg"
           },
           {
             "Name": "Border Defenses",
             "CollInfo": "1C32",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F032.0_card.jpg"
           },
           {
             "Name": "Defiance",
             "CollInfo": "1C37",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F037.0_card.jpg"
           },
           {
             "Name": "Elf-song",
             "CollInfo": "1C39",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F039.0_card.jpg"
           },
           {
             "Name": "Elven Bow",
             "CollInfo": "1C41",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F041.0_card.jpg"
           },
           {
             "Name": "Elven Cloak",
             "CollInfo": "1C42",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F042.0_card.jpg"
           },
           {
             "Name": "Far-seeing Eyes",
             "CollInfo": "1C43",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F043.0_card.jpg"
           },
           {
             "Name": "Lightfootedness",
             "CollInfo": "1C52",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F052.0_card.jpg"
           },
           {
             "Name": "Lórien Elf",
             "CollInfo": "1C53",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F053.0_card.jpg"
           },
           {
             "Name": "The Seen and the Unseen",
             "CollInfo": "1C58",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F058.0_card.jpg"
           },
           {
             "Name": "Shoulder to Shoulder",
             "CollInfo": "1C59",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F059.0_card.jpg"
           },
           {
             "Name": "Songs of the Blessed Realm",
             "CollInfo": "1C61",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F061.0_card.jpg"
           },
           {
-            "Name": "Uruviel, Maid of Lórien",
+            "Name": "Uruviel, Maid of Lorien",
             "CollInfo": "1C67",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F067.0_card.jpg"
           },
           {
             "Name": "The White Arrows of Lórien",
             "CollInfo": "1C68",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F068.0_card.jpg"
           },
           {
             "Name": "Intimidate",
             "CollInfo": "1C76",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F076.0_card.jpg"
           },
           {
             "Name": "Mysterious Wizard",
             "CollInfo": "1C78",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F078.0_card.jpg"
           },
           {
             "Name": "Risk a Little Light",
             "CollInfo": "1C82",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F082.0_card.jpg"
           },
           {
-            "Name": "Sleep, Caradhras, Caradhras",
+            "Name": "Sleep, Caradhras",
             "CollInfo": "1C84",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F084.0_card.jpg"
           },
           {
             "Name": "Strength of Spirit",
             "CollInfo": "1C85",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F085.0_card.jpg"
           },
           {
             "Name": "Treachery Deeper Than You Know",
             "CollInfo": "1C86",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F086.0_card.jpg"
           },
           {
             "Name": "Armor",
             "CollInfo": "1C92",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F092.0_card.jpg"
           },
           {
             "Name": "Coat of Mail",
             "CollInfo": "1C101",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F101.0_card.jpg"
           },
           {
             "Name": "Dagger Strike",
             "CollInfo": "1C102",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F102.0_card.jpg"
           },
           {
             "Name": "Elendil's Valor",
             "CollInfo": "1C103",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F103.0_card.jpg"
           },
           {
             "Name": "Eregion's Trails",
             "CollInfo": "1C104",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F104.0_card.jpg"
           },
           {
             "Name": "Gondor's Vengeance",
             "CollInfo": "1C106",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F106.0_card.jpg"
           },
           {
             "Name": "Great Shield",
             "CollInfo": "1C107",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F107.0_card.jpg"
           },
           {
             "Name": "Pathfinder",
             "CollInfo": "1C110",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F110.0_card.jpg"
           },
           {
             "Name": "Swordarm of the White Tower",
             "CollInfo": "1C116",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F116.0_card.jpg"
           },
           {
             "Name": "Swordsman of the Northern Kingdom",
             "CollInfo": "1C117",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F117.0_card.jpg"
           },
           {
             "Name": "What Are They?",
             "CollInfo": "1C119",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F119.0_card.jpg"
           },
           {
             "Name": "Bred for Battle",
             "CollInfo": "1C121",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F121.0_card.jpg"
           },
           {
             "Name": "Breeding Pit",
             "CollInfo": "1C122",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F122.0_card.jpg"
           },
           {
             "Name": "Saruman's Ambition",
             "CollInfo": "1C133",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F133.0_card.jpg"
           },
           {
             "Name": "Saruman's Chill",
             "CollInfo": "1C134",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F134.0_card.jpg"
           },
           {
             "Name": "Saruman's Snows",
             "CollInfo": "1C138",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F138.0_card.jpg"
           },
           {
             "Name": "Their Arrows Enrage",
             "CollInfo": "1C141",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F141.0_card.jpg"
           },
           {
             "Name": "Uruk Bloodlust",
             "CollInfo": "1C144",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F144.0_card.jpg"
           },
           {
             "Name": "Uruk Brood",
             "CollInfo": "1C145",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F145.0_card.jpg"
           },
           {
             "Name": "Uruk Fighter",
             "CollInfo": "1C146",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F146.0_card.jpg"
           },
           {
             "Name": "Uruk Messenger",
             "CollInfo": "1C149",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F149.0_card.jpg"
           },
           {
             "Name": "Uruk Rager",
             "CollInfo": "1C150",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F150.0_card.jpg"
           },
           {
             "Name": "Uruk Savage",
             "CollInfo": "1C151",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F151.0_card.jpg"
           },
           {
             "Name": "Uruk Shaman",
             "CollInfo": "1C152",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F152.0_card.jpg"
           },
           {
             "Name": "Uruk Soldier",
             "CollInfo": "1C154",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F154.0_card.jpg"
           },
           {
             "Name": "Uruk Warrior",
             "CollInfo": "1C156",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F156.0_card.jpg"
           },
           {
             "Name": "Uruk-hai Armory",
             "CollInfo": "1C157",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F157.0_card.jpg"
           },
           {
             "Name": "Uruk-hai Raiding Party",
             "CollInfo": "1C158",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F158.0_card.jpg"
           },
           {
             "Name": "Uruk-hai Sword",
             "CollInfo": "1C160",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F160.0_card.jpg"
           },
           {
             "Name": "Drums in the Deep",
             "CollInfo": "1C168",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F168.0_card.jpg"
           },
           {
             "Name": "Frenzy",
             "CollInfo": "1C171",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F171.0_card.jpg"
           },
           {
             "Name": "Goblin Backstabber",
             "CollInfo": "1C174",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F174.0_card.jpg"
           },
           {
             "Name": "Goblin Marksman",
             "CollInfo": "1C176",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F176.0_card.jpg"
           },
           {
             "Name": "Goblin Patrol Troop",
             "CollInfo": "1C177",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F177.0_card.jpg"
           },
           {
             "Name": "Goblin Scavengers",
             "CollInfo": "1C179",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F179.0_card.jpg"
           },
           {
             "Name": "Goblin Scimitar",
             "CollInfo": "1C180",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F180.0_card.jpg"
           },
           {
             "Name": "Goblin Spear",
             "CollInfo": "1C182",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F182.0_card.jpg"
           },
           {
             "Name": "Goblin Wallcrawler",
             "CollInfo": "1C184",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F184.0_card.jpg"
           },
           {
             "Name": "Goblin Warrior",
             "CollInfo": "1C185",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F185.0_card.jpg"
           },
           {
             "Name": "Host of Thousands",
             "CollInfo": "1C187",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F187.0_card.jpg"
           },
           {
             "Name": "Moria Scout",
             "CollInfo": "1C191",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F191.0_card.jpg"
           },
           {
             "Name": "Pinned Down",
             "CollInfo": "1C192",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F192.0_card.jpg"
           },
           {
             "Name": "Plundered Armories",
             "CollInfo": "1C193",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F193.0_card.jpg"
           },
           {
             "Name": "They Are Coming",
             "CollInfo": "1C196",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F196.0_card.jpg"
           },
           {
             "Name": "Threat of the Unknown",
             "CollInfo": "1C197",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F197.0_card.jpg"
           },
           {
             "Name": "Unfamiliar Territory",
             "CollInfo": "1C201",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F201.0_card.jpg"
           },
           {
             "Name": "Forces of Mordor",
             "CollInfo": "1C248",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F248.0_card.jpg"
           },
           {
             "Name": "Mordor's Strength",
             "CollInfo": "1C255",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F255.0_card.jpg"
           },
           {
             "Name": "Orc Ambusher",
             "CollInfo": "1C261",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F261.0_card.jpg"
           },
           {
             "Name": "Orc Chieftain",
             "CollInfo": "1C266",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F266.0_card.jpg"
           },
           {
             "Name": "Orc Inquisitor",
             "CollInfo": "1C268",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F268.0_card.jpg"
           },
           {
             "Name": "Orc Scimitar",
             "CollInfo": "1C269",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F269.0_card.jpg"
           },
           {
             "Name": "Orc Soldier",
             "CollInfo": "1C271",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F271.0_card.jpg"
           },
           {
             "Name": "The Ring's Oppression",
             "CollInfo": "1C273",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F273.0_card.jpg"
           },
           {
             "Name": "Shadow's Reach",
             "CollInfo": "1C277",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F277.0_card.jpg"
           },
           {
             "Name": "Strength Born of Fear",
             "CollInfo": "1C278",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F278.0_card.jpg"
           },
           {
             "Name": "Under the Watching Eye",
             "CollInfo": "1C281",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F281.0_card.jpg"
           },
           {
             "Name": "You Bring Great Evil",
             "CollInfo": "1C283",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F283.0_card.jpg"
           },
           {
             "Name": "Bounder",
             "CollInfo": "1C286",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F286.0_card.jpg"
           },
           {
             "Name": "Extraordinary Resilience",
             "CollInfo": "1C287",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F287.0_card.jpg"
           },
           {
             "Name": "Frodo, Son of Drogo",
             "CollInfo": "1C290",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F290.0_card.jpg"
           },
           {
             "Name": "Hobbit Appetite",
             "CollInfo": "1C294",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F294.0_card.jpg"
           },
           {
             "Name": "Hobbit Farmer",
             "CollInfo": "1C295",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F295.0_card.jpg"
           },
           {
             "Name": "Hobbit Intuition",
             "CollInfo": "1C296",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F296.0_card.jpg"
           },
           {
             "Name": "Hobbit Party Guest",
             "CollInfo": "1C297",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F297.0_card.jpg"
           },
           {
             "Name": "Hobbit Stealth",
             "CollInfo": "1C298",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F298.0_card.jpg"
           },
           {
             "Name": "Hobbit Sword",
             "CollInfo": "1C299",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F299.0_card.jpg"
           },
           {
             "Name": "Longbottom Leaf",
             "CollInfo": "1C300",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F300.0_card.jpg"
           },
           {
             "Name": "Merry, From O'er the Brandywine",
             "CollInfo": "1C303",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F303.0_card.jpg"
           },
           {
             "Name": "Noble Intentions",
             "CollInfo": "1C304",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F304.0_card.jpg"
           },
           {
             "Name": "Old Toby",
             "CollInfo": "1C305",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F305.0_card.jpg"
           },
           {
             "Name": "Pippin, Friend to Frodo",
             "CollInfo": "1C306",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F306.0_card.jpg"
           },
           {
             "Name": "Sam, Son of Hamfast",
             "CollInfo": "1C311",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F311.0_card.jpg"
           },
           {
             "Name": "Sorry About Everything",
             "CollInfo": "1C312",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F312.0_card.jpg"
           },
           {
             "Name": "Stout and Sturdy",
             "CollInfo": "1C315",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F315.0_card.jpg"
           },
           {
             "Name": "There and Back Again",
             "CollInfo": "1C317",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F317.0_card.jpg"
           },
           {
             "Name": "Westfarthing",
             "CollInfo": "1C326",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F326.0_card.jpg"
           },
           {
             "Name": "Ettenmoors",
             "CollInfo": "1C331",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F331.0_card.jpg"
           },
           {
             "Name": "Council Courtyard",
             "CollInfo": "1C337",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F337.0_card.jpg"
           },
           {
             "Name": "Moria Lake",
             "CollInfo": "1C346",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F346.0_card.jpg"
           },
           {
             "Name": "The Bridge of Khazad-dûm",
             "CollInfo": "1C349",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F349.0_card.jpg"
           },
           {
             "Name": "Galadriel's Glade",
             "CollInfo": "1C351",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F351.0_card.jpg"
           },
           {
             "Name": "Anduin Wilderland",
             "CollInfo": "1C354",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F354.0_card.jpg"
           },
           {
             "Name": "Anduin Banks",
             "CollInfo": "1C356",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F356.0_card.jpg"
           },
           {
             "Name": "Summit of Amon Hen",
             "CollInfo": "1C362",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F362.0_card.jpg"
+          },
+          {
+            "Name": "Gandalf, The Grey Wizard",
+            "CollInfo": "1P364",
+            "Variant": "F",
+            "Horiz": false,
+            "Filename": "LOTR-EN01F364.0_card.jpg"
+          },
+          {
+            "Name": "Aragorn, King in Exile",
+            "CollInfo": "1P365",
+            "Variant": "F",
+            "Horiz": false,
+            "Filename": "LOTR-EN01F365.0_card.jpg"
           }
         ],
 
@@ -741,727 +876,862 @@
             "Name": "The One Ring, The Ruling Ring",
             "CollInfo": "1C2",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S002.0_card.jpg"
           },
           {
             "Name": "Axe Strike",
             "CollInfo": "1C3",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S003.0_card.jpg"
           },
           {
             "Name": "Battle Fury",
             "CollInfo": "1C4",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S004.0_card.jpg"
           },
           {
             "Name": "Cleaving Blow",
             "CollInfo": "1C5",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S005.0_card.jpg"
           },
           {
             "Name": "Delving",
             "CollInfo": "1C6",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S006.0_card.jpg"
           },
           {
             "Name": "Dwarf Guard",
             "CollInfo": "1C7",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S007.0_card.jpg"
           },
           {
             "Name": "Dwarven Armor",
             "CollInfo": "1C8",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S008.0_card.jpg"
           },
           {
             "Name": "Dwarven Axe",
             "CollInfo": "1C9",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S009.0_card.jpg"
           },
           {
             "Name": "Dwarven Heart",
             "CollInfo": "1C10",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S010.0_card.jpg"
           },
           {
             "Name": "Farin, Dwarven Emissary",
             "CollInfo": "1C11",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S011.0_card.jpg"
           },
           {
             "Name": "Halls of My Home",
             "CollInfo": "1C18",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S018.0_card.jpg"
           },
           {
             "Name": "Here Lies Balin, Son of Fundin",
             "CollInfo": "1C19",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S019.0_card.jpg"
           },
           {
             "Name": "Let Them Come!",
             "CollInfo": "1C20",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S020.0_card.jpg"
           },
           {
             "Name": "Lord of Moria",
             "CollInfo": "1C21",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S021.0_card.jpg"
           },
           {
             "Name": "Stairs of Khazad-dûm",
             "CollInfo": "1C24",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S024.0_card.jpg"
           },
           {
             "Name": "Still Draws Breath",
             "CollInfo": "1C25",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S025.0_card.jpg"
           },
           {
             "Name": "Their Halls of Stone",
             "CollInfo": "1C26",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S026.0_card.jpg"
           },
           {
             "Name": "Border Defenses",
             "CollInfo": "1C32",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S032.0_card.jpg"
           },
           {
             "Name": "Defiance",
             "CollInfo": "1C37",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S037.0_card.jpg"
           },
           {
             "Name": "Elf-song",
             "CollInfo": "1C39",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S039.0_card.jpg"
           },
           {
             "Name": "Elven Bow",
             "CollInfo": "1C41",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S041.0_card.jpg"
           },
           {
             "Name": "Elven Cloak",
             "CollInfo": "1C42",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S042.0_card.jpg"
           },
           {
             "Name": "Far-seeing Eyes",
             "CollInfo": "1C43",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S043.0_card.jpg"
           },
           {
             "Name": "Lightfootedness",
             "CollInfo": "1C52",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S052.0_card.jpg"
           },
           {
             "Name": "Lórien Elf",
             "CollInfo": "1C53",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S053.0_card.jpg"
           },
           {
             "Name": "The Seen and the Unseen",
             "CollInfo": "1C58",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S058.0_card.jpg"
           },
           {
             "Name": "Shoulder to Shoulder",
             "CollInfo": "1C59",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S059.0_card.jpg"
           },
           {
             "Name": "Songs of the Blessed Realm",
             "CollInfo": "1C61",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S061.0_card.jpg"
           },
           {
-            "Name": "Uruviel, Maid of Lórien",
+            "Name": "Uruviel, Maid of Lorien",
             "CollInfo": "1C67",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S067.0_card.jpg"
           },
           {
             "Name": "The White Arrows of Lórien",
             "CollInfo": "1C68",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S068.0_card.jpg"
           },
           {
             "Name": "Intimidate",
             "CollInfo": "1C76",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S076.0_card.jpg"
           },
           {
             "Name": "Mysterious Wizard",
             "CollInfo": "1C78",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S078.0_card.jpg"
           },
           {
             "Name": "Risk a Little Light",
             "CollInfo": "1C82",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S082.0_card.jpg"
           },
           {
-            "Name": "Sleep, Caradhras, Caradhras",
+            "Name": "Sleep, Caradhras",
             "CollInfo": "1C84",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S084.0_card.jpg"
           },
           {
             "Name": "Strength of Spirit",
             "CollInfo": "1C85",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S085.0_card.jpg"
           },
           {
             "Name": "Treachery Deeper Than You Know",
             "CollInfo": "1C86",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S086.0_card.jpg"
           },
           {
             "Name": "Armor",
             "CollInfo": "1C92",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S092.0_card.jpg"
           },
           {
             "Name": "Coat of Mail",
             "CollInfo": "1C101",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S101.0_card.jpg"
           },
           {
             "Name": "Dagger Strike",
             "CollInfo": "1C102",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S102.0_card.jpg"
           },
           {
             "Name": "Elendil's Valor",
             "CollInfo": "1C103",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S103.0_card.jpg"
           },
           {
             "Name": "Eregion's Trails",
             "CollInfo": "1C104",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S104.0_card.jpg"
           },
           {
             "Name": "Gondor's Vengeance",
             "CollInfo": "1C106",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S106.0_card.jpg"
           },
           {
             "Name": "Great Shield",
             "CollInfo": "1C107",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S107.0_card.jpg"
           },
           {
             "Name": "Pathfinder",
             "CollInfo": "1C110",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S110.0_card.jpg"
           },
           {
             "Name": "Swordarm of the White Tower",
             "CollInfo": "1C116",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S116.0_card.jpg"
           },
           {
             "Name": "Swordsman of the Northern Kingdom",
             "CollInfo": "1C117",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S117.0_card.jpg"
           },
           {
             "Name": "What Are They?",
             "CollInfo": "1C119",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S119.0_card.jpg"
           },
           {
             "Name": "Bred for Battle",
             "CollInfo": "1C121",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S121.0_card.jpg"
           },
           {
             "Name": "Breeding Pit",
             "CollInfo": "1C122",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S122.0_card.jpg"
           },
           {
             "Name": "Saruman's Ambition",
             "CollInfo": "1C133",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S133.0_card.jpg"
           },
           {
             "Name": "Saruman's Chill",
             "CollInfo": "1C134",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S134.0_card.jpg"
           },
           {
             "Name": "Saruman's Snows",
             "CollInfo": "1C138",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S138.0_card.jpg"
           },
           {
             "Name": "Their Arrows Enrage",
             "CollInfo": "1C141",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S141.0_card.jpg"
           },
           {
             "Name": "Uruk Bloodlust",
             "CollInfo": "1C144",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S144.0_card.jpg"
           },
           {
             "Name": "Uruk Brood",
             "CollInfo": "1C145",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S145.0_card.jpg"
           },
           {
             "Name": "Uruk Fighter",
             "CollInfo": "1C146",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S146.0_card.jpg"
           },
           {
             "Name": "Uruk Messenger",
             "CollInfo": "1C149",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S149.0_card.jpg"
           },
           {
             "Name": "Uruk Rager",
             "CollInfo": "1C150",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S150.0_card.jpg"
           },
           {
             "Name": "Uruk Savage",
             "CollInfo": "1C151",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S151.0_card.jpg"
           },
           {
             "Name": "Uruk Shaman",
             "CollInfo": "1C152",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S152.0_card.jpg"
           },
           {
             "Name": "Uruk Soldier",
             "CollInfo": "1C154",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S154.0_card.jpg"
           },
           {
             "Name": "Uruk Warrior",
             "CollInfo": "1C156",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S156.0_card.jpg"
           },
           {
             "Name": "Uruk-hai Armory",
             "CollInfo": "1C157",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S157.0_card.jpg"
           },
           {
             "Name": "Uruk-hai Raiding Party",
             "CollInfo": "1C158",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S158.0_card.jpg"
           },
           {
             "Name": "Uruk-hai Sword",
             "CollInfo": "1C160",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S160.0_card.jpg"
           },
           {
             "Name": "Drums in the Deep",
             "CollInfo": "1C168",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S168.0_card.jpg"
           },
           {
             "Name": "Frenzy",
             "CollInfo": "1C171",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S171.0_card.jpg"
           },
           {
             "Name": "Goblin Backstabber",
             "CollInfo": "1C174",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S174.0_card.jpg"
           },
           {
             "Name": "Goblin Marksman",
             "CollInfo": "1C176",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S176.0_card.jpg"
           },
           {
             "Name": "Goblin Patrol Troop",
             "CollInfo": "1C177",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S177.0_card.jpg"
           },
           {
             "Name": "Goblin Scavengers",
             "CollInfo": "1C179",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S179.0_card.jpg"
           },
           {
             "Name": "Goblin Scimitar",
             "CollInfo": "1C180",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S180.0_card.jpg"
           },
           {
             "Name": "Goblin Spear",
             "CollInfo": "1C182",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S182.0_card.jpg"
           },
           {
             "Name": "Goblin Wallcrawler",
             "CollInfo": "1C184",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S184.0_card.jpg"
           },
           {
             "Name": "Goblin Warrior",
             "CollInfo": "1C185",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S185.0_card.jpg"
           },
           {
             "Name": "Host of Thousands",
             "CollInfo": "1C187",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S187.0_card.jpg"
           },
           {
             "Name": "Moria Scout",
             "CollInfo": "1C191",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S191.0_card.jpg"
           },
           {
             "Name": "Pinned Down",
             "CollInfo": "1C192",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S192.0_card.jpg"
           },
           {
             "Name": "Plundered Armories",
             "CollInfo": "1C193",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S193.0_card.jpg"
           },
           {
             "Name": "They Are Coming",
             "CollInfo": "1C196",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S196.0_card.jpg"
           },
           {
             "Name": "Threat of the Unknown",
             "CollInfo": "1C197",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S197.0_card.jpg"
           },
           {
             "Name": "Unfamiliar Territory",
             "CollInfo": "1C201",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S201.0_card.jpg"
           },
           {
             "Name": "Forces of Mordor",
             "CollInfo": "1C248",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S248.0_card.jpg"
           },
           {
             "Name": "Mordor's Strength",
             "CollInfo": "1C255",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S255.0_card.jpg"
           },
           {
             "Name": "Orc Ambusher",
             "CollInfo": "1C261",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S261.0_card.jpg"
           },
           {
             "Name": "Orc Chieftain",
             "CollInfo": "1C266",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S266.0_card.jpg"
           },
           {
             "Name": "Orc Inquisitor",
             "CollInfo": "1C268",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S268.0_card.jpg"
           },
           {
             "Name": "Orc Scimitar",
             "CollInfo": "1C269",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S269.0_card.jpg"
           },
           {
             "Name": "Orc Soldier",
             "CollInfo": "1C271",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S271.0_card.jpg"
           },
           {
             "Name": "The Ring's Oppression",
             "CollInfo": "1C273",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S273.0_card.jpg"
           },
           {
             "Name": "Shadow's Reach",
             "CollInfo": "1C277",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S277.0_card.jpg"
           },
           {
             "Name": "Strength Born of Fear",
             "CollInfo": "1C278",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S278.0_card.jpg"
           },
           {
             "Name": "Under the Watching Eye",
             "CollInfo": "1C281",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S281.0_card.jpg"
           },
           {
             "Name": "You Bring Great Evil",
             "CollInfo": "1C283",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S283.0_card.jpg"
           },
           {
             "Name": "Bounder",
             "CollInfo": "1C286",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S286.0_card.jpg"
           },
           {
             "Name": "Extraordinary Resilience",
             "CollInfo": "1C287",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S287.0_card.jpg"
           },
           {
             "Name": "Frodo, Son of Drogo",
             "CollInfo": "1C290",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S290.0_card.jpg"
           },
           {
             "Name": "Hobbit Appetite",
             "CollInfo": "1C294",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S294.0_card.jpg"
           },
           {
             "Name": "Hobbit Farmer",
             "CollInfo": "1C295",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S295.0_card.jpg"
           },
           {
             "Name": "Hobbit Intuition",
             "CollInfo": "1C296",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S296.0_card.jpg"
           },
           {
             "Name": "Hobbit Party Guest",
             "CollInfo": "1C297",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S297.0_card.jpg"
           },
           {
             "Name": "Hobbit Stealth",
             "CollInfo": "1C298",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S298.0_card.jpg"
           },
           {
             "Name": "Hobbit Sword",
             "CollInfo": "1C299",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S299.0_card.jpg"
           },
           {
             "Name": "Longbottom Leaf",
             "CollInfo": "1C300",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S300.0_card.jpg"
           },
           {
             "Name": "Merry, From O'er the Brandywine",
             "CollInfo": "1C303",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S303.0_card.jpg"
           },
           {
             "Name": "Noble Intentions",
             "CollInfo": "1C304",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S304.0_card.jpg"
           },
           {
             "Name": "Old Toby",
             "CollInfo": "1C305",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S305.0_card.jpg"
           },
           {
             "Name": "Pippin, Friend to Frodo",
             "CollInfo": "1C306",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S306.0_card.jpg"
           },
           {
             "Name": "Sam, Son of Hamfast",
             "CollInfo": "1C311",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S311.0_card.jpg"
           },
           {
             "Name": "Sorry About Everything",
             "CollInfo": "1C312",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S312.0_card.jpg"
           },
           {
             "Name": "Stout and Sturdy",
             "CollInfo": "1C315",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S315.0_card.jpg"
           },
           {
             "Name": "There and Back Again",
             "CollInfo": "1C317",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S317.0_card.jpg"
           },
           {
             "Name": "Westfarthing",
             "CollInfo": "1C326",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S326.0_card.jpg"
           },
           {
             "Name": "Ettenmoors",
             "CollInfo": "1C331",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S331.0_card.jpg"
           },
           {
             "Name": "Council Courtyard",
             "CollInfo": "1C337",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S337.0_card.jpg"
           },
           {
             "Name": "Moria Lake",
             "CollInfo": "1C346",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S346.0_card.jpg"
           },
           {
             "Name": "The Bridge of Khazad-dûm",
             "CollInfo": "1C349",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S349.0_card.jpg"
           },
           {
             "Name": "Galadriel's Glade",
             "CollInfo": "1C351",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S351.0_card.jpg"
           },
           {
             "Name": "Anduin Wilderland",
             "CollInfo": "1C354",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S354.0_card.jpg"
           },
           {
             "Name": "Anduin Banks",
             "CollInfo": "1C356",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S356.0_card.jpg"
           },
           {
             "Name": "Summit of Amon Hen",
             "CollInfo": "1C362",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S362.0_card.jpg"
+          },
+          {
+            "Name": "Gandalf, The Grey Wizard",
+            "CollInfo": "1P364",
+            "Variant": "S",
+            "Horiz": false,
+            "Filename": "LOTR-EN01S364.0_card.jpg"
+          },
+          {
+            "Name": "Aragorn, King in Exile",
+            "CollInfo": "1P365",
+            "Variant": "S",
+            "Horiz": false,
+            "Filename": "LOTR-EN01S365.0_card.jpg"
           }
         ],
 
@@ -1470,726 +1740,847 @@
             "Name": "The One Ring, Isildur's Bane",
             "CollInfo": "1R1",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F001.0_card.jpg"
           },
           {
             "Name": "Gimli, Son of Gloin",
             "CollInfo": "1R13",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F013.0_card.jpg"
           },
           {
             "Name": "Gimli's Battle Axe",
             "CollInfo": "1R14",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F014.0_card.jpg"
           },
           {
             "Name": "Gimli's Helm",
             "CollInfo": "1R15",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F015.0_card.jpg"
           },
           {
             "Name": "Greatest Kingdom of My People",
             "CollInfo": "1R16",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F016.0_card.jpg"
           },
           {
             "Name": "Mithril Shaft",
             "CollInfo": "1R22",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F022.0_card.jpg"
           },
           {
             "Name": "Nobody Tosses a Dwarf",
             "CollInfo": "1R23",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F023.0_card.jpg"
           },
           {
             "Name": "Wealth of Moria",
             "CollInfo": "1R28",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F028.0_card.jpg"
           },
           {
             "Name": "Arwen, Daughter of Elrond",
             "CollInfo": "1R30",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F030.0_card.jpg"
           },
           {
             "Name": "Bow of the Galadhrim",
             "CollInfo": "1R33",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F033.0_card.jpg"
           },
           {
             "Name": "Celeborn, Lord of Lorien",
             "CollInfo": "1R34",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F034.0_card.jpg"
           },
           {
             "Name": "The Council of Elrond",
             "CollInfo": "1R35",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F035.0_card.jpg"
           },
           {
             "Name": "Curse Their Foul Feet!",
             "CollInfo": "1R36",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F036.0_card.jpg"
           },
           {
             "Name": "Double Shot",
             "CollInfo": "1R38",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F038.0_card.jpg"
           },
           {
             "Name": "Elrond, Lord of Rivendell",
             "CollInfo": "1R40",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F040.0_card.jpg"
           },
           {
             "Name": "Galadriel, Lady of Light",
             "CollInfo": "1R45",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F045.0_card.jpg"
           },
           {
             "Name": "Gwemegil",
             "CollInfo": "1R47",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F047.0_card.jpg"
           },
           {
             "Name": "The Last Alliance of Elves and Men",
             "CollInfo": "1R49",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F049.0_card.jpg"
           },
           {
             "Name": "Legolas, Greenleaf",
             "CollInfo": "1R50",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F050.0_card.jpg"
           },
           {
             "Name": "The Mirror of Galadriel",
             "CollInfo": "1R55",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F055.0_card.jpg"
           },
           {
             "Name": "The Splendor of Their Banners",
             "CollInfo": "1R62",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F062.0_card.jpg"
           },
           {
             "Name": "The Tale of Gil-galad",
             "CollInfo": "1R66",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F066.0_card.jpg"
           },
           {
             "Name": "Albert Dreary, Entertainer From Bree",
             "CollInfo": "1R69",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F069.0_card.jpg"
           },
           {
-            "Name": "Durin's Secret",
+            "Name": "Durin’s Secret",
             "CollInfo": "1R71",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F071.0_card.jpg"
           },
           {
             "Name": "Gandalf, Friend of the Shirefolk",
             "CollInfo": "1R72",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F072.0_card.jpg"
           },
           {
             "Name": "Glamdring",
             "CollInfo": "1R75",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F075.0_card.jpg"
           },
           {
             "Name": "The Nine Walkers",
             "CollInfo": "1R79",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F079.0_card.jpg"
           },
           {
             "Name": "Ottar, Man of Laketown",
             "CollInfo": "1R80",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F080.0_card.jpg"
           },
           {
             "Name": "Questions That Need Answering",
             "CollInfo": "1R81",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F081.0_card.jpg"
           },
           {
             "Name": "Servant of the Secret Fire",
             "CollInfo": "1R83",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F083.0_card.jpg"
           },
           {
             "Name": "A Wizard Is Never Late",
             "CollInfo": "1R87",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F087.0_card.jpg"
           },
           {
             "Name": "An Able Guide",
             "CollInfo": "1R88",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F088.0_card.jpg"
           },
           {
             "Name": "Aragorn, Ranger of the North",
             "CollInfo": "1R89",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F089.0_card.jpg"
           },
           {
-            "Name": "Aragorn's Bow",
+            "Name": "Aragorn’s Bow",
             "CollInfo": "1R90",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F090.0_card.jpg"
           },
           {
             "Name": "Arwen's Fate",
             "CollInfo": "1R93",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F093.0_card.jpg"
           },
           {
             "Name": "Blade of Gondor",
             "CollInfo": "1R95",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F095.0_card.jpg"
           },
           {
             "Name": "Boromir, Lord of Gondor",
             "CollInfo": "1R96",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F096.0_card.jpg"
           },
           {
             "Name": "Change of Plans",
             "CollInfo": "1R99",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F099.0_card.jpg"
           },
           {
             "Name": "The Choice of Lúthien",
             "CollInfo": "1R100",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F100.0_card.jpg"
           },
           {
             "Name": "Pursuit Just Behind",
             "CollInfo": "1R111",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F111.0_card.jpg"
           },
           {
             "Name": "The Saga of Elendil",
             "CollInfo": "1R114",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F114.0_card.jpg"
           },
           {
             "Name": "Strength of Kings",
             "CollInfo": "1R115",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F115.0_card.jpg"
           },
           {
             "Name": "Valiant Man of the West",
             "CollInfo": "1R118",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F118.0_card.jpg"
           },
           {
             "Name": "Alive and Unspoiled",
             "CollInfo": "1R120",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F120.0_card.jpg"
           },
           {
             "Name": "Caradhras Has Not Forgiven Us",
             "CollInfo": "1R123",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F123.0_card.jpg"
           },
           {
             "Name": "Cruel Caradhras",
             "CollInfo": "1R124",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F124.0_card.jpg"
           },
           {
             "Name": "Greed",
             "CollInfo": "1R125",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F125.0_card.jpg"
           },
           {
             "Name": "Lurtz, Servant of Isengard",
             "CollInfo": "1R127",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F127.0_card.jpg"
           },
           {
             "Name": "Lurtz's Battle Cry",
             "CollInfo": "1R128",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F128.0_card.jpg"
           },
           {
             "Name": "The Misadventure of Mr. Underhill",
             "CollInfo": "1R129",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F129.0_card.jpg"
           },
           {
             "Name": "Orthanc Assassin",
             "CollInfo": "1R131",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F131.0_card.jpg"
           },
           {
             "Name": "Parry",
             "CollInfo": "1R132",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F132.0_card.jpg"
           },
           {
             "Name": "Saruman's Reach",
             "CollInfo": "1R137",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F137.0_card.jpg"
           },
           {
             "Name": "Savagery to Match Their Numbers",
             "CollInfo": "1R139",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F139.0_card.jpg"
           },
           {
             "Name": "Spies of Saruman",
             "CollInfo": "1R140",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F140.0_card.jpg"
           },
           {
             "Name": "Troop of Uruk-hai",
             "CollInfo": "1R143",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F143.0_card.jpg"
           },
           {
             "Name": "Uruk Guard",
             "CollInfo": "1R147",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F147.0_card.jpg"
           },
           {
             "Name": "Uruk Lieutenant",
             "CollInfo": "1R148",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F148.0_card.jpg"
           },
           {
             "Name": "Uruk Spy",
             "CollInfo": "1R155",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F155.0_card.jpg"
           },
           {
             "Name": "Ancient Chieftain",
             "CollInfo": "1R163",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F163.0_card.jpg"
           },
           {
             "Name": "Cave Troll of Moria, Scourge of the Black Pit",
             "CollInfo": "1R165",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F165.0_card.jpg"
           },
           {
             "Name": "Cave Troll's Hammer",
             "CollInfo": "1R166",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F166.0_card.jpg"
           },
           {
             "Name": "Denizens Enraged",
             "CollInfo": "1R167",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F167.0_card.jpg"
           },
           {
             "Name": "The End Comes",
             "CollInfo": "1R169",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F169.0_card.jpg"
           },
           {
             "Name": "Fool of a Took!",
             "CollInfo": "1R170",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F170.0_card.jpg"
           },
           {
             "Name": "Goblin Archer",
             "CollInfo": "1R172",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F172.0_card.jpg"
           },
           {
             "Name": "Goblin Armory",
             "CollInfo": "1R173",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F173.0_card.jpg"
           },
           {
             "Name": "Goblin Domain",
             "CollInfo": "1R175",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F175.0_card.jpg"
           },
           {
             "Name": "Goblin Swarms",
             "CollInfo": "1R183",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F183.0_card.jpg"
           },
           {
             "Name": "Guard Commander",
             "CollInfo": "1R186",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F186.0_card.jpg"
           },
           {
             "Name": "Lost to the Goblins",
             "CollInfo": "1R189",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F189.0_card.jpg"
           },
           {
             "Name": "Moria Axe",
             "CollInfo": "1R190",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F190.0_card.jpg"
           },
           {
             "Name": "Relics of Moria",
             "CollInfo": "1R195",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F195.0_card.jpg"
           },
           {
-            "Name": "Troll's Keyward",
+            "Name": "Troll’s Keyward",
             "CollInfo": "1R199",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F199.0_card.jpg"
           },
           {
             "Name": "The Underdeeps of Moria",
             "CollInfo": "1R200",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F200.0_card.jpg"
           },
           {
             "Name": "All Veils Removed",
             "CollInfo": "1R204",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F204.0_card.jpg"
           },
           {
             "Name": "Beauty Is Fading",
             "CollInfo": "1R205",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F205.0_card.jpg"
           },
           {
             "Name": "Bent on Discovery",
             "CollInfo": "1R206",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F206.0_card.jpg"
           },
           {
             "Name": "Black Steed",
             "CollInfo": "1R208",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F208.0_card.jpg"
           },
           {
             "Name": "Dark Whispers",
             "CollInfo": "1R210",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F210.0_card.jpg"
           },
           {
             "Name": "Fear",
             "CollInfo": "1R212",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F212.0_card.jpg"
           },
           {
             "Name": "In the Ringwraith's Wake",
             "CollInfo": "1R214",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F214.0_card.jpg"
           },
           {
             "Name": "Morgul Blade",
             "CollInfo": "1R216",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F216.0_card.jpg"
           },
           {
             "Name": "Morgul Gates",
             "CollInfo": "1R217",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F217.0_card.jpg"
           },
           {
             "Name": "The Pale Blade",
             "CollInfo": "1R221",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F221.0_card.jpg"
           },
           {
             "Name": "Return to Its Master",
             "CollInfo": "1R224",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F224.0_card.jpg"
           },
           {
             "Name": "The Twilight World",
             "CollInfo": "1R228",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F228.0_card.jpg"
           },
           {
             "Name": "Úlairë Attëa, Keeper of Dol Guldur",
             "CollInfo": "1R229",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F229.0_card.jpg"
           },
           {
             "Name": "Úlairë Cantëa, Lieutenant of Dol Guldur",
             "CollInfo": "1R230",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F230.0_card.jpg"
           },
           {
             "Name": "Úlairë Toldëa, Messenger of Morgul",
             "CollInfo": "1R236",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F236.0_card.jpg"
           },
           {
             "Name": "The Witch-king, Lord of Angmar",
             "CollInfo": "1R237",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F237.0_card.jpg"
           },
           {
             "Name": "Band of the Eye",
             "CollInfo": "1R240",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F240.0_card.jpg"
           },
           {
             "Name": "Despair",
             "CollInfo": "1R243",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F243.0_card.jpg"
           },
           {
             "Name": "Desperate Defense of the Ring",
             "CollInfo": "1R244",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F244.0_card.jpg"
           },
           {
             "Name": "Desperate Measures",
             "CollInfo": "1R245",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F245.0_card.jpg"
           },
           {
             "Name": "Enduring Evil",
             "CollInfo": "1R246",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F246.0_card.jpg"
           },
           {
             "Name": "Enheartened Foe",
             "CollInfo": "1R247",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F247.0_card.jpg"
           },
           {
             "Name": "Hate",
             "CollInfo": "1R250",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F250.0_card.jpg"
           },
           {
             "Name": "The Irresistible Shadow",
             "CollInfo": "1R252",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F252.0_card.jpg"
           },
           {
             "Name": "Journey Into Danger",
             "CollInfo": "1R253",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F253.0_card.jpg"
           },
           {
             "Name": "Mordor Enraged",
             "CollInfo": "1R254",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F254.0_card.jpg"
           },
           {
             "Name": "Morgul Hunter",
             "CollInfo": "1R256",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F256.0_card.jpg"
           },
           {
             "Name": "Morgul Warden",
             "CollInfo": "1R259",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F259.0_card.jpg"
           },
           {
             "Name": "Orc Banner",
             "CollInfo": "1R263",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F263.0_card.jpg"
           },
           {
             "Name": "Orc Bowmen",
             "CollInfo": "1R264",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F264.0_card.jpg"
           },
           {
             "Name": "Orc Butchery",
             "CollInfo": "1R265",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F265.0_card.jpg"
           },
           {
             "Name": "Orc War Band",
             "CollInfo": "1R272",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F272.0_card.jpg"
           },
           {
             "Name": "Seeking Its Master",
             "CollInfo": "1R276",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F276.0_card.jpg"
           },
           {
             "Name": "Thin and Stretched",
             "CollInfo": "1R279",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F279.0_card.jpg"
           },
           {
             "Name": "The Weight of a Legacy",
             "CollInfo": "1R282",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F282.0_card.jpg"
           },
           {
             "Name": "Bilbo, Retired Adventurer",
             "CollInfo": "1R284",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F284.0_card.jpg"
           },
           {
             "Name": "Farmer Maggot, Chaser of Rascals",
             "CollInfo": "1R288",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F288.0_card.jpg"
           },
           {
             "Name": "Frodo, Old Bilbo's Heir",
             "CollInfo": "1R289",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F289.0_card.jpg"
           },
           {
             "Name": "The Gaffer, Sam's Father",
             "CollInfo": "1R291",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F291.0_card.jpg"
           },
           {
             "Name": "Merry, Friend to Sam",
             "CollInfo": "1R302",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F302.0_card.jpg"
           },
           {
             "Name": "Pippin, Hobbit of Some Intelligence",
             "CollInfo": "1R307",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F307.0_card.jpg"
           },
           {
             "Name": "Power According to His Stature",
             "CollInfo": "1R308",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F308.0_card.jpg"
           },
           {
             "Name": "Sam, Faithful Companion",
             "CollInfo": "1R310",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F310.0_card.jpg"
           },
           {
             "Name": "Sting",
             "CollInfo": "1R313",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F313.0_card.jpg"
           },
           {
             "Name": "Stone Trolls",
             "CollInfo": "1R314",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F314.0_card.jpg"
           },
           {
             "Name": "Thrór's Map",
             "CollInfo": "1R318",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F318.0_card.jpg"
           }
         ],
@@ -2199,726 +2590,847 @@
             "Name": "The One Ring, Isildur's Bane",
             "CollInfo": "1R1",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S001.0_card.jpg"
           },
           {
             "Name": "Gimli, Son of Gloin",
             "CollInfo": "1R13",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S013.0_card.jpg"
           },
           {
             "Name": "Gimli's Battle Axe",
             "CollInfo": "1R14",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S014.0_card.jpg"
           },
           {
             "Name": "Gimli's Helm",
             "CollInfo": "1R15",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S015.0_card.jpg"
           },
           {
             "Name": "Greatest Kingdom of My People",
             "CollInfo": "1R16",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S016.0_card.jpg"
           },
           {
             "Name": "Mithril Shaft",
             "CollInfo": "1R22",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S022.0_card.jpg"
           },
           {
             "Name": "Nobody Tosses a Dwarf",
             "CollInfo": "1R23",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S023.0_card.jpg"
           },
           {
             "Name": "Wealth of Moria",
             "CollInfo": "1R28",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S028.0_card.jpg"
           },
           {
             "Name": "Arwen, Daughter of Elrond",
             "CollInfo": "1R30",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S030.0_card.jpg"
           },
           {
             "Name": "Bow of the Galadhrim",
             "CollInfo": "1R33",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S033.0_card.jpg"
           },
           {
             "Name": "Celeborn, Lord of Lorien",
             "CollInfo": "1R34",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S034.0_card.jpg"
           },
           {
             "Name": "The Council of Elrond",
             "CollInfo": "1R35",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S035.0_card.jpg"
           },
           {
             "Name": "Curse Their Foul Feet!",
             "CollInfo": "1R36",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S036.0_card.jpg"
           },
           {
             "Name": "Double Shot",
             "CollInfo": "1R38",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S038.0_card.jpg"
           },
           {
             "Name": "Elrond, Lord of Rivendell",
             "CollInfo": "1R40",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S040.0_card.jpg"
           },
           {
             "Name": "Galadriel, Lady of Light",
             "CollInfo": "1R45",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S045.0_card.jpg"
           },
           {
             "Name": "Gwemegil",
             "CollInfo": "1R47",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S047.0_card.jpg"
           },
           {
             "Name": "The Last Alliance of Elves and Men",
             "CollInfo": "1R49",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S049.0_card.jpg"
           },
           {
             "Name": "Legolas, Greenleaf",
             "CollInfo": "1R50",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S050.0_card.jpg"
           },
           {
             "Name": "The Mirror of Galadriel",
             "CollInfo": "1R55",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S055.0_card.jpg"
           },
           {
             "Name": "The Splendor of Their Banners",
             "CollInfo": "1R62",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S062.0_card.jpg"
           },
           {
             "Name": "The Tale of Gil-galad",
             "CollInfo": "1R66",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S066.0_card.jpg"
           },
           {
             "Name": "Albert Dreary, Entertainer From Bree",
             "CollInfo": "1R69",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S069.0_card.jpg"
           },
           {
-            "Name": "Durin's Secret",
+            "Name": "Durin’s Secret",
             "CollInfo": "1R71",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S071.0_card.jpg"
           },
           {
             "Name": "Gandalf, Friend of the Shirefolk",
             "CollInfo": "1R72",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S072.0_card.jpg"
           },
           {
             "Name": "Glamdring",
             "CollInfo": "1R75",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S075.0_card.jpg"
           },
           {
             "Name": "The Nine Walkers",
             "CollInfo": "1R79",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S079.0_card.jpg"
           },
           {
             "Name": "Ottar, Man of Laketown",
             "CollInfo": "1R80",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S080.0_card.jpg"
           },
           {
             "Name": "Questions That Need Answering",
             "CollInfo": "1R81",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S081.0_card.jpg"
           },
           {
             "Name": "Servant of the Secret Fire",
             "CollInfo": "1R83",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S083.0_card.jpg"
           },
           {
             "Name": "A Wizard Is Never Late",
             "CollInfo": "1R87",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S087.0_card.jpg"
           },
           {
             "Name": "An Able Guide",
             "CollInfo": "1R88",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S088.0_card.jpg"
           },
           {
             "Name": "Aragorn, Ranger of the North",
             "CollInfo": "1R89",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S089.0_card.jpg"
           },
           {
-            "Name": "Aragorn's Bow",
+            "Name": "Aragorn’s Bow",
             "CollInfo": "1R90",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S090.0_card.jpg"
           },
           {
             "Name": "Arwen's Fate",
             "CollInfo": "1R93",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S093.0_card.jpg"
           },
           {
             "Name": "Blade of Gondor",
             "CollInfo": "1R95",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S095.0_card.jpg"
           },
           {
             "Name": "Boromir, Lord of Gondor",
             "CollInfo": "1R96",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S096.0_card.jpg"
           },
           {
             "Name": "Change of Plans",
             "CollInfo": "1R99",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S099.0_card.jpg"
           },
           {
             "Name": "The Choice of Lúthien",
             "CollInfo": "1R100",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S100.0_card.jpg"
           },
           {
             "Name": "Pursuit Just Behind",
             "CollInfo": "1R111",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S111.0_card.jpg"
           },
           {
             "Name": "The Saga of Elendil",
             "CollInfo": "1R114",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S114.0_card.jpg"
           },
           {
             "Name": "Strength of Kings",
             "CollInfo": "1R115",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S115.0_card.jpg"
           },
           {
             "Name": "Valiant Man of the West",
             "CollInfo": "1R118",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S118.0_card.jpg"
           },
           {
             "Name": "Alive and Unspoiled",
             "CollInfo": "1R120",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S120.0_card.jpg"
           },
           {
             "Name": "Caradhras Has Not Forgiven Us",
             "CollInfo": "1R123",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S123.0_card.jpg"
           },
           {
             "Name": "Cruel Caradhras",
             "CollInfo": "1R124",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S124.0_card.jpg"
           },
           {
             "Name": "Greed",
             "CollInfo": "1R125",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S125.0_card.jpg"
           },
           {
             "Name": "Lurtz, Servant of Isengard",
             "CollInfo": "1R127",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S127.0_card.jpg"
           },
           {
             "Name": "Lurtz's Battle Cry",
             "CollInfo": "1R128",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S128.0_card.jpg"
           },
           {
             "Name": "The Misadventure of Mr. Underhill",
             "CollInfo": "1R129",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S129.0_card.jpg"
           },
           {
             "Name": "Orthanc Assassin",
             "CollInfo": "1R131",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S131.0_card.jpg"
           },
           {
             "Name": "Parry",
             "CollInfo": "1R132",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S132.0_card.jpg"
           },
           {
             "Name": "Saruman's Reach",
             "CollInfo": "1R137",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S137.0_card.jpg"
           },
           {
             "Name": "Savagery to Match Their Numbers",
             "CollInfo": "1R139",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S139.0_card.jpg"
           },
           {
             "Name": "Spies of Saruman",
             "CollInfo": "1R140",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S140.0_card.jpg"
           },
           {
             "Name": "Troop of Uruk-hai",
             "CollInfo": "1R143",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S143.0_card.jpg"
           },
           {
             "Name": "Uruk Guard",
             "CollInfo": "1R147",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S147.0_card.jpg"
           },
           {
             "Name": "Uruk Lieutenant",
             "CollInfo": "1R148",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S148.0_card.jpg"
           },
           {
             "Name": "Uruk Spy",
             "CollInfo": "1R155",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S155.0_card.jpg"
           },
           {
             "Name": "Ancient Chieftain",
             "CollInfo": "1R163",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S163.0_card.jpg"
           },
           {
             "Name": "Cave Troll of Moria, Scourge of the Black Pit",
             "CollInfo": "1R165",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S165.0_card.jpg"
           },
           {
             "Name": "Cave Troll's Hammer",
             "CollInfo": "1R166",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S166.0_card.jpg"
           },
           {
             "Name": "Denizens Enraged",
             "CollInfo": "1R167",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S167.0_card.jpg"
           },
           {
             "Name": "The End Comes",
             "CollInfo": "1R169",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S169.0_card.jpg"
           },
           {
             "Name": "Fool of a Took!",
             "CollInfo": "1R170",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S170.0_card.jpg"
           },
           {
             "Name": "Goblin Archer",
             "CollInfo": "1R172",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S172.0_card.jpg"
           },
           {
             "Name": "Goblin Armory",
             "CollInfo": "1R173",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S173.0_card.jpg"
           },
           {
             "Name": "Goblin Domain",
             "CollInfo": "1R175",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S175.0_card.jpg"
           },
           {
             "Name": "Goblin Swarms",
             "CollInfo": "1R183",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S183.0_card.jpg"
           },
           {
             "Name": "Guard Commander",
             "CollInfo": "1R186",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S186.0_card.jpg"
           },
           {
             "Name": "Lost to the Goblins",
             "CollInfo": "1R189",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S189.0_card.jpg"
           },
           {
             "Name": "Moria Axe",
             "CollInfo": "1R190",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S190.0_card.jpg"
           },
           {
             "Name": "Relics of Moria",
             "CollInfo": "1R195",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S195.0_card.jpg"
           },
           {
-            "Name": "Troll's Keyward",
+            "Name": "Troll’s Keyward",
             "CollInfo": "1R199",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S199.0_card.jpg"
           },
           {
             "Name": "The Underdeeps of Moria",
             "CollInfo": "1R200",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S200.0_card.jpg"
           },
           {
             "Name": "All Veils Removed",
             "CollInfo": "1R204",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S204.0_card.jpg"
           },
           {
             "Name": "Beauty Is Fading",
             "CollInfo": "1R205",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S205.0_card.jpg"
           },
           {
             "Name": "Bent on Discovery",
             "CollInfo": "1R206",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S206.0_card.jpg"
           },
           {
             "Name": "Black Steed",
             "CollInfo": "1R208",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S208.0_card.jpg"
           },
           {
             "Name": "Dark Whispers",
             "CollInfo": "1R210",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S210.0_card.jpg"
           },
           {
             "Name": "Fear",
             "CollInfo": "1R212",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S212.0_card.jpg"
           },
           {
             "Name": "In the Ringwraith's Wake",
             "CollInfo": "1R214",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S214.0_card.jpg"
           },
           {
             "Name": "Morgul Blade",
             "CollInfo": "1R216",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S216.0_card.jpg"
           },
           {
             "Name": "Morgul Gates",
             "CollInfo": "1R217",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S217.0_card.jpg"
           },
           {
             "Name": "The Pale Blade",
             "CollInfo": "1R221",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S221.0_card.jpg"
           },
           {
             "Name": "Return to Its Master",
             "CollInfo": "1R224",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S224.0_card.jpg"
           },
           {
             "Name": "The Twilight World",
             "CollInfo": "1R228",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S228.0_card.jpg"
           },
           {
             "Name": "Úlairë Attëa, Keeper of Dol Guldur",
             "CollInfo": "1R229",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S229.0_card.jpg"
           },
           {
             "Name": "Úlairë Cantëa, Lieutenant of Dol Guldur",
             "CollInfo": "1R230",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S230.0_card.jpg"
           },
           {
             "Name": "Úlairë Toldëa, Messenger of Morgul",
             "CollInfo": "1R236",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S236.0_card.jpg"
           },
           {
             "Name": "The Witch-king, Lord of Angmar",
             "CollInfo": "1R237",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S237.0_card.jpg"
           },
           {
             "Name": "Band of the Eye",
             "CollInfo": "1R240",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S240.0_card.jpg"
           },
           {
             "Name": "Despair",
             "CollInfo": "1R243",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S243.0_card.jpg"
           },
           {
             "Name": "Desperate Defense of the Ring",
             "CollInfo": "1R244",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S244.0_card.jpg"
           },
           {
             "Name": "Desperate Measures",
             "CollInfo": "1R245",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S245.0_card.jpg"
           },
           {
             "Name": "Enduring Evil",
             "CollInfo": "1R246",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S246.0_card.jpg"
           },
           {
             "Name": "Enheartened Foe",
             "CollInfo": "1R247",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S247.0_card.jpg"
           },
           {
             "Name": "Hate",
             "CollInfo": "1R250",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S250.0_card.jpg"
           },
           {
             "Name": "The Irresistible Shadow",
             "CollInfo": "1R252",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S252.0_card.jpg"
           },
           {
             "Name": "Journey Into Danger",
             "CollInfo": "1R253",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S253.0_card.jpg"
           },
           {
             "Name": "Mordor Enraged",
             "CollInfo": "1R254",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S254.0_card.jpg"
           },
           {
             "Name": "Morgul Hunter",
             "CollInfo": "1R256",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S256.0_card.jpg"
           },
           {
             "Name": "Morgul Warden",
             "CollInfo": "1R259",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S259.0_card.jpg"
           },
           {
             "Name": "Orc Banner",
             "CollInfo": "1R263",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S263.0_card.jpg"
           },
           {
             "Name": "Orc Bowmen",
             "CollInfo": "1R264",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S264.0_card.jpg"
           },
           {
             "Name": "Orc Butchery",
             "CollInfo": "1R265",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S265.0_card.jpg"
           },
           {
             "Name": "Orc War Band",
             "CollInfo": "1R272",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S272.0_card.jpg"
           },
           {
             "Name": "Seeking Its Master",
             "CollInfo": "1R276",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S276.0_card.jpg"
           },
           {
             "Name": "Thin and Stretched",
             "CollInfo": "1R279",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S279.0_card.jpg"
           },
           {
             "Name": "The Weight of a Legacy",
             "CollInfo": "1R282",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S282.0_card.jpg"
           },
           {
             "Name": "Bilbo, Retired Adventurer",
             "CollInfo": "1R284",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S284.0_card.jpg"
           },
           {
             "Name": "Farmer Maggot, Chaser of Rascals",
             "CollInfo": "1R288",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S288.0_card.jpg"
           },
           {
             "Name": "Frodo, Old Bilbo's Heir",
             "CollInfo": "1R289",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S289.0_card.jpg"
           },
           {
             "Name": "The Gaffer, Sam's Father",
             "CollInfo": "1R291",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S291.0_card.jpg"
           },
           {
             "Name": "Merry, Friend to Sam",
             "CollInfo": "1R302",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S302.0_card.jpg"
           },
           {
             "Name": "Pippin, Hobbit of Some Intelligence",
             "CollInfo": "1R307",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S307.0_card.jpg"
           },
           {
             "Name": "Power According to His Stature",
             "CollInfo": "1R308",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S308.0_card.jpg"
           },
           {
             "Name": "Sam, Faithful Companion",
             "CollInfo": "1R310",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S310.0_card.jpg"
           },
           {
             "Name": "Sting",
             "CollInfo": "1R313",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S313.0_card.jpg"
           },
           {
             "Name": "Stone Trolls",
             "CollInfo": "1R314",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S314.0_card.jpg"
           },
           {
             "Name": "Thrór's Map",
             "CollInfo": "1R318",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S318.0_card.jpg"
           }
         ],
@@ -2928,739 +3440,848 @@
             "Name": "Gimli, Dwarf of Erebor",
             "CollInfo": "1U12",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F012.0_card.jpg"
           },
           {
             "Name": "Grimir, Dwarven Elder",
             "CollInfo": "1U17",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F017.0_card.jpg"
           },
           {
             "Name": "Thrarin, Dwarven Smith",
             "CollInfo": "1U27",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F027.0_card.jpg"
           },
           {
             "Name": "Ancient Enmity",
             "CollInfo": "1U29",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F029.0_card.jpg"
           },
           {
             "Name": "Asfaloth",
             "CollInfo": "1U31",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F031.0_card.jpg"
           },
           {
             "Name": "Foul Creation",
             "CollInfo": "1U44",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F044.0_card.jpg"
           },
           {
             "Name": "Gift of Boats",
             "CollInfo": "1U46",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F046.0_card.jpg"
           },
           {
             "Name": "Haldir, Elf of the Golden Wood",
             "CollInfo": "1U48",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F048.0_card.jpg"
           },
           {
             "Name": "Legolas, Prince of Mirkwood",
             "CollInfo": "1U51",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F051.0_card.jpg"
           },
           {
             "Name": "Mallorn-trees",
             "CollInfo": "1U54",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F054.0_card.jpg"
           },
           {
             "Name": "Orophin, Lorien Bowman",
             "CollInfo": "1U56",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F056.0_card.jpg"
           },
           {
             "Name": "Rúmil, Elven Protector",
             "CollInfo": "1U57",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F057.0_card.jpg"
           },
           {
             "Name": "Silinde, Elf of Mirkwood",
             "CollInfo": "1U60",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F060.0_card.jpg"
           },
           {
             "Name": "Stand Against Darkness",
             "CollInfo": "1U63",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F063.0_card.jpg"
           },
           {
             "Name": "Support of the Last Homely House",
             "CollInfo": "1U64",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F064.0_card.jpg"
           },
           {
             "Name": "Swan-ship of the Galadhrim",
             "CollInfo": "1U65",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F065.0_card.jpg"
           },
           {
             "Name": "Barliman Butterbur, Prancing Pony Proprietor",
             "CollInfo": "1U70",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F070.0_card.jpg"
           },
           {
             "Name": "Gandalf's Cart",
             "CollInfo": "1U73",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F073.0_card.jpg"
           },
           {
-            "Name": "Gandalf's Pipe",
+            "Name": "Gandalf’s Pipe",
             "CollInfo": "1U74",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F074.0_card.jpg"
           },
           {
             "Name": "Let Folly Be Our Cloak",
             "CollInfo": "1U77",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F077.0_card.jpg"
           },
           {
-            "Name": "Aragorn's Pipe",
+            "Name": "Aragorn’s Pipe",
             "CollInfo": "1U91",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F091.0_card.jpg"
           },
           {
             "Name": "Athelas",
             "CollInfo": "1U94",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F094.0_card.jpg"
           },
           {
             "Name": "Boromir, Son of Denethor",
             "CollInfo": "1U97",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F097.0_card.jpg"
           },
           {
             "Name": "Boromir's Cloak",
             "CollInfo": "1U98",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F098.0_card.jpg"
           },
           {
             "Name": "Foes of Mordor",
             "CollInfo": "1U105",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F105.0_card.jpg"
           },
           {
             "Name": "No Stranger to the Shadows",
             "CollInfo": "1U108",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F108.0_card.jpg"
           },
           {
             "Name": "One Whom Men Would Follow",
             "CollInfo": "1U109",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F109.0_card.jpg"
           },
           {
-            "Name": "Ranger's Sword",
+            "Name": "Ranger’s Sword",
             "CollInfo": "1U112",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F112.0_card.jpg"
           },
           {
             "Name": "A Ranger's Versatility",
             "CollInfo": "1U113",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F113.0_card.jpg"
           },
           {
             "Name": "Hunt Them Down!",
             "CollInfo": "1U126",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F126.0_card.jpg"
           },
           {
             "Name": "No Ordinary Storm",
             "CollInfo": "1U130",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F130.0_card.jpg"
           },
           {
             "Name": "Saruman's Frost",
             "CollInfo": "1U135",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F135.0_card.jpg"
           },
           {
             "Name": "Saruman's Power",
             "CollInfo": "1U136",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F136.0_card.jpg"
           },
           {
             "Name": "Traitor's Voice",
             "CollInfo": "1U142",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F142.0_card.jpg"
           },
           {
             "Name": "Uruk Slayer",
             "CollInfo": "1U153",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F153.0_card.jpg"
           },
           {
             "Name": "Uruk-hai Rampage",
             "CollInfo": "1U159",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F159.0_card.jpg"
           },
           {
             "Name": "Wariness",
             "CollInfo": "1U161",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F161.0_card.jpg"
           },
           {
             "Name": "Worry",
             "CollInfo": "1U162",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F162.0_card.jpg"
           },
           {
             "Name": "Bitter Hatred",
             "CollInfo": "1U164",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F164.0_card.jpg"
           },
           {
             "Name": "Goblin Runner",
             "CollInfo": "1U178",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F178.0_card.jpg"
           },
           {
             "Name": "Goblin Sneak",
             "CollInfo": "1U181",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F181.0_card.jpg"
           },
           {
             "Name": "The Long Dark",
             "CollInfo": "1U188",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F188.0_card.jpg"
           },
           {
             "Name": "Relentless",
             "CollInfo": "1U194",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F194.0_card.jpg"
           },
           {
             "Name": "Through the Misty Mountains",
             "CollInfo": "1U198",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F198.0_card.jpg"
           },
           {
             "Name": "What Is This New Devilry?",
             "CollInfo": "1U202",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F202.0_card.jpg"
           },
           {
             "Name": "All Blades Perish",
             "CollInfo": "1U203",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F203.0_card.jpg"
           },
           {
             "Name": "Black Breath",
             "CollInfo": "1U207",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F207.0_card.jpg"
           },
           {
             "Name": "Blade Tip",
             "CollInfo": "1U209",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F209.0_card.jpg"
           },
           {
             "Name": "Drawn to Its Power",
             "CollInfo": "1U211",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F211.0_card.jpg"
           },
           {
             "Name": "Frozen by Fear",
             "CollInfo": "1U213",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F213.0_card.jpg"
           },
           {
             "Name": "The Master's Will",
             "CollInfo": "1U215",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F215.0_card.jpg"
           },
           {
             "Name": "Nazgûl Sword",
             "CollInfo": "1U218",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F218.0_card.jpg"
           },
           {
             "Name": "The Nine Servants of Sauron",
             "CollInfo": "1U219",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F219.0_card.jpg"
           },
           {
             "Name": "Not Easily Destroyed",
             "CollInfo": "1U220",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F220.0_card.jpg"
           },
           {
             "Name": "Paths Seldom Trodden",
             "CollInfo": "1U222",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F222.0_card.jpg"
           },
           {
             "Name": "Relentless Charge",
             "CollInfo": "1U223",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F223.0_card.jpg"
           },
           {
             "Name": "Sword of Minas Morgul",
             "CollInfo": "1U225",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F225.0_card.jpg"
           },
           {
             "Name": "Their Power Is in Terror",
             "CollInfo": "1U226",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F226.0_card.jpg"
           },
           {
             "Name": "Threshold of Shadow",
             "CollInfo": "1U227",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F227.0_card.jpg"
           },
           {
             "Name": "Úlairë Enquëa, Lieutenant of Morgul",
             "CollInfo": "1U231",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F231.0_card.jpg"
           },
           {
             "Name": "Úlairë Lemenya, Lieutenant of Morgul",
             "CollInfo": "1U232",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F232.0_card.jpg"
           },
           {
             "Name": "Úlairë Nelya, Lieutenant of Morgul",
             "CollInfo": "1U233",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F233.0_card.jpg"
           },
           {
             "Name": "Úlairë Nertëa, Messenger of Dol Guldur",
             "CollInfo": "1U234",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F234.0_card.jpg"
           },
           {
             "Name": "Úlairë Otsëa, Lieutenant of Morgul",
             "CollInfo": "1U235",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F235.0_card.jpg"
           },
           {
             "Name": "Wreathed in Shadow",
             "CollInfo": "1U238",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F238.0_card.jpg"
           },
           {
             "Name": "All Thought Bent on It",
             "CollInfo": "1U239",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F239.0_card.jpg"
           },
           {
             "Name": "Curse From Mordor",
             "CollInfo": "1U241",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F241.0_card.jpg"
           },
           {
             "Name": "The Dark Lord's Summons",
             "CollInfo": "1U242",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F242.0_card.jpg"
           },
           {
             "Name": "Gleaming Spires Will Crumble",
             "CollInfo": "1U249",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F249.0_card.jpg"
           },
           {
             "Name": "A Host Avails Little",
             "CollInfo": "1U251",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F251.0_card.jpg"
           },
           {
             "Name": "Morgul Skirmisher",
             "CollInfo": "1U257",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F257.0_card.jpg"
           },
           {
             "Name": "Morgul Skulker",
             "CollInfo": "1U258",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F258.0_card.jpg"
           },
           {
             "Name": "The Number Must Be Few",
             "CollInfo": "1U260",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F260.0_card.jpg"
           },
           {
             "Name": "Orc Assassin",
             "CollInfo": "1U262",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F262.0_card.jpg"
           },
           {
             "Name": "Orc Hunters",
             "CollInfo": "1U267",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F267.0_card.jpg"
           },
           {
             "Name": "Orc Scouting Band",
             "CollInfo": "1U270",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F270.0_card.jpg"
           },
           {
             "Name": "Sauron's Defenses",
             "CollInfo": "1U274",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F274.0_card.jpg"
           },
           {
             "Name": "Seeking It Always",
             "CollInfo": "1U275",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F275.0_card.jpg"
           },
           {
             "Name": "Tower Lieutenant",
             "CollInfo": "1U280",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F280.0_card.jpg"
           },
           {
             "Name": "Bilbo's Pipe",
             "CollInfo": "1U285",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F285.0_card.jpg"
           },
           {
             "Name": "The Gaffer's Pipe",
             "CollInfo": "1U292",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F292.0_card.jpg"
           },
           {
             "Name": "Halfling Deftness",
             "CollInfo": "1U293",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F293.0_card.jpg"
           },
           {
             "Name": "Master Proudfoot, Distant Relative of Bilbo",
             "CollInfo": "1U301",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F301.0_card.jpg"
           },
           {
             "Name": "Rosie Cotton, Hobbiton Lass",
             "CollInfo": "1U309",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F309.0_card.jpg"
           },
           {
             "Name": "A Talent for Not Being Seen",
             "CollInfo": "1U316",
             "Variant": "F",
+            "Horiz": false,
             "Filename": "LOTR-EN01F316.0_card.jpg"
           },
           {
             "Name": "Bag End",
             "CollInfo": "1U319",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F319.0_card.jpg"
           },
           {
             "Name": "East Road",
             "CollInfo": "1U320",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F320.0_card.jpg"
           },
           {
-            "Name": "Farmer Maggot's Fields",
+            "Name": "Farmer Maggot’s Fields",
             "CollInfo": "1U321",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F321.0_card.jpg"
           },
           {
             "Name": "Green Dragon Inn",
             "CollInfo": "1U322",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F322.0_card.jpg"
           },
           {
             "Name": "Green Hill Country",
             "CollInfo": "1U323",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F323.0_card.jpg"
           },
           {
             "Name": "The Prancing Pony",
             "CollInfo": "1U324",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F324.0_card.jpg"
           },
           {
             "Name": "Shire Lookout Point",
             "CollInfo": "1U325",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F325.0_card.jpg"
           },
           {
             "Name": "Bree Gate",
             "CollInfo": "1U327",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F327.0_card.jpg"
           },
           {
             "Name": "Bree Streets",
             "CollInfo": "1U328",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F328.0_card.jpg"
           },
           {
             "Name": "Breeland Forest",
             "CollInfo": "1U329",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F329.0_card.jpg"
           },
           {
             "Name": "Bucklebury Ferry",
             "CollInfo": "1U330",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F330.0_card.jpg"
           },
           {
             "Name": "Midgewater Marshes",
             "CollInfo": "1U332",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F332.0_card.jpg"
           },
           {
             "Name": "Midgewater Moors",
             "CollInfo": "1U333",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F333.0_card.jpg"
           },
           {
             "Name": "Trollshaw Forest",
             "CollInfo": "1U334",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F334.0_card.jpg"
           },
           {
             "Name": "Weatherhills",
             "CollInfo": "1U335",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F335.0_card.jpg"
           },
           {
             "Name": "Weathertop",
             "CollInfo": "1U336",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F336.0_card.jpg"
           },
           {
             "Name": "Ford of Bruinen",
             "CollInfo": "1U338",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F338.0_card.jpg"
           },
           {
             "Name": "Frodo's Bedroom",
             "CollInfo": "1U339",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F339.0_card.jpg"
           },
           {
             "Name": "Rivendell Terrace",
             "CollInfo": "1U340",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F340.0_card.jpg"
           },
           {
             "Name": "Rivendell Valley",
             "CollInfo": "1U341",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F341.0_card.jpg"
           },
           {
             "Name": "Rivendell Waterfall",
             "CollInfo": "1U342",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F342.0_card.jpg"
           },
           {
             "Name": "Balin's Tomb",
             "CollInfo": "1U343",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F343.0_card.jpg"
           },
           {
             "Name": "Dwarrowdelf Chamber",
             "CollInfo": "1U344",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F344.0_card.jpg"
           },
           {
             "Name": "Mithril Mine",
             "CollInfo": "1U345",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F345.0_card.jpg"
           },
           {
             "Name": "Moria Stairway",
             "CollInfo": "1U347",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F347.0_card.jpg"
           },
           {
             "Name": "Pass of Caradhras",
             "CollInfo": "1U348",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F348.0_card.jpg"
           },
           {
             "Name": "Dimrill Dale",
             "CollInfo": "1U350",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F350.0_card.jpg"
           },
           {
             "Name": "Lothlórien Woods",
             "CollInfo": "1U352",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F352.0_card.jpg"
           },
           {
             "Name": "Anduin Confluence",
             "CollInfo": "1U353",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F353.0_card.jpg"
           },
           {
             "Name": "Silverlode Banks",
             "CollInfo": "1U355",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F355.0_card.jpg"
           },
           {
             "Name": "Brown Lands",
             "CollInfo": "1U357",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F357.0_card.jpg"
           },
           {
             "Name": "Pillars of the Kings",
             "CollInfo": "1U358",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F358.0_card.jpg"
           },
           {
             "Name": "Shores of Nen Hithoel",
             "CollInfo": "1U359",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F359.0_card.jpg"
           },
           {
             "Name": "Emyn Muil",
             "CollInfo": "1U360",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F360.0_card.jpg"
           },
           {
             "Name": "Slopes of Amon Hen",
             "CollInfo": "1U361",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F361.0_card.jpg"
           },
           {
             "Name": "Tol Brandir",
             "CollInfo": "1U363",
             "Variant": "F",
+            "Horiz": true,
             "Filename": "LOTR-EN01F363.0_card.jpg"
-          },
-          {
-            "Name": "Gandalf, The Grey Wizard",
-            "CollInfo": "1P364",
-            "Variant": "F",
-            "Filename": "LOTR-EN01F364.0_card.jpg"
-          },
-          {
-            "Name": "Aragorn, King in Exile",
-            "CollInfo": "1P365",
-            "Variant": "F",
-            "Filename": "LOTR-EN01F365.0_card.jpg"
           }
         ],
 
@@ -3669,726 +4290,847 @@
             "Name": "Gimli, Dwarf of Erebor",
             "CollInfo": "1U12",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S012.0_card.jpg"
           },
           {
             "Name": "Grimir, Dwarven Elder",
             "CollInfo": "1U17",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S017.0_card.jpg"
           },
           {
             "Name": "Thrarin, Dwarven Smith",
             "CollInfo": "1U27",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S027.0_card.jpg"
           },
           {
             "Name": "Ancient Enmity",
             "CollInfo": "1U29",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S029.0_card.jpg"
           },
           {
             "Name": "Asfaloth",
             "CollInfo": "1U31",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S031.0_card.jpg"
           },
           {
             "Name": "Foul Creation",
             "CollInfo": "1U44",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S044.0_card.jpg"
           },
           {
             "Name": "Gift of Boats",
             "CollInfo": "1U46",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S046.0_card.jpg"
           },
           {
             "Name": "Haldir, Elf of the Golden Wood",
             "CollInfo": "1U48",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S048.0_card.jpg"
           },
           {
             "Name": "Legolas, Prince of Mirkwood",
             "CollInfo": "1U51",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S051.0_card.jpg"
           },
           {
             "Name": "Mallorn-trees",
             "CollInfo": "1U54",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S054.0_card.jpg"
           },
           {
             "Name": "Orophin, Lorien Bowman",
             "CollInfo": "1U56",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S056.0_card.jpg"
           },
           {
             "Name": "Rúmil, Elven Protector",
             "CollInfo": "1U57",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S057.0_card.jpg"
           },
           {
             "Name": "Silinde, Elf of Mirkwood",
             "CollInfo": "1U60",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S060.0_card.jpg"
           },
           {
             "Name": "Stand Against Darkness",
             "CollInfo": "1U63",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S063.0_card.jpg"
           },
           {
             "Name": "Support of the Last Homely House",
             "CollInfo": "1U64",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S064.0_card.jpg"
           },
           {
             "Name": "Swan-ship of the Galadhrim",
             "CollInfo": "1U65",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S065.0_card.jpg"
           },
           {
             "Name": "Barliman Butterbur, Prancing Pony Proprietor",
             "CollInfo": "1U70",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S070.0_card.jpg"
           },
           {
             "Name": "Gandalf's Cart",
             "CollInfo": "1U73",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S073.0_card.jpg"
           },
           {
-            "Name": "Gandalf's Pipe",
+            "Name": "Gandalf’s Pipe",
             "CollInfo": "1U74",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S074.0_card.jpg"
           },
           {
             "Name": "Let Folly Be Our Cloak",
             "CollInfo": "1U77",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S077.0_card.jpg"
           },
           {
-            "Name": "Aragorn's Pipe",
+            "Name": "Aragorn’s Pipe",
             "CollInfo": "1U91",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S091.0_card.jpg"
           },
           {
             "Name": "Athelas",
             "CollInfo": "1U94",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S094.0_card.jpg"
           },
           {
             "Name": "Boromir, Son of Denethor",
             "CollInfo": "1U97",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S097.0_card.jpg"
           },
           {
             "Name": "Boromir's Cloak",
             "CollInfo": "1U98",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S098.0_card.jpg"
           },
           {
             "Name": "Foes of Mordor",
             "CollInfo": "1U105",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S105.0_card.jpg"
           },
           {
             "Name": "No Stranger to the Shadows",
             "CollInfo": "1U108",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S108.0_card.jpg"
           },
           {
             "Name": "One Whom Men Would Follow",
             "CollInfo": "1U109",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S109.0_card.jpg"
           },
           {
-            "Name": "Ranger's Sword",
+            "Name": "Ranger’s Sword",
             "CollInfo": "1U112",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S112.0_card.jpg"
           },
           {
             "Name": "A Ranger's Versatility",
             "CollInfo": "1U113",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S113.0_card.jpg"
           },
           {
             "Name": "Hunt Them Down!",
             "CollInfo": "1U126",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S126.0_card.jpg"
           },
           {
             "Name": "No Ordinary Storm",
             "CollInfo": "1U130",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S130.0_card.jpg"
           },
           {
             "Name": "Saruman's Frost",
             "CollInfo": "1U135",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S135.0_card.jpg"
           },
           {
             "Name": "Saruman's Power",
             "CollInfo": "1U136",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S136.0_card.jpg"
           },
           {
             "Name": "Traitor's Voice",
             "CollInfo": "1U142",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S142.0_card.jpg"
           },
           {
             "Name": "Uruk Slayer",
             "CollInfo": "1U153",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S153.0_card.jpg"
           },
           {
             "Name": "Uruk-hai Rampage",
             "CollInfo": "1U159",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S159.0_card.jpg"
           },
           {
             "Name": "Wariness",
             "CollInfo": "1U161",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S161.0_card.jpg"
           },
           {
             "Name": "Worry",
             "CollInfo": "1U162",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S162.0_card.jpg"
           },
           {
             "Name": "Bitter Hatred",
             "CollInfo": "1U164",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S164.0_card.jpg"
           },
           {
             "Name": "Goblin Runner",
             "CollInfo": "1U178",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S178.0_card.jpg"
           },
           {
             "Name": "Goblin Sneak",
             "CollInfo": "1U181",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S181.0_card.jpg"
           },
           {
             "Name": "The Long Dark",
             "CollInfo": "1U188",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S188.0_card.jpg"
           },
           {
             "Name": "Relentless",
             "CollInfo": "1U194",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S194.0_card.jpg"
           },
           {
             "Name": "Through the Misty Mountains",
             "CollInfo": "1U198",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S198.0_card.jpg"
           },
           {
             "Name": "What Is This New Devilry?",
             "CollInfo": "1U202",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S202.0_card.jpg"
           },
           {
             "Name": "All Blades Perish",
             "CollInfo": "1U203",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S203.0_card.jpg"
           },
           {
             "Name": "Black Breath",
             "CollInfo": "1U207",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S207.0_card.jpg"
           },
           {
             "Name": "Blade Tip",
             "CollInfo": "1U209",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S209.0_card.jpg"
           },
           {
             "Name": "Drawn to Its Power",
             "CollInfo": "1U211",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S211.0_card.jpg"
           },
           {
             "Name": "Frozen by Fear",
             "CollInfo": "1U213",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S213.0_card.jpg"
           },
           {
             "Name": "The Master's Will",
             "CollInfo": "1U215",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S215.0_card.jpg"
           },
           {
             "Name": "Nazgûl Sword",
             "CollInfo": "1U218",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S218.0_card.jpg"
           },
           {
             "Name": "The Nine Servants of Sauron",
             "CollInfo": "1U219",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S219.0_card.jpg"
           },
           {
             "Name": "Not Easily Destroyed",
             "CollInfo": "1U220",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S220.0_card.jpg"
           },
           {
             "Name": "Paths Seldom Trodden",
             "CollInfo": "1U222",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S222.0_card.jpg"
           },
           {
             "Name": "Relentless Charge",
             "CollInfo": "1U223",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S223.0_card.jpg"
           },
           {
             "Name": "Sword of Minas Morgul",
             "CollInfo": "1U225",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S225.0_card.jpg"
           },
           {
             "Name": "Their Power Is in Terror",
             "CollInfo": "1U226",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S226.0_card.jpg"
           },
           {
             "Name": "Threshold of Shadow",
             "CollInfo": "1U227",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S227.0_card.jpg"
           },
           {
             "Name": "Úlairë Enquëa, Lieutenant of Morgul",
             "CollInfo": "1U231",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S231.0_card.jpg"
           },
           {
             "Name": "Úlairë Lemenya, Lieutenant of Morgul",
             "CollInfo": "1U232",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S232.0_card.jpg"
           },
           {
             "Name": "Úlairë Nelya, Lieutenant of Morgul",
             "CollInfo": "1U233",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S233.0_card.jpg"
           },
           {
             "Name": "Úlairë Nertëa, Messenger of Dol Guldur",
             "CollInfo": "1U234",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S234.0_card.jpg"
           },
           {
             "Name": "Úlairë Otsëa, Lieutenant of Morgul",
             "CollInfo": "1U235",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S235.0_card.jpg"
           },
           {
             "Name": "Wreathed in Shadow",
             "CollInfo": "1U238",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S238.0_card.jpg"
           },
           {
             "Name": "All Thought Bent on It",
             "CollInfo": "1U239",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S239.0_card.jpg"
           },
           {
             "Name": "Curse From Mordor",
             "CollInfo": "1U241",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S241.0_card.jpg"
           },
           {
             "Name": "The Dark Lord's Summons",
             "CollInfo": "1U242",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S242.0_card.jpg"
           },
           {
             "Name": "Gleaming Spires Will Crumble",
             "CollInfo": "1U249",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S249.0_card.jpg"
           },
           {
             "Name": "A Host Avails Little",
             "CollInfo": "1U251",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S251.0_card.jpg"
           },
           {
             "Name": "Morgul Skirmisher",
             "CollInfo": "1U257",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S257.0_card.jpg"
           },
           {
             "Name": "Morgul Skulker",
             "CollInfo": "1U258",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S258.0_card.jpg"
           },
           {
             "Name": "The Number Must Be Few",
             "CollInfo": "1U260",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S260.0_card.jpg"
           },
           {
             "Name": "Orc Assassin",
             "CollInfo": "1U262",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S262.0_card.jpg"
           },
           {
             "Name": "Orc Hunters",
             "CollInfo": "1U267",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S267.0_card.jpg"
           },
           {
             "Name": "Orc Scouting Band",
             "CollInfo": "1U270",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S270.0_card.jpg"
           },
           {
             "Name": "Sauron's Defenses",
             "CollInfo": "1U274",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S274.0_card.jpg"
           },
           {
             "Name": "Seeking It Always",
             "CollInfo": "1U275",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S275.0_card.jpg"
           },
           {
             "Name": "Tower Lieutenant",
             "CollInfo": "1U280",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S280.0_card.jpg"
           },
           {
             "Name": "Bilbo's Pipe",
             "CollInfo": "1U285",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S285.0_card.jpg"
           },
           {
             "Name": "The Gaffer's Pipe",
             "CollInfo": "1U292",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S292.0_card.jpg"
           },
           {
             "Name": "Halfling Deftness",
             "CollInfo": "1U293",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S293.0_card.jpg"
           },
           {
             "Name": "Master Proudfoot, Distant Relative of Bilbo",
             "CollInfo": "1U301",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S301.0_card.jpg"
           },
           {
             "Name": "Rosie Cotton, Hobbiton Lass",
             "CollInfo": "1U309",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S309.0_card.jpg"
           },
           {
             "Name": "A Talent for Not Being Seen",
             "CollInfo": "1U316",
             "Variant": "S",
+            "Horiz": false,
             "Filename": "LOTR-EN01S316.0_card.jpg"
           },
           {
             "Name": "Bag End",
             "CollInfo": "1U319",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S319.0_card.jpg"
           },
           {
             "Name": "East Road",
             "CollInfo": "1U320",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S320.0_card.jpg"
           },
           {
-            "Name": "Farmer Maggot's Fields",
+            "Name": "Farmer Maggot’s Fields",
             "CollInfo": "1U321",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S321.0_card.jpg"
           },
           {
             "Name": "Green Dragon Inn",
             "CollInfo": "1U322",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S322.0_card.jpg"
           },
           {
             "Name": "Green Hill Country",
             "CollInfo": "1U323",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S323.0_card.jpg"
           },
           {
             "Name": "The Prancing Pony",
             "CollInfo": "1U324",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S324.0_card.jpg"
           },
           {
             "Name": "Shire Lookout Point",
             "CollInfo": "1U325",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S325.0_card.jpg"
           },
           {
             "Name": "Bree Gate",
             "CollInfo": "1U327",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S327.0_card.jpg"
           },
           {
             "Name": "Bree Streets",
             "CollInfo": "1U328",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S328.0_card.jpg"
           },
           {
             "Name": "Breeland Forest",
             "CollInfo": "1U329",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S329.0_card.jpg"
           },
           {
             "Name": "Bucklebury Ferry",
             "CollInfo": "1U330",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S330.0_card.jpg"
           },
           {
             "Name": "Midgewater Marshes",
             "CollInfo": "1U332",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S332.0_card.jpg"
           },
           {
             "Name": "Midgewater Moors",
             "CollInfo": "1U333",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S333.0_card.jpg"
           },
           {
             "Name": "Trollshaw Forest",
             "CollInfo": "1U334",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S334.0_card.jpg"
           },
           {
             "Name": "Weatherhills",
             "CollInfo": "1U335",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S335.0_card.jpg"
           },
           {
             "Name": "Weathertop",
             "CollInfo": "1U336",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S336.0_card.jpg"
           },
           {
             "Name": "Ford of Bruinen",
             "CollInfo": "1U338",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S338.0_card.jpg"
           },
           {
             "Name": "Frodo's Bedroom",
             "CollInfo": "1U339",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S339.0_card.jpg"
           },
           {
             "Name": "Rivendell Terrace",
             "CollInfo": "1U340",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S340.0_card.jpg"
           },
           {
             "Name": "Rivendell Valley",
             "CollInfo": "1U341",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S341.0_card.jpg"
           },
           {
             "Name": "Rivendell Waterfall",
             "CollInfo": "1U342",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S342.0_card.jpg"
           },
           {
             "Name": "Balin's Tomb",
             "CollInfo": "1U343",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S343.0_card.jpg"
           },
           {
             "Name": "Dwarrowdelf Chamber",
             "CollInfo": "1U344",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S344.0_card.jpg"
           },
           {
             "Name": "Mithril Mine",
             "CollInfo": "1U345",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S345.0_card.jpg"
           },
           {
             "Name": "Moria Stairway",
             "CollInfo": "1U347",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S347.0_card.jpg"
           },
           {
             "Name": "Pass of Caradhras",
             "CollInfo": "1U348",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S348.0_card.jpg"
           },
           {
             "Name": "Dimrill Dale",
             "CollInfo": "1U350",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S350.0_card.jpg"
           },
           {
             "Name": "Lothlórien Woods",
             "CollInfo": "1U352",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S352.0_card.jpg"
           },
           {
             "Name": "Anduin Confluence",
             "CollInfo": "1U353",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S353.0_card.jpg"
           },
           {
             "Name": "Silverlode Banks",
             "CollInfo": "1U355",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S355.0_card.jpg"
           },
           {
             "Name": "Brown Lands",
             "CollInfo": "1U357",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S357.0_card.jpg"
           },
           {
             "Name": "Pillars of the Kings",
             "CollInfo": "1U358",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S358.0_card.jpg"
           },
           {
             "Name": "Shores of Nen Hithoel",
             "CollInfo": "1U359",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S359.0_card.jpg"
           },
           {
             "Name": "Emyn Muil",
             "CollInfo": "1U360",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S360.0_card.jpg"
           },
           {
             "Name": "Slopes of Amon Hen",
             "CollInfo": "1U361",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S361.0_card.jpg"
           },
           {
             "Name": "Tol Brandir",
             "CollInfo": "1U363",
             "Variant": "S",
+            "Horiz": true,
             "Filename": "LOTR-EN01S363.0_card.jpg"
           }
         ]

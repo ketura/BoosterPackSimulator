@@ -13,6 +13,7 @@
             @if(item.Quantity <= 0)
                 continue;
 
+            
             <div class="product-item @(item.Selected ? "product-selected" : "")" id="@item.ID">
                 <button class="product-button" @onclick="() => SelectNewProduct(item.ID)"></button>
                 <figure>
@@ -20,6 +21,7 @@
                     <figcaption>@item.ID <b>x @item.Quantity</b></figcaption>
                 </figure>
             </div>
+
         }
 
         @if(!Items.Any(x => x.Value.Quantity > 0))
@@ -30,13 +32,24 @@
     }
 </div>
 
-<button @onclick="OpenProduct">Open</button>
+<button @onclick="OpenProduct" disabled=@(SelectedProduct == null)>Open</button>
 
 <div class="card-display">
 
     @foreach(var card in Cards)
     {
-        <img src ="@(GameDef.BaseURL + card.Filename)" />
+        @if (ShowLoading)
+        {
+            <div style="display:flex; gap:10px; justify-content:center; align-items:center">
+                <div class="spinner-border" role="status"></div>
+                loading...
+            </div>
+        }
+        else
+        {
+            //TODO: put image class here based on the image's "horiz" field and make the CSS apply a 90 degree transform
+            <img src ="@(GameDef.BaseURL + card.Filename)" class="@(card.Horiz ? "cardrotate" : "")"/>
+        }
     }
 </div>
 
@@ -59,6 +72,7 @@
         Collection = await BSA.ReadOrCreateBS<CollectionManager>();
         GameDef = await BSA.ReadOrCreateBS<GameDefinition>();
         PackHandler = await BSA.ReadOrCreateBS<PackHandler>();
+        PackHandler.Init(GameDef);
 
         foreach(var product in GameDef.GetAllNonCardProduct())
         {
@@ -79,6 +93,7 @@
     private PackHandler PackHandler;
 
     public string? SelectedProduct = null;
+    public bool ShowLoading = false;
 
     public class ProductItemInfo
     {
@@ -125,6 +140,9 @@
         var product = GameDef.FindProduct(SelectedProduct);
         if (product == null)
             return;
+
+        ShowLoading = true;
+        StateHasChanged();
 
 
         switch(product.ProductType)
@@ -181,7 +199,7 @@
                 if (set == null)
                     break;
 
-                var randomizer = GetOrMakeRandomizer(booster);
+                var randomizer = await GetOrMakeRandomizer(booster);
 
                 foreach(var card in randomizer.GetNextBooster())
                 {
@@ -197,20 +215,22 @@
         }
 
         await BSA.SaveBS(Collection);
+        await BSA.SaveBS(PackHandler);
 
         CheckSelected();
 
+        ShowLoading = false;
         StateHasChanged();
     }
 
-    private PackRandomizer GetOrMakeRandomizer(BoosterDefinition boosterDef)
+    private async Task<PackRandomizer> GetOrMakeRandomizer(BoosterDefinition boosterDef)
     {
         if (PackHandler.Randomizers.ContainsKey(boosterDef.Name))
             return PackHandler.Randomizers[boosterDef.Name];
 
         var randomizer = new PackRandomizer(GameDef, boosterDef, null);
         PackHandler.Randomizers.Add(boosterDef.Name, randomizer);
-        BSA.SaveBS(PackHandler);
+        await BSA.SaveBS(PackHandler);
         return randomizer;
     }
 
@@ -284,6 +304,10 @@
 
     .product-selected {
         border: dashed;
+    }
+
+    .cardrotate {
+        transform: rotate(270deg);
     }
 
     img {

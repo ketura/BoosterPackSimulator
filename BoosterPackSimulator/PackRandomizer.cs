@@ -1,55 +1,29 @@
-﻿namespace BoosterPackSimulator
+﻿using System.Text.Json.Serialization;
+
+namespace BoosterPackSimulator
 {
     public class PackHandler
     {
         public Dictionary<string, PackRandomizer> Randomizers = new Dictionary<string, PackRandomizer>();
+
+        public void Init(GameDefinition gamedef)
+        {
+            foreach(var randomizer in Randomizers.Values)
+            {
+                randomizer.Init(gamedef);
+            }
+        }
     }
 
-    public class PackRandomizer
+    public class CardPool
     {
-        private static readonly Random RNG = new Random(unchecked((int)DateTime.Now.Ticks));
+        public BoosterType RandomMethod { get; private set; }
 
-        public BoosterType RandomMethod { get; }
-        public GameDefinition GameDef { get; }
-        public BoosterDefinition BoosterDef { get; }
-        public Dictionary<string, List<CardDefinition>> Sheets { get; }
-
-        public Dictionary<string, int> LastPositions { get; set; } = new Dictionary<string, int>();
-        private int ResetCounter;
-
-        public List<List<CardDefinition>> PrebuiltBoosters { get; set; }
+        public Dictionary<string, List<CardDefinition>> Sheets { get; private set; }
 
         
-        public PackRandomizer(GameDefinition gamedef, BoosterDefinition boosterDef, Dictionary<string, List<CardDefinition>>? sheets=null)
-        {
-            RandomMethod = boosterDef.BoosterType;
-            GameDef = gamedef;
-            BoosterDef = boosterDef;
 
-            if (sheets == null)
-            {
-                Sheets = SeedRandomSheet();
-            }
-            else
-            {
-                Sheets = sheets;
-            }
-
-            ResetPools();
-        }
-
-        private void ResetPools()
-        {
-            LastPositions.Clear();
-            foreach (string pool in Sheets.Keys)
-            {
-                LastPositions[pool] = RNG.Next(0, Sheets[pool].Count);
-            }
-
-            ResetCounter = RNG.Next(0, 30);
-        }
-
-        private Dictionary<string, List<CardDefinition>> SeedRandomSheet()
+        public Dictionary<string, List<CardDefinition>> SeedRandomSheet()
         {
             var result = new Dictionary<string, List<CardDefinition>>();
             switch (RandomMethod)
@@ -63,10 +37,10 @@
                     if (set == default)
                         return result;
 
-                    foreach(var rarity in set.CardPools.Keys)
+                    foreach (var rarity in set.CardPools.Keys)
                     {
                         result[rarity] = new List<CardDefinition>();
-                        foreach(var card in set.CardPools[rarity].OrderBy(a => RNG.Next()).ToList())
+                        foreach (var card in set.CardPools[rarity].OrderBy(a => RNG.Next()).ToList())
                         {
                             result[rarity].Add(card);
 
@@ -82,7 +56,7 @@
                                 }
                             }
                         }
-                        
+
                     }
                     break;
                 case BoosterType.Fixed:
@@ -95,6 +69,59 @@
 
             return result;
         }
+    }
+
+    public class PackRandomizer
+    {
+        private static readonly Random RNG = new Random(unchecked((int)DateTime.Now.Ticks));
+
+        
+        [JsonIgnore]
+        public GameDefinition GameDef { get; private set; }
+        [JsonIgnore]
+        public BoosterDefinition BoosterDef { get; private set; }
+        
+        public CardPool Pool { get; private set; }
+
+
+        public Dictionary<string, int> LastPositions { get; set; } = new Dictionary<string, int>();
+        private int ResetCounter;
+
+        public void ResetPositions()
+        {
+            LastPositions.Clear();
+            foreach (string rarity in Pool.Sheets.Keys)
+            {
+                LastPositions[rarity] = RNG.Next(0, Pool.Sheets[rarity].Count);
+            }
+
+            ResetCounter = RNG.Next(0, 100);
+        }
+
+        public PackRandomizer(GameDefinition gamedef, BoosterDefinition boosterDef, Dictionary<string, List<CardDefinition>>? sheets=null)
+        {
+            RandomMethod = boosterDef.BoosterType;
+            BoosterDef = boosterDef;
+            Init(gamedef);
+
+            if (sheets == null)
+            {
+                Sheets = SeedRandomSheet();
+            }
+            else
+            {
+                Sheets = sheets;
+            }
+
+            ResetPositions();
+        }
+
+        public void Init(GameDefinition gamedef)
+        {
+            GameDef = gamedef;
+        }
+
+        
 
         public List<CardDefinition> GetNextBooster()
         {
@@ -150,7 +177,7 @@
                             result.RemoveAt(attempt + 1);
                         }
                         LastPositions[rand.PoolName] += 1;
-                        if (LastPositions[rand.PoolName] >= set.CardPools[rand.PoolName].Count)
+                        if (LastPositions[rand.PoolName] >= Sheets[rand.PoolName].Count)
                         {
                             LastPositions[rand.PoolName] = 0;
                         }
@@ -162,7 +189,7 @@
             ResetCounter--;
             if (ResetCounter == 0)
             {
-                ResetPools();
+                ResetPositions();
             }
 
             return result;
