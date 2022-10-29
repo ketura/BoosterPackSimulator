@@ -107,7 +107,7 @@
             "Filename": "LOTR-EN01F021.0_card.jpg"
           },
           {
-            "Name": "Stairs of Khazad-dûm",
+            "Name": "Stairs of Khazad-dï¿½m",
             "CollInfo": "1C24",
             "Variant": "F",
             "Horiz": false,
@@ -177,7 +177,7 @@
             "Filename": "LOTR-EN01F052.0_card.jpg"
           },
           {
-            "Name": "Lórien Elf",
+            "Name": "Lï¿½rien Elf",
             "CollInfo": "1C53",
             "Variant": "F",
             "Horiz": false,
@@ -212,7 +212,7 @@
             "Filename": "LOTR-EN01F067.0_card.jpg"
           },
           {
-            "Name": "The White Arrows of Lórien",
+            "Name": "The White Arrows of Lï¿½rien",
             "CollInfo": "1C68",
             "Variant": "F",
             "Horiz": false,
@@ -821,7 +821,7 @@
             "Filename": "LOTR-EN01F346.0_card.jpg"
           },
           {
-            "Name": "The Bridge of Khazad-dûm",
+            "Name": "The Bridge of Khazad-dï¿½m",
             "CollInfo": "1C349",
             "Variant": "F",
             "Horiz": true,
@@ -971,7 +971,7 @@
             "Filename": "LOTR-EN01S021.0_card.jpg"
           },
           {
-            "Name": "Stairs of Khazad-dûm",
+            "Name": "Stairs of Khazad-dï¿½m",
             "CollInfo": "1C24",
             "Variant": "S",
             "Horiz": false,
@@ -1041,7 +1041,7 @@
             "Filename": "LOTR-EN01S052.0_card.jpg"
           },
           {
-            "Name": "Lórien Elf",
+            "Name": "Lï¿½rien Elf",
             "CollInfo": "1C53",
             "Variant": "S",
             "Horiz": false,
@@ -1076,7 +1076,7 @@
             "Filename": "LOTR-EN01S067.0_card.jpg"
           },
           {
-            "Name": "The White Arrows of Lórien",
+            "Name": "The White Arrows of Lï¿½rien",
             "CollInfo": "1C68",
             "Variant": "S",
             "Horiz": false,
@@ -1685,7 +1685,7 @@
             "Filename": "LOTR-EN01S346.0_card.jpg"
           },
           {
-            "Name": "The Bridge of Khazad-dûm",
+            "Name": "The Bridge of Khazad-dï¿½m",
             "CollInfo": "1C349",
             "Variant": "S",
             "Horiz": true,
@@ -1898,7 +1898,7 @@
             "Filename": "LOTR-EN01F069.0_card.jpg"
           },
           {
-            "Name": "Durin’s Secret",
+            "Name": "Durinï¿½s Secret",
             "CollInfo": "1R71",
             "Variant": "F",
             "Horiz": false,
@@ -1968,7 +1968,7 @@
             "Filename": "LOTR-EN01F089.0_card.jpg"
           },
           {
-            "Name": "Aragorn’s Bow",
+            "Name": "Aragornï¿½s Bow",
             "CollInfo": "1R90",
             "Variant": "F",
             "Horiz": false,
@@ -2003,7 +2003,7 @@
             "Filename": "LOTR-EN01F099.0_card.jpg"
           },
           {
-            "Name": "The Choice of Lúthien",
+            "Name": "The Choice of Lï¿½thien",
             "CollInfo": "1R100",
             "Variant": "F",
             "Horiz": false,
@@ -2248,7 +2248,7 @@
             "Filename": "LOTR-EN01F195.0_card.jpg"
           },
           {
-            "Name": "Troll’s Keyward",
+            "Name": "Trollï¿½s Keyward",
             "CollInfo": "1R199",
             "Variant": "F",
             "Horiz": false,
@@ -2346,21 +2346,21 @@
             "Filename": "LOTR-EN01F228.0_card.jpg"
           },
           {
-            "Name": "Úlairë Attëa, Keeper of Dol Guldur",
+            "Name": "ï¿½lairï¿½ Attï¿½a, Keeper of Dol Guldur",
             "CollInfo": "1R229",
             "Variant": "F",
             "Horiz": false,
             "Filename": "LOTR-EN01F229.0_card.jpg"
           },
           {
-            "Name": "Úlairë Cantëa, Lieutenant of Dol Guldur",
+            "Name": "ï¿½lairï¿½ Cantï¿½a, Lieutenant of Dol Guldur",
             "CollInfo": "1R230",
             "Variant": "F",
             "Horiz": false,
             "Filename": "LOTR-EN01F230.0_card.jpg"
           },
           {
-            "Name": "Úlairë Toldëa, Messenger of Morgul",
+            "Name": "ï¿½lairï¿½ Toldï¿½a, Messenger of Morgul",
             "CollInfo": "1R236",
             "Variant": "F",
             "Horiz": false,
@@ -2577,7 +2577,7 @@
             "Filename": "LOTR-EN01F314.0_card.jpg"
           },
           {
-            "Name": "Thrór's Map",
+            "Name": "Thrï¿½r's Map",
             "CollInfo": "1R318",
             "Variant": "F",
             "Horiz": false,
@@ -2748,7 +2748,7 @@
             "Filename": "LOTR-EN01S069.0_card.jpg"
           },
           {
-            "Name": "Durin’s Secret",
+            "Name": "Durinï¿½s Secret",
             "CollInfo": "1R71",
             "Variant": "S",
             "Horiz": false,
@@ -2818,7 +2818,7 @@
             "Filename": "LOTR-EN01S089.0_card.jpg"
           },
           {
-            "Name": "Aragorn’s Bow",
+            "Name": "Aragornï¿½s Bow",
             "CollInfo": "1R90",
             "Variant": "S",
             "Horiz": false,
@@ -2853,7 +2853,7 @@
             "Filename": "LOTR-EN01S099.0_card.jpg"
           },
           {
-            "Name": "The Choice of Lúthien",
+            "Name": "The Choice of Lï¿½thien",
             "CollInfo": "1R100",
             "Variant": "S",
             "Horiz": false,
@@ -3098,7 +3098,7 @@
             "Filename": "LOTR-EN01S195.0_card.jpg"
           },
           {
-            "Name": "Troll’s Keyward",
+            "Name": "Trollï¿½s Keyward",
             "CollInfo": "1R199",
             "Variant": "S",
             "Horiz": false,
@@ -3196,21 +3196,21 @@
             "Filename": "LOTR-EN01S228.0_card.jpg"
           },
           {
-            "Name": "Úlairë Attëa, Keeper of Dol Guldur",
+            "Name": "ï¿½lairï¿½ Attï¿½a, Keeper of Dol Guldur",
             "CollInfo": "1R229",
             "Variant": "S",
             "Horiz": false,
             "Filename": "LOTR-EN01S229.0_card.jpg"
           },
           {
-            "Name": "Úlairë Cantëa, Lieutenant of Dol Guldur",
+            "Name": "ï¿½lairï¿½ Cantï¿½a, Lieutenant of Dol Guldur",
             "CollInfo": "1R230",
             "Variant": "S",
             "Horiz": false,
             "Filename": "LOTR-EN01S230.0_card.jpg"
           },
           {
-            "Name": "Úlairë Toldëa, Messenger of Morgul",
+            "Name": "ï¿½lairï¿½ Toldï¿½a, Messenger of Morgul",
             "CollInfo": "1R236",
             "Variant": "S",
             "Horiz": false,
@@ -3427,7 +3427,7 @@
             "Filename": "LOTR-EN01S314.0_card.jpg"
           },
           {
-            "Name": "Thrór's Map",
+            "Name": "Thrï¿½r's Map",
             "CollInfo": "1R318",
             "Variant": "S",
             "Horiz": false,
@@ -3514,7 +3514,7 @@
             "Filename": "LOTR-EN01F056.0_card.jpg"
           },
           {
-            "Name": "Rúmil, Elven Protector",
+            "Name": "Rï¿½mil, Elven Protector",
             "CollInfo": "1U57",
             "Variant": "F",
             "Horiz": false,
@@ -3563,7 +3563,7 @@
             "Filename": "LOTR-EN01F073.0_card.jpg"
           },
           {
-            "Name": "Gandalf’s Pipe",
+            "Name": "Gandalfï¿½s Pipe",
             "CollInfo": "1U74",
             "Variant": "F",
             "Horiz": false,
@@ -3577,7 +3577,7 @@
             "Filename": "LOTR-EN01F077.0_card.jpg"
           },
           {
-            "Name": "Aragorn’s Pipe",
+            "Name": "Aragornï¿½s Pipe",
             "CollInfo": "1U91",
             "Variant": "F",
             "Horiz": false,
@@ -3626,7 +3626,7 @@
             "Filename": "LOTR-EN01F109.0_card.jpg"
           },
           {
-            "Name": "Ranger’s Sword",
+            "Name": "Rangerï¿½s Sword",
             "CollInfo": "1U112",
             "Variant": "F",
             "Horiz": false,
@@ -3794,7 +3794,7 @@
             "Filename": "LOTR-EN01F215.0_card.jpg"
           },
           {
-            "Name": "Nazgûl Sword",
+            "Name": "Nazgï¿½l Sword",
             "CollInfo": "1U218",
             "Variant": "F",
             "Horiz": false,
@@ -3850,35 +3850,35 @@
             "Filename": "LOTR-EN01F227.0_card.jpg"
           },
           {
-            "Name": "Úlairë Enquëa, Lieutenant of Morgul",
+            "Name": "ï¿½lairï¿½ Enquï¿½a, Lieutenant of Morgul",
             "CollInfo": "1U231",
             "Variant": "F",
             "Horiz": false,
             "Filename": "LOTR-EN01F231.0_card.jpg"
           },
           {
-            "Name": "Úlairë Lemenya, Lieutenant of Morgul",
+            "Name": "ï¿½lairï¿½ Lemenya, Lieutenant of Morgul",
             "CollInfo": "1U232",
             "Variant": "F",
             "Horiz": false,
             "Filename": "LOTR-EN01F232.0_card.jpg"
           },
           {
-            "Name": "Úlairë Nelya, Lieutenant of Morgul",
+            "Name": "ï¿½lairï¿½ Nelya, Lieutenant of Morgul",
             "CollInfo": "1U233",
             "Variant": "F",
             "Horiz": false,
             "Filename": "LOTR-EN01F233.0_card.jpg"
           },
           {
-            "Name": "Úlairë Nertëa, Messenger of Dol Guldur",
+            "Name": "ï¿½lairï¿½ Nertï¿½a, Messenger of Dol Guldur",
             "CollInfo": "1U234",
             "Variant": "F",
             "Horiz": false,
             "Filename": "LOTR-EN01F234.0_card.jpg"
           },
           {
-            "Name": "Úlairë Otsëa, Lieutenant of Morgul",
+            "Name": "ï¿½lairï¿½ Otsï¿½a, Lieutenant of Morgul",
             "CollInfo": "1U235",
             "Variant": "F",
             "Horiz": false,
@@ -4046,7 +4046,7 @@
             "Filename": "LOTR-EN01F320.0_card.jpg"
           },
           {
-            "Name": "Farmer Maggot’s Fields",
+            "Name": "Farmer Maggotï¿½s Fields",
             "CollInfo": "1U321",
             "Variant": "F",
             "Horiz": true,
@@ -4221,7 +4221,7 @@
             "Filename": "LOTR-EN01F350.0_card.jpg"
           },
           {
-            "Name": "Lothlórien Woods",
+            "Name": "Lothlï¿½rien Woods",
             "CollInfo": "1U352",
             "Variant": "F",
             "Horiz": true,
@@ -4364,7 +4364,7 @@
             "Filename": "LOTR-EN01S056.0_card.jpg"
           },
           {
-            "Name": "Rúmil, Elven Protector",
+            "Name": "Rï¿½mil, Elven Protector",
             "CollInfo": "1U57",
             "Variant": "S",
             "Horiz": false,
@@ -4413,7 +4413,7 @@
             "Filename": "LOTR-EN01S073.0_card.jpg"
           },
           {
-            "Name": "Gandalf’s Pipe",
+            "Name": "Gandalfï¿½s Pipe",
             "CollInfo": "1U74",
             "Variant": "S",
             "Horiz": false,
@@ -4427,7 +4427,7 @@
             "Filename": "LOTR-EN01S077.0_card.jpg"
           },
           {
-            "Name": "Aragorn’s Pipe",
+            "Name": "Aragornï¿½s Pipe",
             "CollInfo": "1U91",
             "Variant": "S",
             "Horiz": false,
@@ -4476,7 +4476,7 @@
             "Filename": "LOTR-EN01S109.0_card.jpg"
           },
           {
-            "Name": "Ranger’s Sword",
+            "Name": "Rangerï¿½s Sword",
             "CollInfo": "1U112",
             "Variant": "S",
             "Horiz": false,
@@ -4644,7 +4644,7 @@
             "Filename": "LOTR-EN01S215.0_card.jpg"
           },
           {
-            "Name": "Nazgûl Sword",
+            "Name": "Nazgï¿½l Sword",
             "CollInfo": "1U218",
             "Variant": "S",
             "Horiz": false,
@@ -4700,35 +4700,35 @@
             "Filename": "LOTR-EN01S227.0_card.jpg"
           },
           {
-            "Name": "Úlairë Enquëa, Lieutenant of Morgul",
+            "Name": "ï¿½lairï¿½ Enquï¿½a, Lieutenant of Morgul",
             "CollInfo": "1U231",
             "Variant": "S",
             "Horiz": false,
             "Filename": "LOTR-EN01S231.0_card.jpg"
           },
           {
-            "Name": "Úlairë Lemenya, Lieutenant of Morgul",
+            "Name": "ï¿½lairï¿½ Lemenya, Lieutenant of Morgul",
             "CollInfo": "1U232",
             "Variant": "S",
             "Horiz": false,
             "Filename": "LOTR-EN01S232.0_card.jpg"
           },
           {
-            "Name": "Úlairë Nelya, Lieutenant of Morgul",
+            "Name": "ï¿½lairï¿½ Nelya, Lieutenant of Morgul",
             "CollInfo": "1U233",
             "Variant": "S",
             "Horiz": false,
             "Filename": "LOTR-EN01S233.0_card.jpg"
           },
           {
-            "Name": "Úlairë Nertëa, Messenger of Dol Guldur",
+            "Name": "ï¿½lairï¿½ Nertï¿½a, Messenger of Dol Guldur",
             "CollInfo": "1U234",
             "Variant": "S",
             "Horiz": false,
             "Filename": "LOTR-EN01S234.0_card.jpg"
           },
           {
-            "Name": "Úlairë Otsëa, Lieutenant of Morgul",
+            "Name": "ï¿½lairï¿½ Otsï¿½a, Lieutenant of Morgul",
             "CollInfo": "1U235",
             "Variant": "S",
             "Horiz": false,
@@ -4896,7 +4896,7 @@
             "Filename": "LOTR-EN01S320.0_card.jpg"
           },
           {
-            "Name": "Farmer Maggot’s Fields",
+            "Name": "Farmer Maggotï¿½s Fields",
             "CollInfo": "1U321",
             "Variant": "S",
             "Horiz": true,
@@ -5071,7 +5071,7 @@
             "Filename": "LOTR-EN01S350.0_card.jpg"
           },
           {
-            "Name": "Lothlórien Woods",
+            "Name": "Lothlï¿½rien Woods",
             "CollInfo": "1U352",
             "Variant": "S",
             "Horiz": true,

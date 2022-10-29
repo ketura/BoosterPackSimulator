@@ -100,7 +100,7 @@ namespace BoosterPackSimulator
         public int Count { get; set; }
         public DisplayBoxDefinition DisplayBox { get; set; } = new DisplayBoxDefinition();
         
-        public string SetName { get; set; }
+        public string? SetName { get; set; }
         public string Name => $"{SetName} Booster Case ({Count}x Booster Display Boxes)";
         [JsonConverter(typeof(StringEnumConverter))] 
         public ProductType ProductType => ProductType.Case;
