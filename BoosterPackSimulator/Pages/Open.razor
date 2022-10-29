@@ -47,8 +47,9 @@
         }
         else
         {
-            //TODO: put image class here based on the image's "horiz" field and make the CSS apply a 90 degree transform
-            <img src ="@(GameDef.BaseURL + card.Filename)" class="@(card.Horiz ? "cardrotate" : "")"/>
+            <div class="card-wrapper">
+                <img src ="@(GameDef.BaseURL + card.Filename)" class="@(card.Horiz ? "cardrotate" : "")"/>
+            </div>
         }
     }
 </div>
@@ -306,16 +307,35 @@
         border: dashed;
     }
 
-    .cardrotate {
-        transform: rotate(270deg);
+    .card-wrapper {
         width: 300px;
         height: 215px;
-        max-height: 215px;
+    }
+
+    .card-wrapper img {
+        width: 215px;
+        height: 300px;
     }
 
     img {
         max-height: 300px;
         max-width: 300px; 
+    }
+
+    .cardrotate {
+        transform: rotate(270deg);
+    }
+
+    .card-display img {
+        max-height: 300px;
+        max-width: 215px;
+    }
+
+    .card-display {
+        display: flex;
+        gap:5px;
+        flex-wrap: wrap;
+        
     }
 
     figure {
@@ -339,11 +359,6 @@
         height: 4em;
     }
 
-    .card-display {
-        display: flex;
-        gap:5px;
-        flex-wrap: wrap;
-
-    }
+    
 
 </style>
