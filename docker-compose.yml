@@ -1,0 +1,27 @@
+version: "3.8"
+
+services:
+  booster_sim_app:
+    container_name: booster_sim_app
+    build: 
+      context: .
+      dockerfile: boostersim.Dockerfile
+    image: booster_sim_app
+    expose:
+      - "80"
+      - "8080"
+    restart: always
+    ports:
+        # target means in the container
+      - target: 80
+        # published is what's on the host machine
+        published: 1622
+    #volumes:
+       #- type: bind
+       #  source: ./
+       #  target: /app
+    #command: sleep infinity
+
+networks:
+  default:
+    driver: bridge
