@@ -13,6 +13,7 @@ namespace BoosterPackSimulator
     {
         string Name { get; }
         ProductType ProductType { get; }
+        string Variant { get; }
         string Filename { get; }
         string Description { get; }
         float Price { get; }

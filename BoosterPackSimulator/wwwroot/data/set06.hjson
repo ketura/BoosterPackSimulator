@@ -1,0 +1,1365 @@
+{
+	GameName: The Lord of the Rings Trading Card Game
+	LastUpdated: 2022-08-06T00:00:01Z
+
+	Sets: {
+		6: {
+			Name: Ents of Fangorn
+			SetNum: 6
+			FullFoils: true
+			Cards: [
+				{
+					Name: Bound By Rage
+					Set: 6
+					Rarity: C
+					Num: 1
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Bound_By_Rage_(6C1)
+					EN_Image: LOTR-EN06S001.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F001.0_card.jpg/353px-LOTR-EN06F001.0_card.jpg
+				}
+				{
+					Name: Dunlending Elder
+					Set: 6
+					Rarity: C
+					Num: 2
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Dunlending_Elder_(6C2)
+					EN_Image: LOTR-EN06S002.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F002.0_card.jpg/353px-LOTR-EN06F002.0_card.jpg
+				}
+				{
+					Name: Dunlending Footmen
+					Set: 6
+					Rarity: C
+					Num: 3
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Dunlending_Footmen_(6C3)
+					EN_Image: LOTR-EN06S003.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F003.0_card.jpg/353px-LOTR-EN06F003.0_card.jpg
+				}
+				{
+					Name: Dunlending Headman
+					Set: 6
+					Rarity: C
+					Num: 4
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Dunlending_Headman_(6C4)
+					EN_Image: LOTR-EN06S004.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F004.0_card.jpg/353px-LOTR-EN06F004.0_card.jpg
+				}
+				{
+					Name: Dunlending Reserve
+					Set: 6
+					Rarity: C
+					Num: 5
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Dunlending_Reserve_(6C5)
+					EN_Image: LOTR-EN06S005.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F005.0_card.jpg/353px-LOTR-EN06F005.0_card.jpg
+				}
+				{
+					Name: Hill Clan
+					Set: 6
+					Rarity: R
+					Num: 6
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Hill_Clan_(6R6)
+					EN_Image: LOTR-EN06S006.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F006.0_card.jpg/353px-LOTR-EN06F006.0_card.jpg
+				}
+				{
+					Name: Ready to Fall
+					Set: 6
+					Rarity: R
+					Num: 7
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Ready_to_Fall_(6R7)
+					EN_Image: LOTR-EN06S007.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F007.0_card.jpg/353px-LOTR-EN06F007.0_card.jpg
+				}
+				{
+					Name: Too Long Have These Peasants Stood
+					Set: 6
+					Rarity: U
+					Num: 8
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Too_Long_Have_These_Peasants_Stood_(6U8)
+					EN_Image: LOTR-EN06S008.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F008.0_card.jpg/353px-LOTR-EN06F008.0_card.jpg
+				}
+				{
+					Name: Lend Us Your Aid
+					Set: 6
+					Rarity: U
+					Num: 9
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Lend_Us_Your_Aid_(6U9)
+					EN_Image: LOTR-EN06S009.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F009.0_card.jpg/353px-LOTR-EN06F009.0_card.jpg
+				}
+				{
+					Name: Suspended Palaces
+					Set: 6
+					Rarity: C
+					Num: 10
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Suspended_Palaces_(6C10)
+					EN_Image: LOTR-EN06S010.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F010.0_card.jpg/353px-LOTR-EN06F010.0_card.jpg
+				}
+				{
+					Name: Toss Me
+					Set: 6
+					Rarity: R
+					Num: 11
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Toss_Me_(6R11)
+					EN_Image: LOTR-EN06S011.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F011.0_card.jpg/353px-LOTR-EN06F011.0_card.jpg
+				}
+				{
+					Name: Agility
+					Set: 6
+					Rarity: C
+					Num: 12
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Agility_(6C12)
+					EN_Image: LOTR-EN06S012.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F012.0_card.jpg/353px-LOTR-EN06F012.0_card.jpg
+				}
+				{
+					Name: Arwen, Evenstar of Her People
+					Set: 6
+					Rarity: U
+					Num: 13
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Arwen,_Evenstar_of_Her_People_(6U13)
+					EN_Image: LOTR-EN06S013.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F013.0_card.jpg/353px-LOTR-EN06F013.0_card.jpg
+				}
+				{
+					Name: Banner of Elbereth
+					Set: 6
+					Rarity: U
+					Num: 14
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Banner_of_Elbereth_(6U14)
+					EN_Image: LOTR-EN06S014.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F014.0_card.jpg/353px-LOTR-EN06F014.0_card.jpg
+				}
+				{
+					Name: Elrond, Keeper of Vilya
+					Set: 6
+					Rarity: R
+					Num: 15
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Elrond,_Keeper_of_Vilya_(6R15)
+					EN_Image: LOTR-EN06S015.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F015.0_card.jpg/353px-LOTR-EN06F015.0_card.jpg
+				}
+				{
+					Name: Forearmed
+					Set: 6
+					Rarity: U
+					Num: 16
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Forearmed_(6U16)
+					EN_Image: LOTR-EN06S016.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F016.0_card.jpg/353px-LOTR-EN06F016.0_card.jpg
+				}
+				{
+					Name: Forewarned
+					Set: 6
+					Rarity: C
+					Num: 17
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Forewarned_(6C17)
+					EN_Image: LOTR-EN06S017.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F017.0_card.jpg/353px-LOTR-EN06F017.0_card.jpg
+				}
+				{
+					Name: Galadriel, Keeper of Nenya
+					Set: 6
+					Rarity: R
+					Num: 18
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Galadriel,_Keeper_of_Nenya_(6R18)
+					EN_Image: LOTR-EN06S018.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F018.0_card.jpg/353px-LOTR-EN06F018.0_card.jpg
+				}
+				{
+					Name: Gift of Foresight
+					Set: 6
+					Rarity: U
+					Num: 19
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Gift_of_Foresight_(6U19)
+					EN_Image: LOTR-EN06S019.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F019.0_card.jpg/353px-LOTR-EN06F019.0_card.jpg
+				}
+				{
+					Name: Must Be a Dream
+					Set: 6
+					Rarity: U
+					Num: 20
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Must_Be_a_Dream_(6U20)
+					EN_Image: LOTR-EN06S020.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F020.0_card.jpg/353px-LOTR-EN06F020.0_card.jpg
+				}
+				{
+					Name: Naith Longbow
+					Set: 6
+					Rarity: C
+					Num: 21
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Naith_Longbow_(6C21)
+					EN_Image: LOTR-EN06S021.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F021.0_card.jpg/353px-LOTR-EN06F021.0_card.jpg
+				}
+				{
+					Name: Naith Troop
+					Set: 6
+					Rarity: U
+					Num: 22
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Naith_Troop_(6U22)
+					EN_Image: LOTR-EN06S022.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F022.0_card.jpg/353px-LOTR-EN06F022.0_card.jpg
+				}
+				{
+					Name: Naith Warband
+					Set: 6
+					Rarity: R
+					Num: 23
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Naith_Warband_(6R23)
+					EN_Image: LOTR-EN06S023.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F023.0_card.jpg/353px-LOTR-EN06F023.0_card.jpg
+				}
+				{
+					Name: Boomed and Trumpeted
+					Set: 6
+					Rarity: U
+					Num: 24
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Boomed_and_Trumpeted_(6U24)
+					EN_Image: LOTR-EN06S024.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F024.0_card.jpg/353px-LOTR-EN06F024.0_card.jpg
+				}
+				{
+					Name: Crack Into Rubble
+					Set: 6
+					Rarity: U
+					Num: 25
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Crack_Into_Rubble_(6U25)
+					EN_Image: LOTR-EN06S025.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F025.0_card.jpg/353px-LOTR-EN06F025.0_card.jpg
+				}
+				{
+					Name: Enraged
+					Set: 6
+					Rarity: R
+					Num: 26
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Enraged_(6R26)
+					EN_Image: LOTR-EN06S026.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F026.0_card.jpg/353px-LOTR-EN06F026.0_card.jpg
+				}
+				{
+					Name: Ent Avenger
+					Set: 6
+					Rarity: C
+					Num: 27
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Ent_Avenger_(6C27)
+					EN_Image: LOTR-EN06S027.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F027.0_card.jpg/353px-LOTR-EN06F027.0_card.jpg
+				}
+				{
+					Name: Ent Horde
+					Set: 6
+					Rarity: R
+					Num: 28
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Ent_Horde_(6R28)
+					EN_Image: LOTR-EN06S028.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F028.0_card.jpg/353px-LOTR-EN06F028.0_card.jpg
+				}
+				{
+					Name: Ent Moot
+					Set: 6
+					Rarity: C
+					Num: 29
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Ent_Moot_(6C29)
+					EN_Image: LOTR-EN06S029.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F029.0_card.jpg/353px-LOTR-EN06F029.0_card.jpg
+				}
+				{
+					Name: Gandalf, Mithrandir
+					Set: 6
+					Rarity: R
+					Num: 30
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Gandalf,_Mithrandir_(6R30)
+					EN_Image: LOTR-EN06S030.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F030.0_card.jpg/353px-LOTR-EN06F030.0_card.jpg
+				}
+				{
+					Name: Glamdring, Lightning Brand
+					Set: 6
+					Rarity: R
+					Num: 31
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Glamdring,_Lightning_Brand_(6R31)
+					EN_Image: LOTR-EN06S031.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F031.0_card.jpg/353px-LOTR-EN06F031.0_card.jpg
+				}
+				{
+					Name: Host of Fangorn
+					Set: 6
+					Rarity: U
+					Num: 32
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Host_of_Fangorn_(6U32)
+					EN_Image: LOTR-EN06S032.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F032.0_card.jpg/353px-LOTR-EN06F032.0_card.jpg
+				}
+				{
+					Name: Quickbeam, Bregalad
+					Set: 6
+					Rarity: C
+					Num: 33
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Quickbeam,_Bregalad_(6C33)
+					EN_Image: LOTR-EN06S033.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F033.0_card.jpg/353px-LOTR-EN06F033.0_card.jpg
+				}
+				{
+					Name: Roused
+					Set: 6
+					Rarity: C
+					Num: 34
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Roused_(6C34)
+					EN_Image: LOTR-EN06S034.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F034.0_card.jpg/353px-LOTR-EN06F034.0_card.jpg
+				}
+				{
+					Name: Skinbark, Fladrif
+					Set: 6
+					Rarity: R
+					Num: 35
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Skinbark,_Fladrif_(6R35)
+					EN_Image: LOTR-EN06S035.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F035.0_card.jpg/353px-LOTR-EN06F035.0_card.jpg
+				}
+				{
+					Name: Threw Down My Enemy
+					Set: 6
+					Rarity: U
+					Num: 36
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Threw_Down_My_Enemy_(6U36)
+					EN_Image: LOTR-EN06S036.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F036.0_card.jpg/353px-LOTR-EN06F036.0_card.jpg
+				}
+				{
+					Name: Treebeard, Guardian of the Forest
+					Set: 6
+					Rarity: C
+					Num: 37
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Treebeard,_Guardian_of_the_Forest_(6C37)
+					EN_Image: LOTR-EN06S037.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F037.0_card.jpg/353px-LOTR-EN06F037.0_card.jpg
+				}
+				{
+					Name: Don’t Follow the Lights
+					Set: 6
+					Rarity: C
+					Num: 38
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Don't_Follow_the_Lights_(6C38)
+					EN_Image: LOTR-EN06S038.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F038.0_card.jpg/353px-LOTR-EN06F038.0_card.jpg
+				}
+				{
+					Name: Don’t Look at Them
+					Set: 6
+					Rarity: R
+					Num: 39
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Don't_Look_at_Them_(6R39)
+					EN_Image: LOTR-EN06S039.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F039.0_card.jpg/353px-LOTR-EN06F039.0_card.jpg
+				}
+				{
+					Name: Gollum, Old Villain
+					Set: 6
+					Rarity: C
+					Num: 40
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Gollum,_Old_Villain_(6C40)
+					EN_Image: LOTR-EN06S040.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F040.0_card.jpg/353px-LOTR-EN06F040.0_card.jpg
+				}
+				{
+					Name: Master Broke His Promise
+					Set: 6
+					Rarity: R
+					Num: 41
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Master_Broke_His_Promise_(6R41)
+					EN_Image: LOTR-EN06S041.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F041.0_card.jpg/353px-LOTR-EN06F041.0_card.jpg
+				}
+				{
+					Name: Nasty, Foul Hobbitses
+					Set: 6
+					Rarity: C
+					Num: 42
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Nasty,_Foul_Hobbitses_(6C42)
+					EN_Image: LOTR-EN06S042.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F042.0_card.jpg/353px-LOTR-EN06F042.0_card.jpg
+				}
+				{
+					Name: Not Listening
+					Set: 6
+					Rarity: C
+					Num: 43
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Not_Listening_(6C43)
+					EN_Image: LOTR-EN06S043.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F043.0_card.jpg/353px-LOTR-EN06F043.0_card.jpg
+				}
+				{
+					Name: Safe Paths
+					Set: 6
+					Rarity: R
+					Num: 44
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Safe_Paths_(6R44)
+					EN_Image: LOTR-EN06S044.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F044.0_card.jpg/353px-LOTR-EN06F044.0_card.jpg
+				}
+				{
+					Name: Sméagol, Poor Creature
+					Set: 6
+					Rarity: C
+					Num: 45
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Smeagol,_Poor_Creature_(6C45)
+					EN_Image: LOTR-EN06S045.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F045.0_card.jpg/353px-LOTR-EN06F045.0_card.jpg
+				}
+				{
+					Name: They Stole It
+					Set: 6
+					Rarity: R
+					Num: 46
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/They_Stole_It_(6R46)
+					EN_Image: LOTR-EN06S046.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F046.0_card.jpg/353px-LOTR-EN06F046.0_card.jpg
+				}
+				{
+					Name: You’re a Liar and a Thief
+					Set: 6
+					Rarity: C
+					Num: 47
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/You're_a_Liar_and_a_Thief_(6C47)
+					EN_Image: LOTR-EN06S047.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F047.0_card.jpg/353px-LOTR-EN06F047.0_card.jpg
+				}
+				{
+					Name: Anborn, Skilled Huntsman
+					Set: 6
+					Rarity: C
+					Num: 48
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Anborn,_Skilled_Huntsman_(6C48)
+					EN_Image: LOTR-EN06S048.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F048.0_card.jpg/353px-LOTR-EN06F048.0_card.jpg
+				}
+				{
+					Name: Ancient Roads
+					Set: 6
+					Rarity: R
+					Num: 49
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Ancient_Roads_(6R49)
+					EN_Image: LOTR-EN06S049.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F049.0_card.jpg/353px-LOTR-EN06F049.0_card.jpg
+				}
+				{
+					Name: Aragorn, Defender of Free Peoples
+					Set: 6
+					Rarity: R
+					Num: 50
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Aragorn,_Defender_of_Free_Peoples_(6R50)
+					EN_Image: LOTR-EN06S050.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F050.0_card.jpg/353px-LOTR-EN06F050.0_card.jpg
+				}
+				{
+					Name: Banner of Westernesse
+					Set: 6
+					Rarity: U
+					Num: 51
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Banner_of_Westernesse_(6U51)
+					EN_Image: LOTR-EN06S051.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F051.0_card.jpg/353px-LOTR-EN06F051.0_card.jpg
+				}
+				{
+					Name: Garrison of Osgiliath
+					Set: 6
+					Rarity: C
+					Num: 52
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Garrison_of_Osgiliath_(6C52)
+					EN_Image: LOTR-EN06S052.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F052.0_card.jpg/353px-LOTR-EN06F052.0_card.jpg
+				}
+				{
+					Name: Mortal Men
+					Set: 6
+					Rarity: C
+					Num: 53
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Mortal_Men_(6C53)
+					EN_Image: LOTR-EN06S053.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F053.0_card.jpg/353px-LOTR-EN06F053.0_card.jpg
+				}
+				{
+					Name: Perilous Ventures
+					Set: 6
+					Rarity: U
+					Num: 54
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Perilous_Ventures_(6U54)
+					EN_Image: LOTR-EN06S054.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F054.0_card.jpg/353px-LOTR-EN06F054.0_card.jpg
+				}
+				{
+					Name: Ring of Barahir
+					Set: 6
+					Rarity: R
+					Num: 55
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Ring_of_Barahir_(6R55)
+					EN_Image: LOTR-EN06S055.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F055.0_card.jpg/353px-LOTR-EN06F055.0_card.jpg
+				}
+				{
+					Name: Trust
+					Set: 6
+					Rarity: C
+					Num: 56
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Trust_(6C56)
+					EN_Image: LOTR-EN06S056.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F056.0_card.jpg/353px-LOTR-EN06F056.0_card.jpg
+				}
+				{
+					Name: Agents of Orthanc
+					Set: 6
+					Rarity: R
+					Num: 57
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Agents_of_Orthanc_(6R57)
+					EN_Image: LOTR-EN06S057.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F057.0_card.jpg/353px-LOTR-EN06F057.0_card.jpg
+				}
+				{
+					Name: Assault Ladder
+					Set: 6
+					Rarity: U
+					Num: 58
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Assault_Ladder_(6U58)
+					EN_Image: LOTR-EN06S058.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F058.0_card.jpg/353px-LOTR-EN06F058.0_card.jpg
+				}
+				{
+					Name: Banner of Isengard
+					Set: 6
+					Rarity: C
+					Num: 59
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Banner_of_Isengard_(6C59)
+					EN_Image: LOTR-EN06S059.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F059.0_card.jpg/353px-LOTR-EN06F059.0_card.jpg
+				}
+				{
+					Name: Berserk Butcher
+					Set: 6
+					Rarity: R
+					Num: 60
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Berserk_Butcher_(6R60)
+					EN_Image: LOTR-EN06S060.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F060.0_card.jpg/353px-LOTR-EN06F060.0_card.jpg
+				}
+				{
+					Name: Desertion
+					Set: 6
+					Rarity: U
+					Num: 61
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Desertion_(6U61)
+					EN_Image: LOTR-EN06S061.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F061.0_card.jpg/353px-LOTR-EN06F061.0_card.jpg
+				}
+				{
+					Name: Fires and Foul Fumes
+					Set: 6
+					Rarity: R
+					Num: 62
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Fires_and_Foul_Fumes_(6R62)
+					EN_Image: LOTR-EN06S062.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F062.0_card.jpg/353px-LOTR-EN06F062.0_card.jpg
+				}
+				{
+					Name: Gnawing, Biting, Hacking, Burning
+					Set: 6
+					Rarity: U
+					Num: 63
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Gnawing,_Biting,_Hacking,_Burning_(6U63)
+					EN_Image: LOTR-EN06S063.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F063.0_card.jpg/353px-LOTR-EN06F063.0_card.jpg
+				}
+				{
+					Name: Iron Fist of the Orc
+					Set: 6
+					Rarity: U
+					Num: 64
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Iron_Fist_of_the_Orc_(6U64)
+					EN_Image: LOTR-EN06S064.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F064.0_card.jpg/353px-LOTR-EN06F064.0_card.jpg
+				}
+				{
+					Name: Isengard Artisan
+					Set: 6
+					Rarity: C
+					Num: 65
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Isengard_Artisan_(6C65)
+					EN_Image: LOTR-EN06S065.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F065.0_card.jpg/353px-LOTR-EN06F065.0_card.jpg
+				}
+				{
+					Name: Isengard Builder
+					Set: 6
+					Rarity: U
+					Num: 66
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Isengard_Builder_(6U66)
+					EN_Image: LOTR-EN06S066.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F066.0_card.jpg/353px-LOTR-EN06F066.0_card.jpg
+				}
+				{
+					Name: Isengard Journeyman
+					Set: 6
+					Rarity: C
+					Num: 67
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Isengard_Journeyman_(6C67)
+					EN_Image: LOTR-EN06S067.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F067.0_card.jpg/353px-LOTR-EN06F067.0_card.jpg
+				}
+				{
+					Name: Isengard Mechanics
+					Set: 6
+					Rarity: R
+					Num: 68
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Isengard_Mechanics_(6R68)
+					EN_Image: LOTR-EN06S068.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F068.0_card.jpg/353px-LOTR-EN06F068.0_card.jpg
+				}
+				{
+					Name: Isengard Plodder
+					Set: 6
+					Rarity: C
+					Num: 69
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Isengard_Plodder_(6C69)
+					EN_Image: LOTR-EN06S069.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F069.0_card.jpg/353px-LOTR-EN06F069.0_card.jpg
+				}
+				{
+					Name: Isengard Tender
+					Set: 6
+					Rarity: U
+					Num: 70
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Isengard_Tender_(6U70)
+					EN_Image: LOTR-EN06S070.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F070.0_card.jpg/353px-LOTR-EN06F070.0_card.jpg
+				}
+				{
+					Name: Isengard Tinker
+					Set: 6
+					Rarity: C
+					Num: 71
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Isengard_Tinker_(6C71)
+					EN_Image: LOTR-EN06S071.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F071.0_card.jpg/353px-LOTR-EN06F071.0_card.jpg
+				}
+				{
+					Name: Rohirrim Traitor
+					Set: 6
+					Rarity: C
+					Num: 72
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Rohirrim_Traitor_(6C72)
+					EN_Image: LOTR-EN06S072.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F072.0_card.jpg/353px-LOTR-EN06F072.0_card.jpg
+				}
+				{
+					Name: Scaffolding
+					Set: 6
+					Rarity: U
+					Num: 73
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Scaffolding_(6U73)
+					EN_Image: LOTR-EN06S073.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F073.0_card.jpg/353px-LOTR-EN06F073.0_card.jpg
+				}
+				{
+					Name: Sharku, Vile Marauder
+					Set: 6
+					Rarity: R
+					Num: 74
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Sharku,_Vile_Marauder_(6R74)
+					EN_Image: LOTR-EN06S074.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F074.0_card.jpg/353px-LOTR-EN06F074.0_card.jpg
+				}
+				{
+					Name: Twisted Tales
+					Set: 6
+					Rarity: U
+					Num: 75
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Twisted_Tales_(6U75)
+					EN_Image: LOTR-EN06S075.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F075.0_card.jpg/353px-LOTR-EN06F075.0_card.jpg
+				}
+				{
+					Name: The Balrog, Terror of Flame and Shadow
+					Set: 6
+					Rarity: R
+					Num: 76
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/The_Balrog,_Terror_of_Flame_and_Shadow_(6R76)
+					EN_Image: LOTR-EN06S076.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F076.0_card.jpg/353px-LOTR-EN06F076.0_card.jpg
+				}
+				{
+					Name: Durin’s Tower
+					Set: 6
+					Rarity: R
+					Num: 77
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Durin's_Tower_(6R77)
+					EN_Image: LOTR-EN06S077.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F077.0_card.jpg/353px-LOTR-EN06F077.0_card.jpg
+				}
+				{
+					Name: Easterling Army
+					Set: 6
+					Rarity: R
+					Num: 78
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Easterling_Army_(6R78)
+					EN_Image: LOTR-EN06S078.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F078.0_card.jpg/353px-LOTR-EN06F078.0_card.jpg
+				}
+				{
+					Name: Easterling Polearm
+					Set: 6
+					Rarity: U
+					Num: 79
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Easterling_Polearm_(6U79)
+					EN_Image: LOTR-EN06S079.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F079.0_card.jpg/353px-LOTR-EN06F079.0_card.jpg
+				}
+				{
+					Name: Southron Archer Legion
+					Set: 6
+					Rarity: R
+					Num: 80
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Southron_Archer_Legion_(6R80)
+					EN_Image: LOTR-EN06S080.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F080.0_card.jpg/353px-LOTR-EN06F080.0_card.jpg
+				}
+				{
+					Name: Southron Invaders
+					Set: 6
+					Rarity: C
+					Num: 81
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Southron_Invaders_(6C81)
+					EN_Image: LOTR-EN06S081.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F081.0_card.jpg/353px-LOTR-EN06F081.0_card.jpg
+				}
+				{
+					Name: Trample
+					Set: 6
+					Rarity: R
+					Num: 82
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Trample_(6R82)
+					EN_Image: LOTR-EN06S082.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F082.0_card.jpg/353px-LOTR-EN06F082.0_card.jpg
+				}
+				{
+					Name: Fell Beast
+					Set: 6
+					Rarity: U
+					Num: 83
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Fell_Beast_(6U83)
+					EN_Image: LOTR-EN06S083.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F083.0_card.jpg/353px-LOTR-EN06F083.0_card.jpg
+				}
+				{
+					Name: Spied From Above
+					Set: 6
+					Rarity: U
+					Num: 84
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Spied_From_Above_(6U84)
+					EN_Image: LOTR-EN06S084.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F084.0_card.jpg/353px-LOTR-EN06F084.0_card.jpg
+				}
+				{
+					Name: Sword of Dol Guldur
+					Set: 6
+					Rarity: R
+					Num: 85
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Sword_of_Dol_Guldur_(6R85)
+					EN_Image: LOTR-EN06S085.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F085.0_card.jpg/353px-LOTR-EN06F085.0_card.jpg
+				}
+				{
+					Name: Úlairë Lemenya, Winged Hunter
+					Set: 6
+					Rarity: U
+					Num: 86
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Ulaire_Lemenya,_Winged_Hunter_(6U86)
+					EN_Image: LOTR-EN06S086.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F086.0_card.jpg/353px-LOTR-EN06F086.0_card.jpg
+				}
+				{
+					Name: Úlairë Nertëa, Winged Hunter
+					Set: 6
+					Rarity: U
+					Num: 87
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Ulaire_Nertea,_Winged_Hunter_(6U87)
+					EN_Image: LOTR-EN06S087.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F087.0_card.jpg/353px-LOTR-EN06F087.0_card.jpg
+				}
+				{
+					Name: Úlairë Toldëa, Winged Sentry
+					Set: 6
+					Rarity: R
+					Num: 88
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Ulaire_Toldea,_Winged_Sentry_(6R88)
+					EN_Image: LOTR-EN06S088.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F088.0_card.jpg/353px-LOTR-EN06F088.0_card.jpg
+				}
+				{
+					Name: Winged and Ominous
+					Set: 6
+					Rarity: R
+					Num: 89
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Winged_and_Ominous_(6R89)
+					EN_Image: LOTR-EN06S089.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F089.0_card.jpg/353px-LOTR-EN06F089.0_card.jpg
+				}
+				{
+					Name: Banner of the Mark
+					Set: 6
+					Rarity: U
+					Num: 90
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Banner_of_the_Mark_(6U90)
+					EN_Image: LOTR-EN06S090.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F090.0_card.jpg/353px-LOTR-EN06F090.0_card.jpg
+				}
+				{
+					Name: Blood Has Been Spilled
+					Set: 6
+					Rarity: U
+					Num: 91
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Blood_Has_Been_Spilled_(6U91)
+					EN_Image: LOTR-EN06S091.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F091.0_card.jpg/353px-LOTR-EN06F091.0_card.jpg
+				}
+				{
+					Name: Éomer, Rohirrim Captain
+					Set: 6
+					Rarity: R
+					Num: 92
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Eomer,_Rohirrim_Captain_(6R92)
+					EN_Image: LOTR-EN06S092.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F092.0_card.jpg/353px-LOTR-EN06F092.0_card.jpg
+				}
+				{
+					Name: Ever the Hope of Men
+					Set: 6
+					Rarity: U
+					Num: 93
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Ever_the_Hope_of_Men_(6U93)
+					EN_Image: LOTR-EN06S093.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F093.0_card.jpg/353px-LOTR-EN06F093.0_card.jpg
+				}
+				{
+					Name: Háma, Doorward of Theoden
+					Set: 6
+					Rarity: R
+					Num: 94
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Hama,_Doorward_of_Theoden_(6R94)
+					EN_Image: LOTR-EN06S094.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F094.0_card.jpg/353px-LOTR-EN06F094.0_card.jpg
+				}
+				{
+					Name: Hrethel, Rider of Rohan
+					Set: 6
+					Rarity: C
+					Num: 95
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Hrethel,_Rider_of_Rohan_(6C95)
+					EN_Image: LOTR-EN06S095.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F095.0_card.jpg/353px-LOTR-EN06F095.0_card.jpg
+				}
+				{
+					Name: News From the Mark
+					Set: 6
+					Rarity: R
+					Num: 96
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/News_From_the_Mark_(6R96)
+					EN_Image: LOTR-EN06S096.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F096.0_card.jpg/353px-LOTR-EN06F096.0_card.jpg
+				}
+				{
+					Name: We Left None Alive
+					Set: 6
+					Rarity: C
+					Num: 97
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/We_Left_None_Alive_(6C97)
+					EN_Image: LOTR-EN06S097.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F097.0_card.jpg/353px-LOTR-EN06F097.0_card.jpg
+				}
+				{
+					Name: Banner of the Eye
+					Set: 6
+					Rarity: C
+					Num: 98
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Banner_of_the_Eye_(6C98)
+					EN_Image: LOTR-EN06S098.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F098.0_card.jpg/353px-LOTR-EN06F098.0_card.jpg
+				}
+				{
+					Name: Corpse Lights
+					Set: 6
+					Rarity: C
+					Num: 99
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Corpse_Lights_(6C99)
+					EN_Image: LOTR-EN06S099.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F099.0_card.jpg/353px-LOTR-EN06F099.0_card.jpg
+				}
+				{
+					Name: Dead Ones
+					Set: 6
+					Rarity: C
+					Num: 100
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Dead_Ones_(6C100)
+					EN_Image: LOTR-EN06S100.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F100.0_card.jpg/353px-LOTR-EN06F100.0_card.jpg
+				}
+				{
+					Name: Gate Picket
+					Set: 6
+					Rarity: R
+					Num: 101
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Gate_Picket_(6R101)
+					EN_Image: LOTR-EN06S101.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F101.0_card.jpg/353px-LOTR-EN06F101.0_card.jpg
+				}
+				{
+					Name: Gate Sentry
+					Set: 6
+					Rarity: C
+					Num: 102
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Gate_Sentry_(6C102)
+					EN_Image: LOTR-EN06S102.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F102.0_card.jpg/353px-LOTR-EN06F102.0_card.jpg
+				}
+				{
+					Name: Gate Troll
+					Set: 6
+					Rarity: R
+					Num: 103
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Gate_Troll_(6R103)
+					EN_Image: LOTR-EN06S103.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F103.0_card.jpg/353px-LOTR-EN06F103.0_card.jpg
+				}
+				{
+					Name: Orc Insurgent
+					Set: 6
+					Rarity: U
+					Num: 104
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Orc_Insurgent_(6U104)
+					EN_Image: LOTR-EN06S104.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F104.0_card.jpg/353px-LOTR-EN06F104.0_card.jpg
+				}
+				{
+					Name: Peril
+					Set: 6
+					Rarity: U
+					Num: 105
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Peril_(6U105)
+					EN_Image: LOTR-EN06S105.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F105.0_card.jpg/353px-LOTR-EN06F105.0_card.jpg
+				}
+				{
+					Name: Troll of Udûn
+					Set: 6
+					Rarity: R
+					Num: 106
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Troll_of_Udun_(6R106)
+					EN_Image: LOTR-EN06S106.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F106.0_card.jpg/353px-LOTR-EN06F106.0_card.jpg
+				}
+				{
+					Name: Troll’s Chain
+					Set: 6
+					Rarity: U
+					Num: 107
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Troll's_Chain_(6U107)
+					EN_Image: LOTR-EN06S107.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F107.0_card.jpg/353px-LOTR-EN06F107.0_card.jpg
+				}
+				{
+					Name: Wisp of Pale Sheen
+					Set: 6
+					Rarity: C
+					Num: 108
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Wisp_of_Pale_Sheen_(6C108)
+					EN_Image: LOTR-EN06S108.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F108.0_card.jpg/353px-LOTR-EN06F108.0_card.jpg
+				}
+				{
+					Name: Held
+					Set: 6
+					Rarity: R
+					Num: 109
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Held_(6R109)
+					EN_Image: LOTR-EN06S109.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F109.0_card.jpg/353px-LOTR-EN06F109.0_card.jpg
+				}
+				{
+					Name: It Burns Us
+					Set: 6
+					Rarity: U
+					Num: 110
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/It_Burns_Us_(6U110)
+					EN_Image: LOTR-EN06S110.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F110.0_card.jpg/353px-LOTR-EN06F110.0_card.jpg
+				}
+				{
+					Name: Kept Safe
+					Set: 6
+					Rarity: C
+					Num: 111
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Kept_Safe_(6C111)
+					EN_Image: LOTR-EN06S111.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F111.0_card.jpg/353px-LOTR-EN06F111.0_card.jpg
+				}
+				{
+					Name: Long Slow Wrath
+					Set: 6
+					Rarity: C
+					Num: 112
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Long_Slow_Wrath_(6C112)
+					EN_Image: LOTR-EN06S112.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F112.0_card.jpg/353px-LOTR-EN06F112.0_card.jpg
+				}
+				{
+					Name: Merry, Impatient Hobbit
+					Set: 6
+					Rarity: R
+					Num: 113
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Merry,_Impatient_Hobbit_(6R113)
+					EN_Image: LOTR-EN06S113.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F113.0_card.jpg/353px-LOTR-EN06F113.0_card.jpg
+				}
+				{
+					Name: Pippin, Hastiest of All
+					Set: 6
+					Rarity: R
+					Num: 114
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Pippin,_Hastiest_of_All_(6R114)
+					EN_Image: LOTR-EN06S114.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F114.0_card.jpg/353px-LOTR-EN06F114.0_card.jpg
+				}
+				{
+					Name: Rocks of Emyn Muil
+					Set: 6
+					Rarity: U
+					Num: 115
+					Horiz: true
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Rocks_of_Emyn_Muil_(6U115)
+					EN_Image: LOTR-EN06S115.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F115.0_card.jpg/353px-LOTR-EN06F115.0_card.jpg
+				}
+				{
+					Name: Westfold
+					Set: 6
+					Rarity: U
+					Num: 116
+					Horiz: true
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Westfold_(6U116)
+					EN_Image: LOTR-EN06S116.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F116.0_card.jpg/353px-LOTR-EN06F116.0_card.jpg
+				}
+				{
+					Name: Meduseld
+					Set: 6
+					Rarity: U
+					Num: 117
+					Horiz: true
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Meduseld_(6U117)
+					EN_Image: LOTR-EN06S117.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F117.0_card.jpg/353px-LOTR-EN06F117.0_card.jpg
+				}
+				{
+					Name: Hornburg Hall
+					Set: 6
+					Rarity: U
+					Num: 118
+					Horiz: true
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Hornburg_Hall_(6U118)
+					EN_Image: LOTR-EN06S118.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F118.0_card.jpg/353px-LOTR-EN06F118.0_card.jpg
+				}
+				{
+					Name: Valley of Saruman
+					Set: 6
+					Rarity: U
+					Num: 119
+					Horiz: true
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Valley_of_Saruman_(6U119)
+					EN_Image: LOTR-EN06S119.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F119.0_card.jpg/353px-LOTR-EN06F119.0_card.jpg
+				}
+				{
+					Name: Saruman’s Laboratory
+					Set: 6
+					Rarity: U
+					Num: 120
+					Horiz: true
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Saruman's_Laboratory_(6U120)
+					EN_Image: LOTR-EN06S120.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F120.0_card.jpg/353px-LOTR-EN06F120.0_card.jpg
+				}
+				{
+					Name: Faramir, Ithilien Ranger
+					Set: 6
+					Rarity: P
+					Num: 121
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Faramir,_Ithilien_Ranger_(6P121)
+					EN_Image: LOTR-EN06S121.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F121.0_card.jpg/353px-LOTR-EN06F121.0_card.jpg
+				}
+				{
+					Name: The Witch-king, Deathless Lord
+					Set: 6
+					Rarity: P
+					Num: 122
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/The_Witch-king,_Deathless_Lord_(6P122)
+					EN_Image: LOTR-EN06S122.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F122.0_card.jpg/353px-LOTR-EN06F122.0_card.jpg
+				}
+				{
+					Name: Enraged
+					Set: 6
+					Rarity: R
+					Num: 123
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Enraged_(AI)_(6R123)
+					EN_Image: LOTR-EN06S123.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F123.0_card.jpg/353px-LOTR-EN06F123.0_card.jpg
+				}
+				{
+					Name: Skinbark, Fladrif (AI)
+					Set: 6
+					Rarity: R
+					Num: 124
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Skinbark,_Fladrif_(AI)_(6R124)
+					EN_Image: LOTR-EN06S124.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F124.0_card.jpg/353px-LOTR-EN06F124.0_card.jpg
+				}
+				{
+					Name: Don’t Look at Them
+					Set: 6
+					Rarity: R
+					Num: 125
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Don't_Look_at_Them_(AI)_(6R125)
+					EN_Image: LOTR-EN06S125.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F125.0_card.jpg/353px-LOTR-EN06F125.0_card.jpg
+				}
+				{
+					Name: Ancient Roads
+					Set: 6
+					Rarity: R
+					Num: 126
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Ancient_Roads_(AI)_(6R126)
+					EN_Image: LOTR-EN06S126.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F126.0_card.jpg/353px-LOTR-EN06F126.0_card.jpg
+				}
+				{
+					Name: Isengard Mechanics
+					Set: 6
+					Rarity: R
+					Num: 127
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Isengard_Mechanics_(AI)_(6R127)
+					EN_Image: LOTR-EN06S127.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F127.0_card.jpg/353px-LOTR-EN06F127.0_card.jpg
+				}
+				{
+					Name: Gate Troll
+					Set: 6
+					Rarity: R
+					Num: 128
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Gate_Troll_(AI)_(6R128)
+					EN_Image: LOTR-EN06S128.0_card.jpg
+					EN_Foil: thumb/LOTR-EN06F128.0_card.jpg/353px-LOTR-EN06F128.0_card.jpg
+				}
+			]
+			Sheets: {
+				C: [
+					1C58
+					1C306
+					1C281
+					1C144
+					1C7
+					1C168
+					1C116
+					1C326
+					1C141
+					1C39
+					1C294
+					1C146
+				]
+				U: [
+				]
+				R: [
+				]
+			}
+		}
+	}
+	CaseDefinitions: {
+		6: {
+			SetNum: 6
+			Count: 12
+			Price: 1200
+			Filename: 00-case.jpg
+			DisplayBox: {
+				Count: 36
+				Price: 100
+				Filename: 06-box.jpg
+				BoosterDefinition: {
+					BoosterType: MovieUnsorted
+					Price: 2.77
+					Filename: 06-booster.jpg
+					RaritySlots: [
+						U
+						U
+						U
+						R
+						C
+						C
+						C
+						C
+						C
+						C
+						C
+					]
+					RandomInsertions: [
+						{
+							PoolName: CF
+							Period: 13
+							PoolReplaceName: C
+							PoolReplaceIndex: 1
+						}
+						{
+							PoolName: UF
+							Period: 18
+							PoolReplaceName: C
+							PoolReplaceIndex: 2
+						}
+						{
+							PoolName: RF
+							Period: 26
+							PoolReplaceName: C
+							PoolReplaceIndex: 3
+						}
+					]
+				}
+			}
+		}
+	}
+}

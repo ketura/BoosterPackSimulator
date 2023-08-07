@@ -67,6 +67,7 @@ namespace BoosterPackSimulator
             switch (BoosterDef.BoosterType)
             {
                 case BoosterType.Movie:
+                case BoosterType.MovieUnsorted:
                 case BoosterType.Shadows:
                 case BoosterType.PostShadows:
                 case BoosterType.Reflections:
@@ -92,7 +93,7 @@ namespace BoosterPackSimulator
                 case BoosterType.Shadows:
                 case BoosterType.PostShadows:
                 case BoosterType.Reflections:
-
+                case BoosterType.MovieUnsorted:
                 case BoosterType.Movie:
                     var set = GameDef.Sets[BoosterDef.SetNum];
                     foreach (var rand in BoosterDef.RandomInsertions)
@@ -139,14 +140,60 @@ namespace BoosterPackSimulator
             public Dictionary<string, List<CardDefinition>> SeedRandomSheet(GameDefinition GameDef, BoosterDefinition BoosterDef)
             {
                 var result = new Dictionary<string, List<CardDefinition>>();
+                SetDefinition set = null;
                 switch (BoosterDef.BoosterType)
                 {
+                    case BoosterType.Movie:
+                        set = GameDef.Sets[BoosterDef.SetNum];
+                        if (set == default)
+                            return result;
+
+                        foreach (var rarity in set.CardPools.Keys)
+                        {
+                            result[rarity] = new List<CardDefinition>();
+                            if (set.Sheets.ContainsKey(rarity))
+                            {
+                                foreach (var collInfo in set.Sheets[rarity])
+                                {
+                                    var card = set.Cards.FirstOrDefault(x => x.CollInfo == collInfo);
+                                    if (card == default)
+                                        continue;
+                                    result[rarity].Add(card);
+                                }
+                            }
+                        }
+
+                        foreach (var rarity in set.CardPools.Keys.Where(x => x.Contains('F')))
+                        {
+                            foreach (var card in set.CardPools[rarity])
+                            {
+                                var actualRarity = rarity;
+                                if(rarity == "PF")
+                                {
+                                    actualRarity = "CF";
+                                }
+
+                                result[actualRarity].Add(card);
+
+                                var randomDef = BoosterDef.RandomInsertions.Where(x => x.PoolName == actualRarity).FirstOrDefault();
+                                if (randomDef == null)
+                                    continue;
+
+                                for (int i = 0; i < randomDef.Period; i++)
+                                {
+                                    result[actualRarity].Add(null);
+                                }
+                            }
+                        }
+
+                        break;
+
                     case BoosterType.Shadows:
                     case BoosterType.PostShadows:
-                    case BoosterType.Movie:
+                    case BoosterType.MovieUnsorted:
                     case BoosterType.Reflections:
 
-                        var set = GameDef.Sets[BoosterDef.SetNum];
+                        set = GameDef.Sets[BoosterDef.SetNum];
                         if (set == default)
                             return result;
 
@@ -157,7 +204,7 @@ namespace BoosterPackSimulator
                             {
                                 result[rarity].Add(card);
 
-                                if (rarity.Contains("Foil"))
+                                if (rarity.Contains("F"))
                                 {
                                     var randomDef = BoosterDef.RandomInsertions.Where(x => x.PoolName == rarity).FirstOrDefault();
                                     if (randomDef == null)

@@ -16,11 +16,11 @@
 		- describes each card (just an ID to use as a link to find the image)
 		~ All of the above done for:
 			+ FOTR
-			- MOM
-			- ROTEL
-			- TTT
-			- BOHD
-			- EOF
+			+ MOM
+			+ ROTEL
+			+ TTT
+			+ BOHD
+			+ EOF
 			- ROTK
 			- SOG
 			- RF
@@ -35,10 +35,20 @@
 			- T&D
 			- AE
 - Purchase Product
-	- Lists all booster products by set
-		- Starters worth it?
+	+ Lists all booster products by set
+		- need to add support for:
+			- starters
+			- draft boosters
+			- deluxe starters
+			- anthologies
+			- promo packs
 	+ Permits you to "buy" cases, boxes, or individual packs of product
 		+ prices are part of the json payload
+- Payload optimizations
+	- Current definitions are easily hitting a 15MB barrier, this needs drastically reduced
+	- Current definitions lead to extremely slow UI interaction
+	- Remove redundant object references in the object definitions, especially shared objects
+	- Consider moving some data into the internal db instead of local storage
 - Open Product
 	+ Displays how many of each type of box you have "purchased". 
 	+ Each product can be selected 

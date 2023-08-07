@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Components;
+﻿using Hjson;
+using Microsoft.AspNetCore.Components;
 using Microsoft.JSInterop;
 
 using Newtonsoft.Json;
@@ -76,7 +77,25 @@ namespace BoosterPackSimulator
         //Default list of GameDefinition json files that are loaded each startup.
         private List<string> Definitions = new List<string>
         {
-            "data/set01.json"
+            "data/set01.hjson",
+            "data/set02.hjson",
+            "data/set03.hjson",
+            "data/set04.hjson",
+            "data/set05.hjson",
+            "data/set06.hjson",
+            //"data/set07.hjson",
+            //"data/set08.hjson",
+            //"data/set09.hjson",
+            //"data/set10.hjson",
+            //"data/set11.hjson",
+            //"data/set12.hjson",
+            //"data/set13.hjson",
+            //"data/set14.hjson",
+            //"data/set15.hjson",
+            //"data/set16.hjson",
+            //"data/set17.hjson",
+            //"data/set18.hjson",
+            //"data/set19.hjson",
         };
 
         public async Task<(bool error, string result, GameDefinition gamedef)> LoadGameDefinitions()
@@ -102,13 +121,16 @@ namespace BoosterPackSimulator
                     foreach (var filename in Definitions)
                     {
                         var str = await Http.GetStringAsync(filename);
-                        var def = JsonConvert.DeserializeObject<GameDefinition>(str);
+                        var hjson = HjsonValue.Parse(str).ToString();
+                        var def = JsonConvert.DeserializeObject<GameDefinition>(hjson);
 
                         if (def == null)
                         {
                             result = "ERROR loading definition from server!";
                             break;
                         }
+
+
 
                         gamedef.InsertDefinition(def);
                     }

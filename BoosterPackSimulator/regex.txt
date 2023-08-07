@@ -1,0 +1,12 @@
+^(.*?)\t(.*?)\t(.*?)\t(.*?)\t(.*?)\t(.*?)\t(.*?)\t(.*?)\n
+
+{
+\tName: $4
+\tSet: $5
+\tRarity: $6
+\tNum: $7
+\tHoriz: $8
+\tWiki: $1
+\tEN_Image: $2
+\tEN_Foil: $3
+}\n

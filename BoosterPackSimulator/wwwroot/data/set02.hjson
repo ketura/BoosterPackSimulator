@@ -1,0 +1,1305 @@
+{
+	GameName: The Lord of the Rings Trading Card Game
+	LastUpdated: 2022-08-06T00:00:01Z
+
+	Sets: {
+		2: {
+			Name: Mines of Moria
+			SetNum: 2
+			FullFoils: true
+			Cards: [
+				{
+					Name: Beneath the Mountains
+					Set: 2
+					Rarity: R
+					Num: 1
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Beneath_the_Mountains_(2R1)
+					EN_Image: LOTR-EN02S001.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F001.0_card.jpg/353px-LOTR-EN02F001.0_card.jpg
+				}
+				{
+					Name: Disquiet of Our People
+					Set: 2
+					Rarity: C
+					Num: 2
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Disquiet_of_Our_People_(2C2)
+					EN_Image: LOTR-EN02S002.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F002.0_card.jpg/353px-LOTR-EN02F002.0_card.jpg
+				}
+				{
+					Name: Dwarven Bracers
+					Set: 2
+					Rarity: U
+					Num: 3
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Dwarven_Bracers_(2U3)
+					EN_Image: LOTR-EN02S003.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F003.0_card.jpg/353px-LOTR-EN02F003.0_card.jpg
+				}
+				{
+					Name: Endurance of Dwarves
+					Set: 2
+					Rarity: U
+					Num: 4
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Endurance_of_Dwarves_(2U4)
+					EN_Image: LOTR-EN02S004.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F004.0_card.jpg/353px-LOTR-EN02F004.0_card.jpg
+				}
+				{
+					Name: Flurry of Blows
+					Set: 2
+					Rarity: C
+					Num: 5
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Flurry_of_Blows_(2C5)
+					EN_Image: LOTR-EN02S005.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F005.0_card.jpg/353px-LOTR-EN02F005.0_card.jpg
+				}
+				{
+					Name: Frór, Gimli's Kinsman
+					Set: 2
+					Rarity: C
+					Num: 6
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Fror,_Gimli's_Kinsman_(2C6)
+					EN_Image: LOTR-EN02S006.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F006.0_card.jpg/353px-LOTR-EN02F006.0_card.jpg
+				}
+				{
+					Name: Glóin, Friend to Thorin
+					Set: 2
+					Rarity: R
+					Num: 7
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Gloin,_Friend_to_Thorin_(2R7)
+					EN_Image: LOTR-EN02S007.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F007.0_card.jpg/353px-LOTR-EN02F007.0_card.jpg
+				}
+				{
+					Name: Golden Light on the Land
+					Set: 2
+					Rarity: U
+					Num: 8
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Golden_Light_on_the_Land_(2U8)
+					EN_Image: LOTR-EN02S008.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F008.0_card.jpg/353px-LOTR-EN02F008.0_card.jpg
+				}
+				{
+					Name: Great Works Begun There
+					Set: 2
+					Rarity: C
+					Num: 9
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Great_Works_Begun_There_(2C9)
+					EN_Image: LOTR-EN02S009.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F009.0_card.jpg/353px-LOTR-EN02F009.0_card.jpg
+				}
+				{
+					Name: Hand Axe
+					Set: 2
+					Rarity: C
+					Num: 10
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Hand_Axe_(2C10)
+					EN_Image: LOTR-EN02S010.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F010.0_card.jpg/353px-LOTR-EN02F010.0_card.jpg
+				}
+				{
+					Name: Make Light of Burdens
+					Set: 2
+					Rarity: R
+					Num: 11
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Make_Light_of_Burdens_(2R11)
+					EN_Image: LOTR-EN02S011.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F011.0_card.jpg/353px-LOTR-EN02F011.0_card.jpg
+				}
+				{
+					Name: Realm of Dwarrowdelf
+					Set: 2
+					Rarity: R
+					Num: 12
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Realm_of_Dwarrowdelf_(2R12)
+					EN_Image: LOTR-EN02S012.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F012.0_card.jpg/353px-LOTR-EN02F012.0_card.jpg
+				}
+				{
+					Name: Tidings of Erebor
+					Set: 2
+					Rarity: U
+					Num: 13
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Tidings_of_Erebor_(2U13)
+					EN_Image: LOTR-EN02S013.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F013.0_card.jpg/353px-LOTR-EN02F013.0_card.jpg
+				}
+				{
+					Name: Till Durin Wakes Again
+					Set: 2
+					Rarity: C
+					Num: 14
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Till_Durin_Wakes_Again_(2C14)
+					EN_Image: LOTR-EN02S014.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F014.0_card.jpg/353px-LOTR-EN02F014.0_card.jpg
+				}
+				{
+					Name: What Are We Waiting For?
+					Set: 2
+					Rarity: R
+					Num: 15
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/What_Are_We_Waiting_For?_(2R15)
+					EN_Image: LOTR-EN02S015.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F015.0_card.jpg/353px-LOTR-EN02F015.0_card.jpg
+				}
+				{
+					Name: A Blended Race
+					Set: 2
+					Rarity: U
+					Num: 16
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/A_Blended_Race_(2U16)
+					EN_Image: LOTR-EN02S016.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F016.0_card.jpg/353px-LOTR-EN02F016.0_card.jpg
+				}
+				{
+					Name: Dismay Our Enemies
+					Set: 2
+					Rarity: U
+					Num: 17
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Dismay_Our_Enemies_(2U17)
+					EN_Image: LOTR-EN02S017.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F017.0_card.jpg/353px-LOTR-EN02F017.0_card.jpg
+				}
+				{
+					Name: Hosts of the Last Alliance
+					Set: 2
+					Rarity: U
+					Num: 18
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Hosts_of_the_Last_Alliance_(2U18)
+					EN_Image: LOTR-EN02S018.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F018.0_card.jpg/353px-LOTR-EN02F018.0_card.jpg
+				}
+				{
+					Name: Release the Angry Flood
+					Set: 2
+					Rarity: R
+					Num: 19
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Release_the_Angry_Flood_(2R19)
+					EN_Image: LOTR-EN02S019.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F019.0_card.jpg/353px-LOTR-EN02F019.0_card.jpg
+				}
+				{
+					Name: Secret Sentinels
+					Set: 2
+					Rarity: R
+					Num: 20
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Secret_Sentinels_(2R20)
+					EN_Image: LOTR-EN02S020.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F020.0_card.jpg/353px-LOTR-EN02F020.0_card.jpg
+				}
+				{
+					Name: Erland, Advisor to Brand
+					Set: 2
+					Rarity: C
+					Num: 21
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Erland,_Advisor_to_Brand_(2C21)
+					EN_Image: LOTR-EN02S021.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F021.0_card.jpg/353px-LOTR-EN02F021.0_card.jpg
+				}
+				{
+					Name: Gandalf's Staff
+					Set: 2
+					Rarity: R
+					Num: 22
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Gandalf's_Staff_(2R22)
+					EN_Image: LOTR-EN02S022.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F022.0_card.jpg/353px-LOTR-EN02F022.0_card.jpg
+				}
+				{
+					Name: Gandalf's Wisdom
+					Set: 2
+					Rarity: C
+					Num: 23
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Gandalf's_Wisdom_(2C23)
+					EN_Image: LOTR-EN02S023.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F023.0_card.jpg/353px-LOTR-EN02F023.0_card.jpg
+				}
+				{
+					Name: Hugin, Emissary from Laketown
+					Set: 2
+					Rarity: C
+					Num: 24
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Hugin,_Emissary_from_Laketown_(2C24)
+					EN_Image: LOTR-EN02S024.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F024.0_card.jpg/353px-LOTR-EN02F024.0_card.jpg
+				}
+				{
+					Name: Járnsmid, Merchant from Dale
+					Set: 2
+					Rarity: R
+					Num: 25
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Jarnsmid,_Merchant_from_Dale_(2R25)
+					EN_Image: LOTR-EN02S025.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F025.0_card.jpg/353px-LOTR-EN02F025.0_card.jpg
+				}
+				{
+					Name: Speak “Friend” and Enter
+					Set: 2
+					Rarity: C
+					Num: 26
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Speak_`Friend`_and_Enter_(2C26)
+					EN_Image: LOTR-EN02S026.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F026.0_card.jpg/353px-LOTR-EN02F026.0_card.jpg
+				}
+				{
+					Name: Staff Asunder
+					Set: 2
+					Rarity: R
+					Num: 27
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Staff_Asunder_(2R27)
+					EN_Image: LOTR-EN02S027.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F027.0_card.jpg/353px-LOTR-EN02F027.0_card.jpg
+				}
+				{
+					Name: Wielder of the Flame
+					Set: 2
+					Rarity: U
+					Num: 28
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Wielder_of_the_Flame_(2U28)
+					EN_Image: LOTR-EN02S028.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F028.0_card.jpg/353px-LOTR-EN02F028.0_card.jpg
+				}
+				{
+					Name: Wizard Staff
+					Set: 2
+					Rarity: C
+					Num: 29
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Wizard_Staff_(2C29)
+					EN_Image: LOTR-EN02S029.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F029.0_card.jpg/353px-LOTR-EN02F029.0_card.jpg
+				}
+				{
+					Name: You Cannot Pass!
+					Set: 2
+					Rarity: U
+					Num: 30
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/You_Cannot_Pass!_(2U30)
+					EN_Image: LOTR-EN02S030.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F030.0_card.jpg/353px-LOTR-EN02F030.0_card.jpg
+				}
+				{
+					Name: Blood of Númenor
+					Set: 2
+					Rarity: U
+					Num: 31
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Blood_of_Numenor_(2U31)
+					EN_Image: LOTR-EN02S031.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F031.0_card.jpg/353px-LOTR-EN02F031.0_card.jpg
+				}
+				{
+					Name: Flaming Brand
+					Set: 2
+					Rarity: R
+					Num: 32
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Flaming_Brand_(2R32)
+					EN_Image: LOTR-EN02S032.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F032.0_card.jpg/353px-LOTR-EN02F032.0_card.jpg
+				}
+				{
+					Name: Flee in Terror
+					Set: 2
+					Rarity: U
+					Num: 33
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Flee_in_Terror_(2U33)
+					EN_Image: LOTR-EN02S033.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F033.0_card.jpg/353px-LOTR-EN02F033.0_card.jpg
+				}
+				{
+					Name: Gondor Will See It Done
+					Set: 2
+					Rarity: U
+					Num: 34
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Gondor_Will_See_It_Done_(2U34)
+					EN_Image: LOTR-EN02S034.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F034.0_card.jpg/353px-LOTR-EN02F034.0_card.jpg
+				}
+				{
+					Name: Natural Cover
+					Set: 2
+					Rarity: C
+					Num: 35
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Natural_Cover_(2C35)
+					EN_Image: LOTR-EN02S035.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F035.0_card.jpg/353px-LOTR-EN02F035.0_card.jpg
+				}
+				{
+					Name: No Mere Ranger
+					Set: 2
+					Rarity: R
+					Num: 36
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/No_Mere_Ranger_(2R36)
+					EN_Image: LOTR-EN02S036.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F036.0_card.jpg/353px-LOTR-EN02F036.0_card.jpg
+				}
+				{
+					Name: Sentinels of Númenor
+					Set: 2
+					Rarity: C
+					Num: 37
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Sentinels_of_Numenor_(2C37)
+					EN_Image: LOTR-EN02S037.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F037.0_card.jpg/353px-LOTR-EN02F037.0_card.jpg
+				}
+				{
+					Name: Shield of Boromir
+					Set: 2
+					Rarity: R
+					Num: 38
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Shield_of_Boromir_(2R38)
+					EN_Image: LOTR-EN02S038.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F038.0_card.jpg/353px-LOTR-EN02F038.0_card.jpg
+				}
+				{
+					Name: Beyond the Height of Men
+					Set: 2
+					Rarity: R
+					Num: 39
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Beyond_the_Height_of_Men_(2R39)
+					EN_Image: LOTR-EN02S039.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F039.0_card.jpg/353px-LOTR-EN02F039.0_card.jpg
+				}
+				{
+					Name: Demands of the Sackville-Bagginses
+					Set: 2
+					Rarity: C
+					Num: 40
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Demands_of_the_Sackville-Bagginses_(2C40)
+					EN_Image: LOTR-EN02S040.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F040.0_card.jpg/353px-LOTR-EN02F040.0_card.jpg
+				}
+				{
+					Name: Evil Afoot
+					Set: 2
+					Rarity: U
+					Num: 41
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Evil_Afoot_(2U41)
+					EN_Image: LOTR-EN02S041.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F041.0_card.jpg/353px-LOTR-EN02F041.0_card.jpg
+				}
+				{
+					Name: Goblin Man
+					Set: 2
+					Rarity: C
+					Num: 42
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Goblin_Man_(2C42)
+					EN_Image: LOTR-EN02S042.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F042.0_card.jpg/353px-LOTR-EN02F042.0_card.jpg
+				}
+				{
+					Name: Lurtz's Sword
+					Set: 2
+					Rarity: R
+					Num: 43
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Lurtz's_Sword_(2R43)
+					EN_Image: LOTR-EN02S043.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F043.0_card.jpg/353px-LOTR-EN02F043.0_card.jpg
+				}
+				{
+					Name: No Business of Ours
+					Set: 2
+					Rarity: C
+					Num: 44
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/No_Business_of_Ours_(2C44)
+					EN_Image: LOTR-EN02S044.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F044.0_card.jpg/353px-LOTR-EN02F044.0_card.jpg
+				}
+				{
+					Name: Too Much Attention
+					Set: 2
+					Rarity: R
+					Num: 45
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Too_Much_Attention_(2R45)
+					EN_Image: LOTR-EN02S045.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F045.0_card.jpg/353px-LOTR-EN02F045.0_card.jpg
+				}
+				{
+					Name: Uruk Captain
+					Set: 2
+					Rarity: R
+					Num: 46
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Uruk_Captain_(2R46)
+					EN_Image: LOTR-EN02S046.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F046.0_card.jpg/353px-LOTR-EN02F046.0_card.jpg
+				}
+				{
+					Name: Uruk Scout
+					Set: 2
+					Rarity: C
+					Num: 47
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Uruk_Scout_(2C47)
+					EN_Image: LOTR-EN02S047.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F047.0_card.jpg/353px-LOTR-EN02F047.0_card.jpg
+				}
+				{
+					Name: Wizard Storm
+					Set: 2
+					Rarity: U
+					Num: 48
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Wizard_Storm_(2U48)
+					EN_Image: LOTR-EN02S048.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F048.0_card.jpg/353px-LOTR-EN02F048.0_card.jpg
+				}
+				{
+					Name: Archer Commander
+					Set: 2
+					Rarity: R
+					Num: 49
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Archer_Commander_(2R49)
+					EN_Image: LOTR-EN02S049.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F049.0_card.jpg/353px-LOTR-EN02F049.0_card.jpg
+				}
+				{
+					Name: The Balrog's Sword
+					Set: 2
+					Rarity: R
+					Num: 50
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/The_Balrog's_Sword_(2R50)
+					EN_Image: LOTR-EN02S050.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F050.0_card.jpg/353px-LOTR-EN02F050.0_card.jpg
+				}
+				{
+					Name: The Balrog, Durin's Bane
+					Set: 2
+					Rarity: C
+					Num: 51
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/The_Balrog,_Durin's_Bane_(2C51)
+					EN_Image: LOTR-EN02S051.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F051.0_card.jpg/353px-LOTR-EN02F051.0_card.jpg
+				}
+				{
+					Name: The Balrog, Flame of Udun
+					Set: 2
+					Rarity: R
+					Num: 52
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/The_Balrog,_Flame_of_Udun_(2R52)
+					EN_Image: LOTR-EN02S052.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F052.0_card.jpg/353px-LOTR-EN02F052.0_card.jpg
+				}
+				{
+					Name: Cave Troll's Chain
+					Set: 2
+					Rarity: R
+					Num: 53
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Cave_Troll's_Chain_(2R53)
+					EN_Image: LOTR-EN02S053.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F053.0_card.jpg/353px-LOTR-EN02F053.0_card.jpg
+				}
+				{
+					Name: Dark Fire
+					Set: 2
+					Rarity: U
+					Num: 54
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Dark_Fire_(2U54)
+					EN_Image: LOTR-EN02S054.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F054.0_card.jpg/353px-LOTR-EN02F054.0_card.jpg
+				}
+				{
+					Name: Dark Places
+					Set: 2
+					Rarity: C
+					Num: 55
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Dark_Places_(2C55)
+					EN_Image: LOTR-EN02S055.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F055.0_card.jpg/353px-LOTR-EN02F055.0_card.jpg
+				}
+				{
+					Name: Fill With Fear
+					Set: 2
+					Rarity: U
+					Num: 56
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Fill_With_Fear_(2U56)
+					EN_Image: LOTR-EN02S056.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F056.0_card.jpg/353px-LOTR-EN02F056.0_card.jpg
+				}
+				{
+					Name: Final Cry
+					Set: 2
+					Rarity: R
+					Num: 57
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Final_Cry_(2R57)
+					EN_Image: LOTR-EN02S057.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F057.0_card.jpg/353px-LOTR-EN02F057.0_card.jpg
+				}
+				{
+					Name: Foul Tentacle
+					Set: 2
+					Rarity: C
+					Num: 58
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Foul_Tentacle_(2C58)
+					EN_Image: LOTR-EN02S058.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F058.0_card.jpg/353px-LOTR-EN02F058.0_card.jpg
+				}
+				{
+					Name: Foul Things
+					Set: 2
+					Rarity: U
+					Num: 59
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Foul_Things_(2U59)
+					EN_Image: LOTR-EN02S059.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F059.0_card.jpg/353px-LOTR-EN02F059.0_card.jpg
+				}
+				{
+					Name: Goblin Bowman
+					Set: 2
+					Rarity: C
+					Num: 60
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Goblin_Bowman_(2C60)
+					EN_Image: LOTR-EN02S060.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F060.0_card.jpg/353px-LOTR-EN02F060.0_card.jpg
+				}
+				{
+					Name: Goblin Flankers
+					Set: 2
+					Rarity: C
+					Num: 61
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Goblin_Flankers_(2C61)
+					EN_Image: LOTR-EN02S061.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F061.0_card.jpg/353px-LOTR-EN02F061.0_card.jpg
+				}
+				{
+					Name: Goblin Pursuer
+					Set: 2
+					Rarity: C
+					Num: 62
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Goblin_Pursuer_(2C62)
+					EN_Image: LOTR-EN02S062.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F062.0_card.jpg/353px-LOTR-EN02F062.0_card.jpg
+				}
+				{
+					Name: Goblin Reinforcements
+					Set: 2
+					Rarity: C
+					Num: 63
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Goblin_Reinforcements_(2C63)
+					EN_Image: LOTR-EN02S063.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F063.0_card.jpg/353px-LOTR-EN02F063.0_card.jpg
+				}
+				{
+					Name: Goblin Scrabbler
+					Set: 2
+					Rarity: C
+					Num: 64
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Goblin_Scrabbler_(2C64)
+					EN_Image: LOTR-EN02S064.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F064.0_card.jpg/353px-LOTR-EN02F064.0_card.jpg
+				}
+				{
+					Name: Goblin Spearman
+					Set: 2
+					Rarity: C
+					Num: 65
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Goblin_Spearman_(2C65)
+					EN_Image: LOTR-EN02S065.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F065.0_card.jpg/353px-LOTR-EN02F065.0_card.jpg
+				}
+				{
+					Name: Huge Tentacle
+					Set: 2
+					Rarity: R
+					Num: 66
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Huge_Tentacle_(2R66)
+					EN_Image: LOTR-EN02S066.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F066.0_card.jpg/353px-LOTR-EN02F066.0_card.jpg
+				}
+				{
+					Name: Moria Archer Troop
+					Set: 2
+					Rarity: U
+					Num: 67
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Moria_Archer_Troop_(2U67)
+					EN_Image: LOTR-EN02S067.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F067.0_card.jpg/353px-LOTR-EN02F067.0_card.jpg
+				}
+				{
+					Name: Must Do Without Hope
+					Set: 2
+					Rarity: U
+					Num: 68
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Must_Do_Without_Hope_(2U68)
+					EN_Image: LOTR-EN02S068.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F068.0_card.jpg/353px-LOTR-EN02F068.0_card.jpg
+				}
+				{
+					Name: Old Differences
+					Set: 2
+					Rarity: C
+					Num: 69
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Old_Differences_(2C69)
+					EN_Image: LOTR-EN02S069.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F069.0_card.jpg/353px-LOTR-EN02F069.0_card.jpg
+				}
+				{
+					Name: Power and Terror
+					Set: 2
+					Rarity: U
+					Num: 70
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Power_and_Terror_(2U70)
+					EN_Image: LOTR-EN02S070.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F070.0_card.jpg/353px-LOTR-EN02F070.0_card.jpg
+				}
+				{
+					Name: Throw Yourself in Next Time
+					Set: 2
+					Rarity: U
+					Num: 71
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Throw_Yourself_in_Next_Time_(2U71)
+					EN_Image: LOTR-EN02S071.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F071.0_card.jpg/353px-LOTR-EN02F071.0_card.jpg
+				}
+				{
+					Name: Troubled Mountains
+					Set: 2
+					Rarity: U
+					Num: 72
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Troubled_Mountains_(2U72)
+					EN_Image: LOTR-EN02S072.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F072.0_card.jpg/353px-LOTR-EN02F072.0_card.jpg
+				}
+				{
+					Name: Watcher in the Water, Keeper of Westgate
+					Set: 2
+					Rarity: R
+					Num: 73
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Watcher_in_the_Water,_Keeper_of_Westgate_(2R73)
+					EN_Image: LOTR-EN02S073.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F073.0_card.jpg/353px-LOTR-EN02F073.0_card.jpg
+				}
+				{
+					Name: Whip of Many Thongs
+					Set: 2
+					Rarity: R
+					Num: 74
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Whip_of_Many_Thongs_(2R74)
+					EN_Image: LOTR-EN02S074.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F074.0_card.jpg/353px-LOTR-EN02F074.0_card.jpg
+				}
+				{
+					Name: Bill Ferny, Swarthy Sneering Fellow
+					Set: 2
+					Rarity: R
+					Num: 75
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Bill_Ferny,_Swarthy_Sneering_Fellow_(2R75)
+					EN_Image: LOTR-EN02S075.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F075.0_card.jpg/353px-LOTR-EN02F075.0_card.jpg
+				}
+				{
+					Name: Helpless
+					Set: 2
+					Rarity: U
+					Num: 76
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Helpless_(2U76)
+					EN_Image: LOTR-EN02S076.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F076.0_card.jpg/353px-LOTR-EN02F076.0_card.jpg
+				}
+				{
+					Name: His Terrible Servants
+					Set: 2
+					Rarity: R
+					Num: 77
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/His_Terrible_Servants_(2R77)
+					EN_Image: LOTR-EN02S077.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F077.0_card.jpg/353px-LOTR-EN02F077.0_card.jpg
+				}
+				{
+					Name: It Wants to be Found
+					Set: 2
+					Rarity: U
+					Num: 78
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/It_Wants_to_be_Found_(2U78)
+					EN_Image: LOTR-EN02S078.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F078.0_card.jpg/353px-LOTR-EN02F078.0_card.jpg
+				}
+				{
+					Name: Resistance Becomes Unbearable
+					Set: 2
+					Rarity: U
+					Num: 79
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Resistance_Becomes_Unbearable_(2U79)
+					EN_Image: LOTR-EN02S079.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F079.0_card.jpg/353px-LOTR-EN02F079.0_card.jpg
+				}
+				{
+					Name: Stricken Dumb
+					Set: 2
+					Rarity: R
+					Num: 80
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Stricken_Dumb_(2R80)
+					EN_Image: LOTR-EN02S080.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F080.0_card.jpg/353px-LOTR-EN02F080.0_card.jpg
+				}
+				{
+					Name: They Will Find the Ring
+					Set: 2
+					Rarity: U
+					Num: 81
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/They_Will_Find_the_Ring_(2U81)
+					EN_Image: LOTR-EN02S081.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F081.0_card.jpg/353px-LOTR-EN02F081.0_card.jpg
+				}
+				{
+					Name: Úlairë Attëa, The Easterling
+					Set: 2
+					Rarity: U
+					Num: 82
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Ulaire_Attea,_The_Easterling_(2U82)
+					EN_Image: LOTR-EN02S082.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F082.0_card.jpg/353px-LOTR-EN02F082.0_card.jpg
+				}
+				{
+					Name: Úlairë Enquëa, Ringwraith in Twilight
+					Set: 2
+					Rarity: U
+					Num: 83
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Ulaire_Enquea,_Ringwraith_in_Twilight_(2U83)
+					EN_Image: LOTR-EN02S083.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F083.0_card.jpg/353px-LOTR-EN02F083.0_card.jpg
+				}
+				{
+					Name: Úlairë Nelya, Ringwraith in Twilight
+					Set: 2
+					Rarity: R
+					Num: 84
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Ulaire_Nelya,_Ringwraith_in_Twilight_(2R84)
+					EN_Image: LOTR-EN02S084.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F084.0_card.jpg/353px-LOTR-EN02F084.0_card.jpg
+				}
+				{
+					Name: The Witch-king, Lord of the Nazgul
+					Set: 2
+					Rarity: R
+					Num: 85
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/The_Witch-king,_Lord_of_the_Nazgul_(2R85)
+					EN_Image: LOTR-EN02S085.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F085.0_card.jpg/353px-LOTR-EN02F085.0_card.jpg
+				}
+				{
+					Name: Wraith-world
+					Set: 2
+					Rarity: R
+					Num: 86
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Wraith-world_(2R86)
+					EN_Image: LOTR-EN02S086.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F086.0_card.jpg/353px-LOTR-EN02F086.0_card.jpg
+				}
+				{
+					Name: The Eye of Sauron
+					Set: 2
+					Rarity: U
+					Num: 87
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/The_Eye_of_Sauron_(2U87)
+					EN_Image: LOTR-EN02S087.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F087.0_card.jpg/353px-LOTR-EN02F087.0_card.jpg
+				}
+				{
+					Name: Memory of Many Things
+					Set: 2
+					Rarity: C
+					Num: 88
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Memory_of_Many_Things_(2C88)
+					EN_Image: LOTR-EN02S088.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F088.0_card.jpg/353px-LOTR-EN02F088.0_card.jpg
+				}
+				{
+					Name: Orc Scout
+					Set: 2
+					Rarity: C
+					Num: 89
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Orc_Scout_(2C89)
+					EN_Image: LOTR-EN02S089.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F089.0_card.jpg/353px-LOTR-EN02F089.0_card.jpg
+				}
+				{
+					Name: Orc Taskmaster
+					Set: 2
+					Rarity: C
+					Num: 90
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Orc_Taskmaster_(2C90)
+					EN_Image: LOTR-EN02S090.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F090.0_card.jpg/353px-LOTR-EN02F090.0_card.jpg
+				}
+				{
+					Name: Southern Spies
+					Set: 2
+					Rarity: C
+					Num: 91
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Southern_Spies_(2C91)
+					EN_Image: LOTR-EN02S091.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F091.0_card.jpg/353px-LOTR-EN02F091.0_card.jpg
+				}
+				{
+					Name: Spies of Mordor
+					Set: 2
+					Rarity: U
+					Num: 92
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Spies_of_Mordor_(2U92)
+					EN_Image: LOTR-EN02S092.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F092.0_card.jpg/353px-LOTR-EN02F092.0_card.jpg
+				}
+				{
+					Name: Tower Assassin
+					Set: 2
+					Rarity: R
+					Num: 93
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Tower_Assassin_(2R93)
+					EN_Image: LOTR-EN02S093.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F093.0_card.jpg/353px-LOTR-EN02F093.0_card.jpg
+				}
+				{
+					Name: Verily I Come
+					Set: 2
+					Rarity: R
+					Num: 94
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Verily_I_Come_(2R94)
+					EN_Image: LOTR-EN02S094.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F094.0_card.jpg/353px-LOTR-EN02F094.0_card.jpg
+				}
+				{
+					Name: Vile Blade
+					Set: 2
+					Rarity: C
+					Num: 95
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Vile_Blade_(2C95)
+					EN_Image: LOTR-EN02S095.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F095.0_card.jpg/353px-LOTR-EN02F095.0_card.jpg
+				}
+				{
+					Name: Bilbo, Well-spoken Gentlehobbit
+					Set: 2
+					Rarity: U
+					Num: 96
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Bilbo,_Well-spoken_Gentlehobbit_(2U96)
+					EN_Image: LOTR-EN02S096.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F096.0_card.jpg/353px-LOTR-EN02F096.0_card.jpg
+				}
+				{
+					Name: Consorting With Wizards
+					Set: 2
+					Rarity: R
+					Num: 97
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Consorting_With_Wizards_(2R97)
+					EN_Image: LOTR-EN02S097.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F097.0_card.jpg/353px-LOTR-EN02F097.0_card.jpg
+				}
+				{
+					Name: Dear Friends
+					Set: 2
+					Rarity: U
+					Num: 98
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Dear_Friends_(2U98)
+					EN_Image: LOTR-EN02S098.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F098.0_card.jpg/353px-LOTR-EN02F098.0_card.jpg
+				}
+				{
+					Name: Deft in Their Movements
+					Set: 2
+					Rarity: C
+					Num: 99
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Deft_in_Their_Movements_(2C99)
+					EN_Image: LOTR-EN02S099.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F099.0_card.jpg/353px-LOTR-EN02F099.0_card.jpg
+				}
+				{
+					Name: Fearing the Worst
+					Set: 2
+					Rarity: R
+					Num: 100
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Fearing_the_Worst_(2R100)
+					EN_Image: LOTR-EN02S100.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F100.0_card.jpg/353px-LOTR-EN02F100.0_card.jpg
+				}
+				{
+					Name: Filibert Bolger, Wily Rascal
+					Set: 2
+					Rarity: C
+					Num: 101
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Filibert_Bolger,_Wily_Rascal_(2C101)
+					EN_Image: LOTR-EN02S101.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F101.0_card.jpg/353px-LOTR-EN02F101.0_card.jpg
+				}
+				{
+					Name: Frodo, Reluctant Adventurer
+					Set: 2
+					Rarity: C
+					Num: 102
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Frodo,_Reluctant_Adventurer_(2C102)
+					EN_Image: LOTR-EN02S102.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F102.0_card.jpg/353px-LOTR-EN02F102.0_card.jpg
+				}
+				{
+					Name: Hobbit Sword-play
+					Set: 2
+					Rarity: U
+					Num: 103
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Hobbit_Sword-play_(2U103)
+					EN_Image: LOTR-EN02S103.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F103.0_card.jpg/353px-LOTR-EN02F103.0_card.jpg
+				}
+				{
+					Name: Merry, Horticulturalist
+					Set: 2
+					Rarity: C
+					Num: 104
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Merry,_Horticulturalist_(2C104)
+					EN_Image: LOTR-EN02S104.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F104.0_card.jpg/353px-LOTR-EN02F104.0_card.jpg
+				}
+				{
+					Name: Mithril-coat
+					Set: 2
+					Rarity: R
+					Num: 105
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Mithril-coat_(2R105)
+					EN_Image: LOTR-EN02S105.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F105.0_card.jpg/353px-LOTR-EN02F105.0_card.jpg
+				}
+				{
+					Name: Nice Imitation
+					Set: 2
+					Rarity: U
+					Num: 106
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Nice_Imitation_(2U106)
+					EN_Image: LOTR-EN02S106.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F106.0_card.jpg/353px-LOTR-EN02F106.0_card.jpg
+				}
+				{
+					Name: Not Feared in Sunlight
+					Set: 2
+					Rarity: U
+					Num: 107
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Not_Feared_in_Sunlight_(2U107)
+					EN_Image: LOTR-EN02S107.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F107.0_card.jpg/353px-LOTR-EN02F107.0_card.jpg
+				}
+				{
+					Name: O Elbereth! Gilthoniel!
+					Set: 2
+					Rarity: R
+					Num: 108
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/O_Elbereth!_Gilthoniel!_(2R108)
+					EN_Image: LOTR-EN02S108.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F108.0_card.jpg/353px-LOTR-EN02F108.0_card.jpg
+				}
+				{
+					Name: Orc-bane
+					Set: 2
+					Rarity: R
+					Num: 109
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Orc-bane_(2R109)
+					EN_Image: LOTR-EN02S109.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F109.0_card.jpg/353px-LOTR-EN02F109.0_card.jpg
+				}
+				{
+					Name: Pippin, Mr. Took
+					Set: 2
+					Rarity: C
+					Num: 110
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Pippin,_Mr._Took_(2C110)
+					EN_Image: LOTR-EN02S110.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F110.0_card.jpg/353px-LOTR-EN02F110.0_card.jpg
+				}
+				{
+					Name: Practically Everyone Was Invited
+					Set: 2
+					Rarity: U
+					Num: 111
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Practically_Everyone_Was_Invited_(2U111)
+					EN_Image: LOTR-EN02S111.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F111.0_card.jpg/353px-LOTR-EN02F111.0_card.jpg
+				}
+				{
+					Name: A Promise
+					Set: 2
+					Rarity: R
+					Num: 112
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/A_Promise_(2R112)
+					EN_Image: LOTR-EN02S112.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F112.0_card.jpg/353px-LOTR-EN02F112.0_card.jpg
+				}
+				{
+					Name: Red Book of Westmarch
+					Set: 2
+					Rarity: R
+					Num: 113
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Red_Book_of_Westmarch_(2R113)
+					EN_Image: LOTR-EN02S113.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F113.0_card.jpg/353px-LOTR-EN02F113.0_card.jpg
+				}
+				{
+					Name: Sam, Proper Poet
+					Set: 2
+					Rarity: C
+					Num: 114
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Sam,_Proper_Poet_(2C114)
+					EN_Image: LOTR-EN02S114.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F114.0_card.jpg/353px-LOTR-EN02F114.0_card.jpg
+				}
+				{
+					Name: Hobbiton Party Field
+					Set: 2
+					Rarity: U
+					Num: 115
+					Horiz: true
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Hobbiton_Party_Field_(2U115)
+					EN_Image: LOTR-EN02S115.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F115.0_card.jpg/353px-LOTR-EN02F115.0_card.jpg
+				}
+				{
+					Name: Hobbiton Woods
+					Set: 2
+					Rarity: U
+					Num: 116
+					Horiz: true
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Hobbiton_Woods_(2U116)
+					EN_Image: LOTR-EN02S116.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F116.0_card.jpg/353px-LOTR-EN02F116.0_card.jpg
+				}
+				{
+					Name: Town Center
+					Set: 2
+					Rarity: C
+					Num: 117
+					Horiz: true
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Town_Center_(2C117)
+					EN_Image: LOTR-EN02S117.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F117.0_card.jpg/353px-LOTR-EN02F117.0_card.jpg
+				}
+				{
+					Name: Great Chasm
+					Set: 2
+					Rarity: U
+					Num: 118
+					Horiz: true
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Great_Chasm_(2U118)
+					EN_Image: LOTR-EN02S118.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F118.0_card.jpg/353px-LOTR-EN02F118.0_card.jpg
+				}
+				{
+					Name: Hollin
+					Set: 2
+					Rarity: C
+					Num: 119
+					Horiz: true
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Hollin_(2C119)
+					EN_Image: LOTR-EN02S119.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F119.0_card.jpg/353px-LOTR-EN02F119.0_card.jpg
+				}
+				{
+					Name: Valley of the Silverlode
+					Set: 2
+					Rarity: U
+					Num: 120
+					Horiz: true
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Valley_of_the_Silverlode_(2U120)
+					EN_Image: LOTR-EN02S120.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F120.0_card.jpg/353px-LOTR-EN02F120.0_card.jpg
+				}
+				{
+					Name: Gimli, Dwarf of the Mountain-race
+					Set: 2
+					Rarity: P
+					Num: 121
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Gimli,_Dwarf_of_the_Mountain-race_(2P121)
+					EN_Image: LOTR-EN02S121.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F121.0_card.jpg/353px-LOTR-EN02F121.0_card.jpg
+				}
+				{
+					Name: Gandalf, The Grey Pilgrim
+					Set: 2
+					Rarity: P
+					Num: 122
+					Horiz: false
+					Wiki: https://wiki.lotrtcgpc.net/wiki/Gandalf,_The_Grey_Pilgrim_(2P122)
+					EN_Image: LOTR-EN02S122.0_card.jpg
+					EN_Foil: thumb/LOTR-EN02F122.0_card.jpg/353px-LOTR-EN02F122.0_card.jpg
+				}
+			]
+			Sheets: {
+				C: [
+					1C58
+					1C306
+					1C281
+					1C144
+					1C7
+					1C168
+					1C116
+					1C326
+					1C141
+					1C39
+					1C294
+					1C146
+				]
+				U: [
+				]
+				R: [
+				]
+			}
+		}
+	}
+	CaseDefinitions: {
+		2: {
+			SetNum: 2
+			Count: 12
+			Price: 1200
+			Filename: 00-case.jpg
+			DisplayBox: {
+				Count: 36
+				Price: 100
+				Filename: 02-box.jpg
+				BoosterDefinition: {
+					BoosterType: MovieUnsorted
+					Price: 2.77
+					Filename: 02-booster.jpg
+					RaritySlots: [
+						U
+						U
+						U
+						R
+						C
+						C
+						C
+						C
+						C
+						C
+						C
+					]
+					RandomInsertions: [
+						{
+							PoolName: CF
+							Period: 13
+							PoolReplaceName: C
+							PoolReplaceIndex: 1
+						}
+						{
+							PoolName: UF
+							Period: 18
+							PoolReplaceName: C
+							PoolReplaceIndex: 2
+						}
+						{
+							PoolName: RF
+							Period: 26
+							PoolReplaceName: C
+							PoolReplaceIndex: 3
+						}
+					]
+				}
+			}
+		}
+	}
+}

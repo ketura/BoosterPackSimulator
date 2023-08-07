@@ -25,7 +25,29 @@ namespace BoosterPackSimulator
 
             foreach(var pair in other.Sets)
             {
-                this.Sets.Add(pair.Key, pair.Value);
+                var set = pair.Value;
+
+                if(set.FullFoils)
+                {
+                    foreach (var card in set.Cards)
+                    {
+                        var rarity = card.Rarity;
+                        var foilRarity = card.Rarity + "F";
+                        if (!set.CardPools.ContainsKey(rarity))
+                        {
+                            set.CardPools[rarity] = new List<CardDefinition>();
+                        }
+                        if (!set.CardPools.ContainsKey(foilRarity))
+                        {
+                            set.CardPools[foilRarity] = new List<CardDefinition>();
+                        }
+
+                        set.CardPools[rarity].Add(card);
+                        set.CardPools[foilRarity].Add(card.GetFoilVariant());
+                    }
+                }
+                
+                this.Sets.Add(pair.Key, set);
             }
 
             foreach(var def in other.CaseDefinitions)
@@ -86,6 +108,7 @@ namespace BoosterPackSimulator
     public enum BoosterType
     {
         Movie,
+        MovieUnsorted,
         Shadows,
         PostShadows,
         Reflections,
@@ -108,6 +131,7 @@ namespace BoosterPackSimulator
         public string Description { get; set; } = "";
         public float Price { get; set; }
         public List<IProduct> Products { get; set; } = new List<IProduct>();
+        public string Variant => "";
     }
 
     public class RandomDistribution 
@@ -132,6 +156,7 @@ namespace BoosterPackSimulator
         public string Description { get; set; } = "";
         public float Price { get; set; }
         public List<IProduct> Products { get; set; } = new List<IProduct>();
+        public string Variant => "";
     }
 
     public class BoosterDefinition : IProduct
@@ -151,6 +176,7 @@ namespace BoosterPackSimulator
         public List<IProduct> Products { get; set; } = new List<IProduct>();
         public List<RandomDistribution> RandomInsertions { get; set; } = new List<RandomDistribution>();
 
+        public string Variant => "";
     }
 
     public class CardDefinition : IProduct
@@ -158,14 +184,56 @@ namespace BoosterPackSimulator
         public string Name { get; set; } = "";
         [JsonConverter(typeof(StringEnumConverter))]
         public ProductType ProductType => ProductType.Card;
-        public string CollInfo { get; set; } = "";
-        public string Variant { get; set; } = "";
-        public string Filename { get; set; } = "";
+        public string CollInfo => $"{Set}{Rarity}{Num}";
+        public string Set { get; set; } = "";
+        public string Rarity { get; set; } = "";
+        public string Num { get; set; } = "";
         public bool Horiz { get; set; } = false;
+
+        [JsonProperty("EN_Image")]
+        public string ImageURL { get; set; } = "";
+
+        [JsonProperty("EN_Foil")]
+        public string FoilURL { get; set; } = "";
+
+        public string Variant { get; set; } = "S";
+
+        public string Filename
+        {
+            get
+            {
+                switch (Variant.ToUpper())
+                {
+                    case "S":
+                        return ImageURL;
+                    case "F":
+                        return FoilURL;
+                    default:
+                        return "";
+                }
+            }
+        }
 
         public string Description => $"{Name} ({CollInfo}) [{GetFullVariant(Variant)}]";
         public float Price { get; set; }
         public List<IProduct> Products { get; set; } = new List<IProduct>();
+
+        public CardDefinition GetFoilVariant()
+        {
+            return new CardDefinition()
+            {
+                Name = this.Name,
+                Set = this.Set,
+                Rarity = this.Rarity,
+                Num = this.Num,
+                Horiz = this.Horiz,
+                ImageURL = this.ImageURL,
+                FoilURL = this.FoilURL,
+                Price = this.Price,
+                Products = this.Products,
+                Variant = "F"
+            };
+        }
 
         public static string GetFullVariant(string abbr)
         {
@@ -185,6 +253,9 @@ namespace BoosterPackSimulator
     {
         public string Name { get; set; } = "";
         public int SetNum { get; set; }
+        public bool FullFoils { get; set; } = true;
+        public List<CardDefinition> Cards { get; set; } = new List<CardDefinition>();
+        public Dictionary<string, List<string>> Sheets { get; set; } = new Dictionary<string, List<string>>();
         public Dictionary<string, List<CardDefinition>> CardPools { get; set; } = new Dictionary<string, List<CardDefinition>>();
     }
 
